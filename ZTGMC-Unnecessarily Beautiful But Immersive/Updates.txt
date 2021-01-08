@@ -1,0 +1,126 @@
+
+ Unnecessarily Beautiful But Immersive
+ The Unnecessary But Beautiful 19.2b4 Rebuild
+ Updates Log 1.2.7
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - UBBI UPDATE 1.2.0 -
+ ==============
+ 
+ BEDROLL FEATURE:
+ =======
+
+ Added bedroll features to three beds added by UBBI. Specifically, players will now be able utilize the big bed and small bed from the Bedroom Furniture set and the Garden Bed from the Pool/Outdoor Furniture recipes.
+
+ 
+ LIGHT FEATURE ADDED TO THREE PRE-EXISTING ITEMS:
+ =======
+
+ Added light feature, which allows players to turn the light on/off using a wire tool, to the bathroom shelf and small bathroom sink (from the Bathroom Furniture/Amenities recipe) and the swimming pool light (from the Pool/Outdoor Furniture recipe).
+ 
+ 
+ TWEAKED SWIMMING POOL BLOCK PROPERTIES:
+ =======
+
+ Properties of all four swimming pool blocks should now match concrete a little closer for what is required to repair these objects and what you can retrieve when destroying the objects.
+
+ 
+ UPDATED FLOOR LAMP TEXTURES:
+ =======
+
+ Cleaned the floor lamp texture and made sure the brightness was still the same as before. Most importantly, the aesthetic of the floor lamp now streamlines with the rest of the lamps in UBBI.
+ 
+
+ UPDATED SMALL LAMP LIGHT:
+ =======
+ 
+ Reworked the small lamp so it's light was working like the rest of the lights, as expected.
+ 
+ 
+ UPDATED RECIPE ORDERING:
+ =======
+
+ Added shower glass pieces to the Bathroom Furniture/Amenities recipe so that it's easier to find them, making things also a little more seamless when building bathrooms, restrooms, shower houses etc.
+ 
+ Also added items that now work as lights into the Lights recipe to make it easier to find them, along with re-ordering a few miscellaneous items for better consistency.
+ 
+
+ UPDATED LOCALIZATION:
+ =======
+ 
+ Tweaked multiple blocks in the Localization.xml that have words that make a little more sense.
+ 
+ 
+ - "Sofa Pieces" recipe has been changed to "Sofa Furniture" and it's description has been edited to say "Sofa furniture for the zombie apocalypse!"
+ 
+ - "Pool Light Blocks" has been changed to "Swimming Pool Light."
+
+ - One of the bathroom cabinets was titled "cabinet," but is now titled "Small Bathroom Sink."
+
+ - "Lamp" has been changed to "Small Lamp."
+ 
+
+ UPDATED LOADING BUNDLE FIX:
+ =======
+
+ In an effort to help with FPS, potential freezing etc. for players running on older software/hardware, an items XML has been added to pre-load select bundles into memory.
+ 
+ Currently bundles that include ten or more blocks (i.e. garden bed/pool items, windows, bathroom amenity items, various doors, sofa furniture and cabinets) are being pre-loaded in addition to lights, TVs and electronics/tech, which includes a fireplace, a laptop, a PC, a sound bar and a sound file.
+ 
+ Hopefully, this XML will allow for slightly smoother gameplay for players.
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - UBBI UPDATE 1.2.5 -
+ ==============
+ 
+ URGENT FIX TO PERK REQUIREMENTS:
+ =======
+ 
+ I was unaware that by putting various lights under master blocks it created a loophole, which allowed for select lights to still be crafted despite not having the correct perks assigned. This was resolved by removing lights from different recipe blocks and only having them under one recipe block ("HN Lights" or "Lights").
+ 
+ 
+ LIGHTS ARE NOW UNLOCKABLE BY FINDING THE "BASICS OF ELECTRICITY SCHEMATIC:"
+ =======
+ 
+ Lights can now be unlocked before hitting the appropriate perks if you are lucky enough to find the "basics of electricity schematic" either through the trader or out in the world on your travels. With the help of modder Beardman, he designed the xpath which allowed for this schematic to become unlockable.
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - UBBI UPDATE 1.2.6 -
+ ==============
+ 
+ URGENT FIX TO Floor Lamp:
+ =======
+ 
+ I was testing War3zuk's overhaul when I discovered the lamp's light feature wasn't working. This update fixes that.
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+  - UBBI UPDATE 1.2.7 -
+ ==============
+ 
+ URGENT FIX TO Floor Lamp, Small Lamp & PC:
+ =======
+ 
+ I was testing Ravenhearst's overhaul when I discovered the small lamp's light feature wasn't working again. This time, I went into Unity and really dug deeper and was seeing what was happening. Turns out I had been using the same animator file for two different objects, which would essentially toggle one of the features off when I corrected the other and vise versa. This update now fixes both lights. I also made the texture on the PC unlit so it would be brighter and not get dimmed out. This only seemed to happen on Ravenhearst's mod, but it should have been like this from the start.
+ 
+ 
+ 
+ ================================

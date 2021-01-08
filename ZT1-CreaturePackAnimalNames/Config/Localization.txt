@@ -1,0 +1,21 @@
+Key,File,Type,english
+animalFox,entityclasses,Entity,Fox
+animalRobin,entityclasses,Entity,Robin
+animalCrow,entityclasses,Entity,Crow
+animalEagle,entityclasses,Entity,Eagle
+animalAlcatraz,entityclasses,Entity,Alcatraz
+animalPug,entityclasses,Entity,Pug
+animalBeagle,entityclasses,Entity,Beagle
+animalBat,entityclasses,Entity,Bat
+animalBats,entityclasses,Entity,Bats
+animalGoat,entityclasses,Entity,Goat
+animalWolfhound,entityclasses,Entity,Wolf Hound
+animalWulf,entityclasses,Entity,White Wolf
+animalBanditWolf,entityclasses,Entity,Bandit Wolf
+animalSpider01,entityclasses,Entity,Spider
+animalSpider02,entityclasses,Entity,Spider
+animalSpider03,entityclasses,Entity,Spider
+animalSnowSwarm_X,entityclasses,Entity,Snow Swarm
+animalSnowTornado_X,entityclasses,Entity,Snow Tornado
+animalBloodFlySwarm_X,entityclasses,Entity,Blood Swarm
+animalGuppyInsect,entityclasses,Entity,Giant Bee

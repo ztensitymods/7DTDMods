@@ -1,0 +1,75 @@
+Key,File,Type,english
+zombieSanta,entityclasses,Entity,Mall Santa
+zombieSantaFeral,entityclasses,Entity,Feral Mall Santa
+zombieNurseTemplate,entityclasses,Entity,Nurse Mary
+zombieNurseTemplateFeral,entityclasses,Entity,Feral Nurse Mary
+zombieFemaleTutorial,entityclasses,Entity,Lida
+zombieFemaleTutorialFeral,entityclasses,Entity,Feral Lida
+zombieBehemoth,entityclasses,Entity,Behemoth
+zombieGuppyCreepyCrawly,entityclasses,Entity,Creepy Crawly
+zombieGuppyInfernalDog,entityclasses,Entity,Infernal Dog
+zombieGuppyBlackSoldierMaskHelmet,entityclasses,Entity,Masked Soldier
+zombieGuppyBlackSoldierMaskHelmetFeral,entityclasses,Entity,Feral Masked Soldier
+zombieGuppyBlackSoldierHelmetNoMask,entityclasses,Entity,Wounded Soldier
+zombieGuppyBlackSoldierHelmetNoMaskFeral,entityclasses,Entity,Feral Wounded Solder
+zombieGuppySoldier01,entityclasses,Entity,Soldier
+zombieGuppySoldier01Feral,entityclasses,Entity,Feral Soldier
+zombieGuppySoldier01Crawler,entityclasses,Entity,Crawler Soldier
+zombieGuppySoldier01CrawlerFeral,entityclasses,Entity,Feral Crawler Soldier
+zombieGuppySoldierFemale01,entityclasses,Entity,Soldier
+zombieGuppySoldierFemale01Feral,entityclasses,Entity,Feral Soldier
+zombieGuppySoldierFemale01Helmet,entityclasses,Entity,Soldier Cadet
+zombieGuppySoldierFemale01HelmetFeral,entityclasses,Entity,Feral Soldier Cadet
+zombieGuppySoldierLeader,entityclasses,Entity,Soldier Leader
+zombieGuppySoldierLeaderFeral,entityclasses,Entity,Feral Soldier Leader
+zombieGuppyDoctor01,entityclasses,Entity,Doctor Bancroft
+zombieGuppyDoctor01Feral,entityclasses,Entity,Feral Doctor Bancroft
+zombieGuppyDoctor02,entityclasses,Entity,Doctor Kenter
+zombieGuppyDoctor02Feral,entityclasses,Entity,Feral Doctor Kenter
+zombieGuppyDoctor03,entityclasses,Entity,Doctor Fritz
+zombieGuppyDoctor03Feral,entityclasses,Entity,Feral Doctor Fritz
+zombieGuppyDoctor04Black,entityclasses,Entity,Doctor Goss
+zombieGuppyDoctor04BlackFeral,entityclasses,Entity,Feral Doctor Goss
+zombieGuppyDoctorFemale01,entityclasses,Entity,Doctor Idette
+zombieGuppyDoctorFemale01Feral,entityclasses,Entity,Feral Doctor Idette
+zombieGuppyDoctorFemale02,entityclasses,Entity,Doctor Celeste
+zombieGuppyDoctorFemale02Feral,entityclasses,Entity,Feral Doctor Celeste
+zombieHazmatFemale01TSBX,entityclasses,Entity,Infected Nurse
+zombieHazmatFemale01TSBXFeral,entityclasses,Entity,Feral Infected Nurse
+zombieGuppyMalePatient,entityclasses,Entity,Patient Zero
+zombieGuppyProstitute,entityclasses,Entity,Stripper
+zombieGirl,entityclasses,Entity,Alice
+zombieRekt,entityclasses,Entity,Farmer
+zombieRektFeral,entityclasses,Entity,Feral Farmer
+zombieRektRadiated,entityclasses,Entity,Radiated Farmer
+zombieWhiteClown,entityclasses,Entity,Crazed
+zombieGuppyKennethClown,entityclasses,Entity,Kenneth The Clown
+zombieHugh,entityclasses,Entity,Hugh
+zombieHughFeral,entityclasses,Entity,Feral Hugh
+zombieHughRadiated,entityclasses,Entity,Radiated Hugh
+zombieGuppyBaldCop,entityclasses,Entity,Body Snatcher
+zombieGuppyBaldMan,entityclasses,Entity,Infected
+zombieGuppyBeatCop,entityclasses,Entity,Infected Cop
+zombieGuppyBelle,entityclasses,Entity,Belle
+zombieGuppyCarmela,entityclasses,Entity,Carmela
+zombieGuppyClot,entityclasses,Entity,Clot
+zombieGuppyHungryJeff,entityclasses,Entity,Hungry Jeff
+zombieGuppyLucy,entityclasses,Entity,Lucy
+zombieGuppyNurse,entityclasses,Entity,Nurse Nancy
+zombieGuppyOldManZombie,entityclasses,Entity,Hobo
+zombieGuppyPete,entityclasses,Entity,Pete
+zombieGuppyPoliceRalph,entityclasses,Entity,Officer Ralph
+zombieGuppySeth,entityclasses,Entity,Seth
+zombieGuppyAlma,entityclasses,Entity,Alma
+zombieGuppyBiomechanicalWight,entityclasses,Entity,Burnt Wight
+zombieMalacayFCiv01,entityclasses,Entity,Tarah
+zombieCopSheriffTSBX,entityclasses,Entity,Infected Sheriff
+zombieCopSheriffTSBXFeral,entityclasses,Entity,Feral Infected Sheriff
+zombieCopSwat01TSBX,entityclasses,Entity,Infected Swat Member
+zombieCopSwat01TSBXFeral,entityclasses,Entity,Feral Infected Swat Member
+zombieCopCityFemale01TSBX,entityclasses,Entity,Infected Cop
+zombieCopCityFemale01TSBXFeral,entityclasses,Entity,Feral Infected Cop
+zombieHoly01MUMPFY,entityclasses,Entity,Lost Raver
+zombieHoly01MUMPFYFeral,entityclasses,Entity,Feral Lost Raver
+zombieGuppyPest,entityclasses,Entity,Pest
+zombieGuppyAbonimation,entityclasses,Entity,Abomination

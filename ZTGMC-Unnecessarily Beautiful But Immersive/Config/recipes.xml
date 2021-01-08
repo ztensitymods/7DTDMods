@@ -1,0 +1,97 @@
+<configs>
+	<append xpath="/recipes">
+	
+	<!--These recipes have been tweaked specifically for compatibility with Gnamod.
+	
+	Vanilla: Short Iron Pipes (resourceMetalPipe) - Gnamod: Iron Pipe (resourceIronPipe)
+	Vanilla: Wood (resourceWood) - Gnamod: Sawed Wood (resourceWoodSawed)
+	Vanilla: Scrap Polymers (resourceScrapPolymers) - Gnamod: Plastic Scraps (harvestPlasticScrap)
+	Vanilla: Clay Soil (resourceClayLump) - Gnamod: Clay (mineralClay)
+	Vanilla: Forged Iron (resourceForgedIron) - Gnamod: Forged Iron (resourceIronForged)
+	Vanilla: Forged Steel (resourceForgedSteel) - Gnamod: Forged Steel (resourceSteelForged)
+	Vanilla: Glass Block (glassBlockVariantHelper) - Gnamod: Glass (resourceGlass)
+	
+	-->
+	
+        <recipe name="HN Kitchen Blocks" count="1" craft_area="workbench">
+			<ingredient name="resourceIronForged" count="10"/>
+            <ingredient name="resourceWoodSawed" count="20"/>
+            <ingredient name="resourceMechanicalParts" count="5"/>
+            <ingredient name="resourceIronPipe" count="5"/>
+		</recipe>
+
+        <recipe name="HN Bathroom Blocks" count="1" craft_area="workbench">
+			<ingredient name="resourceIronForged" count="10"/>
+            <ingredient name="resourceWoodSawed" count="20"/>
+            <ingredient name="resourceMechanicalParts" count="5"/>
+            <ingredient name="resourceIronPipe" count="5"/>
+		</recipe>
+
+        <recipe name="HN Sofa Blocks" count="1" craft_area="workbench">
+	        <ingredient name="resourceLeather" count="5"/>
+	        <ingredient name="resourceNail" count="10"/>
+	        <ingredient name="resourceWoodSawed" count="10"/>
+		</recipe>
+
+        <recipe name="HN Windows/Glass Doors" count="1" craft_area="workbench">
+			<ingredient name="resourceIronForged" count="5"/>
+			<ingredient name="resourceGlass" count="5"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+
+        <recipe name="HN Doors" count="1" craft_area="workbench">
+			<ingredient name="resourceWoodSawed" count="20"/>
+			<ingredient name="resourceNail" count="10"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+
+        <recipe name="HN Decor" count="1" craft_area="workbench">
+	        <ingredient name="mineralClay" count="10"/>
+	        <ingredient name="harvestPlasticScrap" count="10"/>
+	        <ingredient name="resourceCloth" count="1"/>
+            <ingredient name="resourcePaint" count="1"/>
+		</recipe>
+
+        <recipe name="HN Pool/Outdoor Furniture" count="1" craft_area="workbench" >
+	        <ingredient name="resourceWoodSawed" count="10"/>
+	        <ingredient name="harvestPlasticScrap" count="10"/>
+	        <ingredient name="resourceNail" count="5"/>
+            <ingredient name="resourceIronPipe" count="5"/>
+		</recipe>
+
+        <recipe name="HN Tables/Chairs" count="1" craft_area="workbench">
+	        <ingredient name="resourceWoodSawed" count="10"/>
+	        <ingredient name="resourceMechanicalParts" count="5"/>
+	        <ingredient name="resourceNail" count="10"/>
+		</recipe>
+
+        <recipe name="HN Electronics" count="1" craft_area="workbench">
+            <ingredient name="resourceSteelForged" count="5"/>
+	        <ingredient name="resourceWoodSawed" count="10"/>
+	        <ingredient name="resourceElectricParts" count="10"/>
+	        <ingredient name="harvestPlasticScrap" count="5"/>
+		</recipe>
+
+        <recipe name="HN Kitchen Appliances" count="1" craft_area="workbench">
+            <ingredient name="resourceSteelForged" count="5"/>
+	        <ingredient name="resourceSpring" count="5"/>
+	        <ingredient name="resourceElectricParts" count="10"/>
+	        <ingredient name="harvestPlasticScrap" count="5"/>
+		</recipe>
+
+        <recipe name="HN Lights" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+            <ingredient name="resourceIronForged" count="3"/>
+	        <ingredient name="resourceHeadlight" count="1"/>
+	        <ingredient name="resourceElectricParts" count="5"/>
+	        <ingredient name="harvestPlasticScrap" count="5"/>
+		</recipe>
+
+        <recipe name="HN Bedroom Blocks/Racks" count="1" craft_area="workbench">
+			<ingredient name="resourceIronForged" count="5"/>
+			<ingredient name="resourceWoodSawed" count="20"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceSpring" count="2"/>
+		</recipe>
+		
+	</append>
+</configs> 

@@ -1,0 +1,68 @@
+Key,File,Type,english
+zombieArleneV1,entityclasses,Entity,Arlene
+zombieArleneV2,entityclasses,Entity,Arlene
+zombieArleneV3,entityclasses,Entity,Arlene
+zombieArleneV4,entityclasses,Entity,Arlene
+zombieArleneFeralV1,entityclasses,Entity,Feral Arlene
+zombieArleneRadiatedV1,entityclasses,Entity,Radiated Arlene
+zombieBoeV1,entityclasses,Entity,Boe
+zombieBoeV2,entityclasses,Entity,Boe
+zombieBoeV3,entityclasses,Entity,Boe
+zombieBoeV4,entityclasses,Entity,Boe
+zombieBoeFeralV1,entityclasses,Entity,Feral Boe
+zombieBoeRadiatedV1,entityclasses,Entity,Radiated Boe
+zombieSteveCrawlerV1,entityclasses,Entity,Burnt Crawler
+zombieSteveCrawlerV2,entityclasses,Entity,Moldy Crawler
+zombieSteveCrawlerV3,entityclasses,Entity,Mossy Crawler
+zombieSteveCrawlerV4,entityclasses,Entity,Skinned Crawler
+zombieMoeV1,entityclasses,Entity,Moe
+zombieMoeV2,entityclasses,Entity,Moe
+zombieMoeV3,entityclasses,Entity,Moe
+zombieMoeV4,entityclasses,Entity,Moe
+zombieMoeFeralV1,entityclasses,Entity,Feral Moe
+zombieMoeRadiatedV1,entityclasses,Entity,Radiated Moe
+zombieYoV1,entityclasses,Entity,Mr. Yo
+zombieYoV2,entityclasses,Entity,Mr. Yo
+zombieYoV3,entityclasses,Entity,Mr. Yo
+zombieYoV4,entityclasses,Entity,Mr. Yo
+zombieYoFeralV1,entityclasses,Entity,Feral Mr. Yo
+zombieYoRadiatedV1,entityclasses,Entity,Radiated Mr. Yo
+zombieFatMamaHDV1,entityclasses,Entity,Big Mama
+zombieFatMamaHDV2,entityclasses,Entity,Big Mama
+zombieFatMamaHDV3,entityclasses,Entity,Big Mama
+zombieFatMamaHDV4,entityclasses,Entity,Big Mama
+zombieFatMamaHDVFeral,entityclasses,Entity,Feral Big Mama
+zombieFatMamaHDVRadiated,entityclasses,Entity,Radiated Big Mama
+zombieDarleneHDV1,entityclasses,Entity,Darlene
+zombieDarleneHDV2,entityclasses,Entity,Darlene
+zombieDarleneHDV3,entityclasses,Entity,Darlene
+zombieDarleneHDV4,entityclasses,Entity,Darlene
+zombieDarleneHDVFeral,entityclasses,Entity,Feral Darlene
+zombieDarleneHDVRadiated,entityclasses,Entity,Radiated Darlene
+zombieMarleneHDV1,entityclasses,Entity,Marlene
+zombieMarleneHDV2,entityclasses,Entity,Marlene
+zombieMarleneHDV3,entityclasses,Entity,Marlene
+zombieMarleneHDV4,entityclasses,Entity,Marlene
+zombieMarleneHDVFeral,entityclasses,Entity,Feral Marlene
+zombieMarleneHDVRadiated,entityclasses,Entity,Radiated Marlene
+zombieJanitorHDV1,entityclasses,Entity,The Janitor
+zombieJanitorHDV2,entityclasses,Entity,The Janitor
+zombieJanitorHDVFeral,entityclasses,Entity,The Feral Janitor
+zombieJanitorHDVRadiated,entityclasses,Entity,The Radiated Janitor
+zombieSteveHDV1,entityclasses,Entity,Steve
+zombieSteveHDV2,entityclasses,Entity,Steve
+zombieSteveHDV3,entityclasses,Entity,Steve
+zombieSteveHDV4,entityclasses,Entity,Steve
+zombieSteveHDVFeral,entityclasses,Entity,Feral Steve
+zombieSteveHDVRadiated,entityclasses,Entity,Radiated Steve
+zombieJoeHDV1,entityclasses,Entity,Joe
+zombieJoeHDV2,entityclasses,Entity,Joe
+zombieJoeHDV3,entityclasses,Entity,Joe
+zombieJoeHDV4,entityclasses,Entity,Joe
+zombieJoeHDVFeral,entityclasses,Entity,Feral Joe
+zombieJoeHDVRadiated,entityclasses,Entity,Radiated Joe
+zombieBikerHDV1,entityclasses,Entity,Biker
+zombieBikerHDV2,entityclasses,Entity,Biker
+zombieBikerHDV3,entityclasses,Entity,Biker
+zombieBikerHDVFeral,entityclasses,Entity,Feral Biker
+zombieBikerHDVRadiated,entityclasses,Entity,Radiated Biker

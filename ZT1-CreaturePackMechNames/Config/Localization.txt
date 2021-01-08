@@ -1,0 +1,7 @@
+Key,File,Type,english
+mechBee,entityclasses,Entity,Junk Bee
+mechDrone,entityclasses,Entity,Drone
+mechRobot,entityclasses,Entity,Robot
+mechRobotArmy,entityclasses,Entity,Mech Bot
+mechSphereI,entityclasses,Entity,Mech Sphere
+mechSphereII,entityclasses,Entity,Mech Sphere II
