@@ -2,7 +2,7 @@
  Official repository for Ztensity's 7 Days to Die Modlets
  ================================
  
- Currently, the repository includes eight different mods that I have created so far. At this point in my modding career, I have learned to work with Read Me's, Localization's, XML's (blocks, items, progression, recipes and sounds), XPATH, Unity, animations and using PNG icons for an ItemIconAtlas.
+ Currently, the repository includes nine different mods that I have created so far. At this point in my modding career, I have learned to work with Read Me's, Localization's, XML's (blocks, items, progression, recipes and sounds), XPATH, Unity, animations and using PNG icons for an ItemIconAtlas.
  
  
  ================================
@@ -12,6 +12,19 @@
  =======
  
  The first six modlets focus on localizing names for various creatures around the world space of 7 Days to Die, which includes zombies, animals, humans, machines and robots. I have patches for renaming vanilla creatures, Xyth's various creatures and Mumpfy's zombies.
+ 
+ 
+ ================================
+ 
+ 
+ Ztensity's Custom Perks Renaming Modlet
+ =======
+ 
+ One of the staples in my load order is mod author's Zuzul0l's Custom Perks: Prestige Skills. The modlet adds up to fifty new perks in an extra tab for spending points on. A mod that not only makes the long game last that much longer, but it also can give a lot more variety into a players game.
+ 
+ After using this mod for a while, I discovered that there was an issue with the UI title next to "Perks & Attributes" and "Perk Books." Instead of being titled "Prestige Skills" as pointed out on Nexus and in the progressions.xml, it was showing "attprestige."
+ 
+ What this mod does is localize and rename "attprestige" to a more appropriate name that players will see in-game as "Prestige Perks."
  
  
  ================================
