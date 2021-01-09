@@ -27,6 +27,7 @@
  
  HOW TO SEARCH FOR RECIPES TO CRAFT
  =======
+ 
  In order to craft, you must be at the workbench. Once at a workbench, you can easily find each type of recipe you want to craft by searching "HN." Despite the name changes provided by the localization, this is still possible and makes it really easy to find.
  
  

@@ -1,0 +1,131 @@
+
+ Creature Pack Human Names - Version 1.1
+ Select A19 Patches That Rename Zombies, Animals, Machines & More!
+ 
+ 
+ ABOUT THIS MOD
+ ==============
+ 
+ Creature Pack Human Names is built off the premise of Vanilla Creature Renaming and is a renaming modlet that instead of targeting vanilla creature names, targets creatures added by Xyth's Human Pack. 
+ 
+ When using a health bar, such as Sirillion's SMX Series and it's optional Target Health Bar modlet, Khaine's HP Bars or KonradSB's Hit Bar Health Bar, players will now have immersive names for humans added by this modlet.
+ 
+ 
+ REQUIREMENTS
+ =======
+ 
+ Most builds of 7 Days to Die should be acceptable, however the most recent build of the game is recommended, which is currently v19.2b4.
+ 
+ You will however absolutely require a health bar mod in order for this mod to make an effect on your game, otherwise you simply won't see the changes. You will have to pick one of three health bars currently available by mod authors Sirillion, Khaine and KonradSB.
+
+ To have the same UI, health bar, etc. as found in this modlet's showcase images, you must install Sirillion's SMX series and the accompanying Target Health Bar that is an optional download either through the launcher or via Nexus.
+ 
+ 
+ ================================
+ 
+ 
+ FEATURES
+ =======
+ 
+ All humans needing renamed from name type similar to "humanEveBanditClub" have been replaced with an immersive counterpart. Specifically, there are 222 different variants of humans that are added to the game by Xyth's pack from Bandits, Farmers and Nurses to Kidnappers and Soldiers amongst others.
+ 
+ 
+ HUMAN RENAMES
+ =======
+ 
+ humanJoelBanditChefKnife (1 Variant) = Bandit Leader
+ humanEveBandit (11 Variants) = Bandit
+ humanHarleyBandit (12 Variants) = Bandit
+ humanFarmerBandit (11 Variants) = Farmer
+ humanFarmerSurvivor (9 Variants) = Farmer Cole
+ humanCowboyBandit (11 Variants) = Cowboy
+ humanRaiderHumongous (8 Variants) = Raider
+ humanRaiderPest (8 Variants) = Warehouse Raider
+ humanRaiderMoto (8 Variants) = Yakuza
+ humanRaiderRat (8 Variants) = Robber
+ humanRaiderSlugger (8 Variants) = Slugger
+ humanWhispererAlpha (9 Variants) = Kidnapper
+ humanWhispererBeta (9 Variants) = Kidnapper
+ humanWhispererFemale01 (9 Variants) = Kidnapper
+ humanWhispererFemale02 (9 Variants) = Kidnapper
+ humanWhispererMale01 (9 Variants) = Kidnapper
+ humanWhispererMale02 (9 Variants) = Kidnapper
+ humanBakerBanditChef (1 Variant) = Baker
+ humanBakerSurvivor (9 Variants) = Baker
+ humanNurseSurvivor (9 Variants) = Nurse Claire
+ humanSoldierGirl01Survivor (8 Variants) = Soldier
+ humanSoldierDeltaSurvivor (8 Variants) = Soldier
+ humanSoldierHunterSurvivor (8 Variants) = Hunter
+ humanSoldierNationalGuardSurvivor (8 Variants) = National Guard Survivor
+ humanSoldierRangerSurvivor (8 Variants) = Ranger
+ humanVaultFemaleResidentSurvivor (2 Variants) = Resident
+ humanVaultMaleResidentSurvivor (2 Variants) = Resident
+ humanVaultFemaleSecuritySurvivor (2 Variants) = Security Guard
+ humanVaultMaleSecuritySurvivor (2 Variants) = Security Guard
+ humanVaultDoctorSurvivor (2 Variants) = Doctor Veronica
+ humanVaultPowerArmorSurvivor (2 Variants) = Armored Security Guard
+ humanVaultBossSurvivor (2 Variants) = Vault Boss
+ 
+ 
+ ================================
+ 
+ 
+ MY OTHER RENAMING MODLETS
+ =======
+ 
+ Additional creatures are renamed through five other modlets, which are mostly dependent on "recommended creature mods" below. My additional modlets are titled:
+ 
+ - ZT0-VanillaCreatureRenaming
+ - ZT1-CreaturePackZombieNames
+ - ZT1-CreaturePackAnimalNames
+ - ZT1-CreaturePackMechNames
+ - ZT1-HDMumpfySkinsZombieNames
+ 
+ You can find all my additional modlets here: http://bit.ly/38pnCsq
+ 
+ 
+ ================================
+ 
+ 
+ RECOMMENDED HEALTH BAR MODS
+ =======
+ 
+ - Sirillion's SMX Series "Target Health Bar" - https://www.nexusmods.com/7daystodie/mods/22
+ - Khaine's "HP Bars" - https://tinyurl.com/ydch72b2
+ - KonradSB's "Hit Bar - Health Bar" - https://www.nexusmods.com/7daystodie/mods/883
+ 
+ RECOMMENDED CREATURE MODS
+ =======
+ 
+ - Xyth's Community Project Creature Packs - http://bit.ly/39j293H
+ - Mumpfy's "New Zombie Textures" - https://7daystodiemods.com/new-zombie-textures-by-mumpfy/
+ 
+ 
+ ================================
+ 
+ 
+ NOTES
+ =======
+ 
+ I plan to eventually work on renaming modlets for Xyth's Community Project "1-NPCPackAnimals," "1-NPCPackHumans" and "1-NPCPackMechs." However, due to complications currently with sphereii's "NPC Dialog Windows" and "0-SpherellCore," I put my experimental modlets on the backburner. 
+ 
+ Mod author sphereii has stated that a planned update for both "winterween" and "0-SpherellCore" is in the works to hopefully be pushed by A19.3. For now, I will wait for that update to be released before tackling renaming NPCs of any kind.
+ 
+ 
+ SHOUT OUTS
+ =======
+ 
+ If it wasn't for discussion, guidance and help getting started from other mod authors in Guppy's Discord like wrathmaniac, TSPBX, Xyth, Mumpfy, sphereii, Sirillion, saminal, Khaine, chiko and Guppy himself, none of this would have been possible.
+ 
+ 
+ CREDITS
+ =======
+ 
+ None of Xyth's Creature Packs would be possible either if it wasn't for the hard work and communication of this powerful modding community. 
+ 
+ Primarily, I want to give an extra thank you to not only Xyth, but also DarkStarDragon, Guppycur and TSBX for work on the zombies, Robeloto for work on Spider sounds, Mumpfy for work on re-texturing and new asset creation, and XML work by Kergan, SaltyAF and Chikorina (Chiko).
+ 
+ - Ztensity -
+ 
+ 
+ 

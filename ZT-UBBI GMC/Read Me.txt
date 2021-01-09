@@ -4,7 +4,7 @@
  Alternate Version - Gnamod Compatibility
 
  
- This alternate modlet has tweaked recipes that will only work with Gnamod. If you are using this mod without Gnamod, you should immediately delete it and get the standard version on Nexus, Forums or Discord.
+ This alternate modlet has tweaked recipes that will only work with Gnamod. If you are using this mod without Gnamod, you should immediately delete it and get the standard version on the launcher, Nexus, Forums or Discord.
  
  The recipes that have been changed are: short iron pipe, wood, scrap polymers, clay soil, forged steel and glass block. Gnamod uses: iron pipe, sawed wood, plastic scraps, clay, forged iron (different file), forged steel (different file) and glass. Adjustments can be found in recipes.xml.
  
@@ -161,6 +161,21 @@
  I have adjusted code across the board for blocks.xml, recipes.xml, sounds.xml, progression.xml, Localization.txt, ModInfo.xml and this Read Me.txt to make everything smoother, cleaner and most importantly more immersive when applicable from an in-game standpoint. I have also cleaned the ItemIconAtlas folder (235 files remaining) and Resources folder (51 files remaining) to make sure only the files being used in-game were left.
  
  Finally, I have made sure that there are no yellow line errors, red line errors or any other issues associated with this mod.
+ 
+ 
+ ================================
+ 
+ 
+ THESE RECIPES HAVE BEEN TWEAKED SPECIFICALLY FOR COMPATIBILITY WITH GNAMOD
+ =======
+ 
+ Vanilla: Short Iron Pipes (resourceMetalPipe) - Gnamod: Iron Pipe (resourceIronPipe)
+ Vanilla: Wood (resourceWood) - Gnamod: Sawed Wood (resourceWoodSawed)
+ Vanilla: Scrap Polymers (resourceScrapPolymers) - Gnamod: Plastic Scraps (harvestPlasticScrap)
+ Vanilla: Clay Soil (resourceClayLump) - Gnamod: Clay (mineralClay)
+ Vanilla: Forged Iron (resourceForgedIron) - Gnamod: Forged Iron (resourceIronForged)
+ Vanilla: Forged Steel (resourceForgedSteel) - Gnamod: Forged Steel (resourceSteelForged)
+ Vanilla: Glass Block (glassBlockVariantHelper) - Gnamod: Glass (resourceGlass)
  
  
  ================================
