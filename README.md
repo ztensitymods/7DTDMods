@@ -38,4 +38,7 @@
  The recipes that have been changed are: short iron pipe, wood, scrap polymers, clay soil, forged steel and glass block. Gnamod uses: iron pipe, sawed wood, plastic scraps, clay, forged iron (different file), forged steel (different file) and glass.
  
  
+ ================================
+ 
+ 
  Ztensity
