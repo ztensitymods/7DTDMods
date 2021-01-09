@@ -1,18 +1,6 @@
 <configs>
 	<append xpath="/recipes">
-	
-	<!--These recipes have been tweaked specifically for compatibility with Gnamod.
-	
-	Vanilla: Short Iron Pipes (resourceMetalPipe) - Gnamod: Iron Pipe (resourceIronPipe)
-	Vanilla: Wood (resourceWood) - Gnamod: Sawed Wood (resourceWoodSawed)
-	Vanilla: Scrap Polymers (resourceScrapPolymers) - Gnamod: Plastic Scraps (harvestPlasticScrap)
-	Vanilla: Clay Soil (resourceClayLump) - Gnamod: Clay (mineralClay)
-	Vanilla: Forged Iron (resourceForgedIron) - Gnamod: Forged Iron (resourceIronForged)
-	Vanilla: Forged Steel (resourceForgedSteel) - Gnamod: Forged Steel (resourceSteelForged)
-	Vanilla: Glass Block (glassBlockVariantHelper) - Gnamod: Glass (resourceGlass)
-	
-	-->
-	
+
         <recipe name="HN Kitchen Blocks" count="1" craft_area="workbench">
 			<ingredient name="resourceIronForged" count="10"/>
             <ingredient name="resourceWoodSawed" count="20"/>
@@ -92,6 +80,6 @@
 			<ingredient name="resourceMechanicalParts" count="4"/>
 			<ingredient name="resourceSpring" count="2"/>
 		</recipe>
-		
+
 	</append>
 </configs> 

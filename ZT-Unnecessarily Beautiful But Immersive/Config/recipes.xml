@@ -1,28 +1,6 @@
 <configs>
 	<append xpath="/recipes">
-	
-	<!--
-	
-	Ingredient Masterlist:
-	----------------------
-	resourceForgedIron
-	resourceForgedSteel
-	resourceWood
-	resourceScrapPolymers
-	resourceElectricParts
-	resourceMechanicalParts
-	resourceHeadlight
-	resourceSpring
-	resourceMetalPipe
-	resourceLeather
-	resourceNail
-	glassBlockVariantHelper
-	resourceCloth
-	resourceClayLump
-	resourcePaint
-	
-	-->
-	
+
         <recipe name="HN Kitchen Blocks" count="1" craft_area="workbench">
 			<ingredient name="resourceForgedIron" count="10"/>
             <ingredient name="resourceWood" count="20"/>
@@ -102,6 +80,6 @@
 			<ingredient name="resourceMechanicalParts" count="4"/>
 			<ingredient name="resourceSpring" count="2"/>
 		</recipe>
-		
+
 	</append>
 </configs> 
