@@ -38,16 +38,7 @@
  The recipes that have been changed are: short iron pipe, wood, scrap polymers, clay soil, forged steel and glass block. Gnamod uses: iron pipe, sawed wood, plastic scraps, clay, forged iron (different file), forged steel (different file) and glass.
  
  
- THESE RECIPES HAVE BEEN TWEAKED SPECIFICALLY FOR COMPATIBILITY WITH GNAMOD
- =======
- 
- Vanilla: Short Iron Pipes (resourceMetalPipe) - Gnamod: Iron Pipe (resourceIronPipe)
- Vanilla: Wood (resourceWood) - Gnamod: Sawed Wood (resourceWoodSawed)
- Vanilla: Scrap Polymers (resourceScrapPolymers) - Gnamod: Plastic Scraps (harvestPlasticScrap)
- Vanilla: Clay Soil (resourceClayLump) - Gnamod: Clay (mineralClay)
- Vanilla: Forged Iron (resourceForgedIron) - Gnamod: Forged Iron (resourceIronForged)
- Vanilla: Forged Steel (resourceForgedSteel) - Gnamod: Forged Steel (resourceSteelForged)
- Vanilla: Glass Block (glassBlockVariantHelper) - Gnamod: Glass (resourceGlass)
+ ================================
  
  
  MOD LIST:
