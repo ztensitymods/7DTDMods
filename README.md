@@ -38,20 +38,4 @@
  The recipes that have been changed are: short iron pipe, wood, scrap polymers, clay soil, forged steel and glass block. Gnamod uses: iron pipe, sawed wood, plastic scraps, clay, forged iron (different file), forged steel (different file) and glass.
  
  
- ================================
- 
- 
- MOD LIST:
- =======
- 
- The mod list consists of the creature renaming series "ZT0-VanillaCreatureRenaming," "ZT1-CreaturePackAnimalNames," "ZT1-CreaturePackHumanNames," "ZT1-CreaturePackMechNames," "ZT1-CreaturePackZombieNames" and "ZT1-HDMumpfySkinsZombieNames" alongside "ZT-Unnecessarily Beautiful But Immersive" and newly added alternate version "ZT-UBBI GMC," which has been created for compatibility with Gnamod.
- 
- 
- 
- ================================
- 
- 
- I hope you enjoy my work!
- 
- 
  Ztensity
