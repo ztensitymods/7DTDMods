@@ -1,0 +1,21 @@
+
+ Creature Pack Animal Names - Version 1.2
+ Select A19 Patches That Rename Zombies, Animals, Machines & More!
+ Updates Log 1.2
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v1.2 -
+ ==============
+ 
+ ANIMAL LOCALIZATION CHANGE:
+ ======
+ 
+ I have changed the following Localization line: animalWolfhound,entityclasses,Entity,Hound
+ 
+ I have decided to change the name of "animalWolfhound" from "Wolf Hound" to "Hound." Just a personal choice to make it less specific and maybe more immersive?
+ 
+ ================================

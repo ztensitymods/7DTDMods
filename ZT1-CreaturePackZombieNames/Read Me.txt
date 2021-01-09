@@ -1,5 +1,5 @@
 
- Creature Pack Zombie Names - Version 1.1
+ Creature Pack Zombie Names - Version 1.2
  Select A19 Patches That Rename Zombies, Animals, Machines & More!
  
  
@@ -77,7 +77,6 @@
  zombieRektFeral = Feral Farmer
  zombieRektRadiated = Radiated Farmer
  zombieWhiteClown = Crazed
- zombieGuppyKennethClown = Kenneth The Clown
  zombieHugh = Hugh
  zombieHughFeral = Feral Hugh
  zombieHughRadiated = Radiated Hugh

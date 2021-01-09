@@ -43,7 +43,6 @@ zombieRekt,entityclasses,Entity,Farmer
 zombieRektFeral,entityclasses,Entity,Feral Farmer
 zombieRektRadiated,entityclasses,Entity,Radiated Farmer
 zombieWhiteClown,entityclasses,Entity,Crazed
-zombieGuppyKennethClown,entityclasses,Entity,Kenneth The Clown
 zombieHugh,entityclasses,Entity,Hugh
 zombieHughFeral,entityclasses,Entity,Feral Hugh
 zombieHughRadiated,entityclasses,Entity,Radiated Hugh

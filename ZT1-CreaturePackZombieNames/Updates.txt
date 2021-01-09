@@ -1,0 +1,21 @@
+
+ Creature Pack Zombie Names - Version 1.2
+ Select A19 Patches That Rename Zombies, Animals, Machines & More!
+ Updates Log 1.2
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v1.2 -
+ ==============
+ 
+ ZOMBIE LOCALIZATION REMOVAL:
+ ======
+ 
+ I have removed the following Localization line: zombieGuppyKennethClown,entityclasses,Entity,Kenneth The Clown
+ 
+ Due to copyright issues from the original model, the zombie was removed from spawning in-game. Therefore, the localization has been removed to avoid any kind of confusion.
+ 
+ ================================

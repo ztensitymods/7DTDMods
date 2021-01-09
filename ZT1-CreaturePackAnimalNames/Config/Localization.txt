@@ -9,7 +9,7 @@ animalBeagle,entityclasses,Entity,Beagle
 animalBat,entityclasses,Entity,Bat
 animalBats,entityclasses,Entity,Bats
 animalGoat,entityclasses,Entity,Goat
-animalWolfhound,entityclasses,Entity,Wolf Hound
+animalWolfhound,entityclasses,Entity,Hound
 animalWulf,entityclasses,Entity,White Wolf
 animalBanditWolf,entityclasses,Entity,Bandit Wolf
 animalSpider01,entityclasses,Entity,Spider
