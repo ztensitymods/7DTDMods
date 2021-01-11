@@ -1,0 +1,69 @@
+
+ Custom Perks Renaming - Version 1.0.1
+ Zuzul0l's 19.1, Custom Perks: Prestige Skills
+ Perk Title & Description Tweaks
+ Notes Log 1.0.1
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v1.0.0 -
+ ==============
+ 
+ LOCALIZATION ESCAPE CHAR FOR QUOTES TO CHANGE PERK DESCRIPTION:
+ ======
+ 
+ Mod author Adreden shared that anytime a "comma" is included somewhere such as a desc_key, you can use quotation marks in the Localization to rename it.
+ 
+ For example:
+ ------------
+ 
+ In progressions.xml you'll have - 
+ 
+ <perk name="perkArmorSpecialist" parent="attPrestige" name_key="Armor Specialist" desc_key="Your armor feels like a second skin an thus is even more durable now. (In addition to the corresponding armor perk, the last rank will nullify all damage to armor)." icon="cp_armorspecialist">
+ 
+ 
+ To change this in Localization.txt -
+ 
+ Your armor feels like a second skin an thus is even more durable now. (In addition to the corresponding armor perk, the last rank will nullify all damage to armor).
+ 
+ 
+ You must change it to this -
+ 
+ "Your armor feels like a second skin an thus is even more durable now. (In addition to the corresponding armor perk"," the last rank will nullify all damage to armor)."
+ 
+ 
+ Using this fix is a workaround to correct a Localization when a word or description in XML is using quotes or commas.
+ 
+ 
+ The final result would look like this for this particular Localization:
+ ------------
+ 
+ "Your armor feels like a second skin an thus is even more durable now. (In addition to the corresponding armor perk"," the last rank will nullify all damage to armor).",progression,perk Str,Your armor feels like a second skin and thus is even more durable now. Once warn enough you'll nullify all damage to armor!
+ 
+ 
+ USING PROGRESSION.XML, XPATH & LOCALIZATION TO CHANGE PERK DESCRIPTION:
+ ======
+ 
+ To change the original desc_key of this perk that had a comma in it from the original progressions.xml -
+ 
+ <perk name="perkArmorSpecialist" parent="attPrestige" name_key="Armor Specialist" desc_key="Your armor feels like a second skin an thus is even more durable now. (In addition to the corresponding armor perk, the last rank will nullify all damage to armor)." icon="cp_armorspecialist">
+ 
+ 
+ You must use a progression.xml file and XPATH to change the desc_key title like so - 
+ 
+ <set xpath="/progression/perks/perk[@name='perkArmorSpecialist']/@desc_key">armorSpecialistDesc</set>
+ 
+ 
+ Once this is created, your Localization will look like this - 
+ 
+ armorSpecialistDesc,progression,perk Str,Your armor feels like a second skin and thus is even more durable now. Once warn enough you'll nullify all damage to armor!
+ 
+ 
+ This is much more efficient and allows for less errors and better consistency.
+ 
+ 
+ 
+ ================================

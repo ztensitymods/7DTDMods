@@ -1,7 +1,7 @@
 
  Unnecessarily Beautiful But Immersive
- The Unnecessary But Beautiful 19.2b4 Rebuild
- Updates Log 1.2.7
+ The Unnecessary But Beautiful 19.3 Rebuild
+ Updates Log 1.2.8
  
  
  ================================
@@ -120,6 +120,20 @@
  =======
  
  I was testing Ravenhearst's overhaul when I discovered the small lamp's light feature wasn't working again. This time, I went into Unity and really dug deeper and was seeing what was happening. Turns out I had been using the same animator file for two different objects, which would essentially toggle one of the features off when I corrected the other and vise versa. This update now fixes both lights. I also made the texture on the PC unlit so it would be brighter and not get dimmed out. This only seemed to happen on Ravenhearst's mod, but it should have been like this from the start.
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+  - v1.2.8 -
+ ==============
+ 
+ Read Me Adjustment:
+ ======
+ 
+ Adjusted text from A19.2b4 or 19.2b4 to 19.3.
  
  
  

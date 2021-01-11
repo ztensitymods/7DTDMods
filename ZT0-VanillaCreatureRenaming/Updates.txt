@@ -1,0 +1,35 @@
+
+ Vanilla Creature Renaming - Version 1.2.1
+ Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
+ Updates Log 1.2.1
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v1.2.0 -
+ ==============
+ 
+ ANIMAL LOCALIZATION CHANGE:
+ ======
+ 
+ I have removed "animalBloatfly," as that is something added by Xyth's animal creature pack, not vanilla.
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v1.2.1 -
+ ==============
+ 
+ Read Me Adjustment:
+ ======
+ 
+ Adjusted text from A19.2b4 or 19.2b4 to 19.3.
+ 
+ 
+ 
+ ================================

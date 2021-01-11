@@ -1,7 +1,7 @@
 
- Creature Pack Animal Names - Version 1.2
- Select A19 Patches That Rename Zombies, Animals, Machines & More!
- Updates Log 1.2
+ Creature Pack Animal Names - Version 1.3.1
+ Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
+ Updates Log 1.3.1
  
  
  ================================
@@ -17,5 +17,56 @@
  I have changed the following Localization line: animalWolfhound,entityclasses,Entity,Hound
  
  I have decided to change the name of "animalWolfhound" from "Wolf Hound" to "Hound." Just a personal choice to make it less specific and maybe more immersive?
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v1.3.0 -
+ ==============
+ 
+ ANIMAL LOCALIZATION CHANGES:
+ ======
+ 
+ I have added a localization for "animalBloatfly" and set it to "Bloatfly." Mod author wrathmaniac pointed out to me that I hadn't included this animal localization in the pack.
+ 
+ I have added the following localizations related to "Snow Swarm" creature and miscellaneous UI descriptions per findings by wrathmaniac:
+ 
+ buffSnowSwarm = "You are inside a snow storm, take cover or you may get frost bite!"
+ buffFrostbiteDesc = "Minor frostbite will reduce your stamina, stay out of snow storms to avoid a severe case of frostbite."
+ buffFrostbiteTooltip = You have minor frostbite.
+ buffFrostbite2Desc = You have severe frostbite!
+ buffFrostbite2Tooltip = "You have severe frostbite, you health gain is reduced by 50%!"
+
+ FoodChangeOT = Food Loss Over-Time
+ FoodLossPerStaminaPointGained = Food Loss Per Stamina Gain
+ 
+ I have changed localization's for 2 different pre-existing animals via some suggestions from mod author wrathmaniac. See the changes below:
+ 
+ In v1.2:
+ animalSpider01 = Spider
+ animalSpider03 = Spider
+ 
+ In v1.3.0:
+ animalSpider01 = Young Spider
+ animalSpider03 = Hunter Spider
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v1.3.1 -
+ ==============
+ 
+ Read Me Adjustment:
+ ======
+ 
+ Adjusted text from A19.2b4 or 19.2b4 to 19.3.
+ 
+ 
  
  ================================

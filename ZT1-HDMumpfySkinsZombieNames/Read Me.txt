@@ -1,6 +1,6 @@
 
- Mumpfy's Zombie Pack Names - Version 1.1
- Select A19 Patches That Rename Zombies, Animals, Machines & More!
+ Mumpfy's Zombie Pack Names - Version 1.2.0
+ Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
  
  
  ABOUT THIS MOD
@@ -14,7 +14,7 @@
  REQUIREMENTS
  =======
  
- Most builds of 7 Days to Die should be acceptable, however the most recent build of the game is recommended, which is currently v19.2b4.
+ Most builds of 7 Days to Die should be acceptable, however the most recent build of the game is recommended, which is currently v19.3.
  
  You will however absolutely require a health bar mod in order for this mod to make an effect on your game, otherwise you simply won't see the changes. You will have to pick one of three health bars currently available by mod authors Sirillion, Khaine and KonradSB.
 

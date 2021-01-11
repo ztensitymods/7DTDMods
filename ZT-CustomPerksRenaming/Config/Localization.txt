@@ -1,0 +1,19 @@
+Key,File,Type,english
+attprestige,progression,Attribute,Prestige Perks
+HealingArts,progression,perk Str,Healing Arts
+
+You've acquired the knowledge how to gather more resources while mining.,progression,perk Str,You've acquired the knowledge to better learn how to gather more resources while mining.
+
+armorSpecialistDesc,progression,perk Str,Your armor feels like a second skin and thus is even more durable now. Once warn enough you'll nullify all damage to armor!
+
+You've acquired the knowledge how to gather more resources while salvaging mechanical and electrical objects.,progression,perk Str,You've acquired the knowledge to better learn how to gather more resources while salvaging mechanical and electrical objects.
+
+All those blows you've dealt evolved into a daily routine. Now you're able too attack even faster.,progression,perk Str,All those blows you've dealt evolved into a daily routine. Now you're able to attack even faster.
+
+Aim for the weak spots and even more lethal hits. Get additional chance to dismember.,progression,perk Str,With practice you've gotten better at aiming for weak spots to get even more lethal hits and as you improve you gain additional chances to dismember!
+
+You've acquired the knowledge how to sometimes find minerals when mining regular stones. Each rank increases the multiplier for the additional loot you can find.,progression,perk Str,You've acquired the knowledge to better learn how to sometimes find minerals when mining regular stones. Each rank increases the multiplier for the additional loot you can find.
+
+You've acquired the knowledge how to sometimes find valuable resources when digging in the dirt. Each rank increases the multiplier for the additional loot you can find.,progression,perk Str,You've acquired the knowledge to better learn how to sometimes find valuable resources when digging in the dirt. Each rank increases the multiplier for the additional loot you can find.
+
+You've acquired the knowledge how to appropriate butcher zombie corpses. Higher ranks increase the output.,progression,perk Str,You've acquired the knowledge to better learn how to appropriate butcher zombie corpses. Higher ranks increase the output.

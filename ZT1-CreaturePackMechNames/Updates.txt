@@ -1,0 +1,21 @@
+
+ Creature Pack Mech Names - Version 1.2.0
+ Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
+ Updates Log 1.2.0
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v1.2.0 -
+ ==============
+ 
+ Read Me Adjustment:
+ ======
+ 
+ Added this updates log, changed modlet version from 1.1 to 1.2.0 and adjusted text from A19.2b4 and 19.2b4 to 19.3.
+ 
+ 
+ 
+ ================================

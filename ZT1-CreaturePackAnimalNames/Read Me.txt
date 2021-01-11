@@ -1,6 +1,6 @@
 
- Creature Pack Animal Names - Version 1.2
- Select A19 Patches That Rename Zombies, Animals, Machines & More!
+ Creature Pack Animal Names - Version 1.3.1
+ Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
  
  
  ABOUT THIS MOD
@@ -29,6 +29,8 @@
  
  All animals needing renamed from name type similar to "animalWulf" have been replaced with an immersive counterpart. Specifically, there are twenty different animals that are added to the game by Xyth's pack from a fox, a crow and a pug to a bat and a bee.
  
+ I have also added immersive descriptions for effects surrounding the "Snow Swarm" creature and other miscellaneous UI descriptions, which were discovered by wrathmaniac.
+ 
  
  ANIMAL RENAMES
  =======
@@ -38,6 +40,8 @@
  animalCrow = Crow
  animalEagle = Eagle
  animalAlcatraz = Alcatraz
+ animalBloatfly = Bloatfly
+ animalGuppyInsect = Giant Bee
  animalPug = Pug
  animalBeagle = Beagle
  animalBat = Bat
@@ -46,13 +50,29 @@
  animalWolfhound = Wolf Hound
  animalWulf = White Wolf
  animalBanditWolf = Bandit Wolf
- animalSpider01 = Spider
+ animalSpider01 = Young Spider
  animalSpider02 = Spider
- animalSpider03 = Spider
+ animalSpider03 = Hunter Spider
  animalSnowSwarm_X = Snow Swarm
  animalSnowTornado_X = Snow Tornado
  animalBloodFlySwarm_X = Blood Swarm
- animalGuppyInsect = Giant Bee
+ 
+ 
+ SNOW STORM DESCRIPTIONS
+ =======
+ 
+ buffSnowSwarm = "You are inside a snow storm, take cover or you may get frost bite!"
+ buffFrostbiteDesc = "Minor frostbite will reduce your stamina, stay out of snow storms to avoid a severe case of frostbite."
+ buffFrostbiteTooltip = You have minor frostbite.
+ buffFrostbite2Desc = You have severe frostbite!
+ buffFrostbite2Tooltip = "You have severe frostbite, you health gain is reduced by 50%!"
+
+ 
+ MISC. UI DESCRIPTIONS
+ =======
+ 
+ FoodChangeOT = Food Loss Over-Time
+ FoodLossPerStaminaPointGained = Food Loss Per Stamina Gain 
  
  
  ================================
@@ -104,6 +124,8 @@
  =======
  
  If it wasn't for discussion, guidance and help getting started from other mod authors in Guppy's Discord like wrathmaniac, TSPBX, Xyth, Mumpfy, sphereii, Sirillion, saminal, Khaine, chiko and Guppy himself, none of this would have been possible.
+ 
+ wrathmaniac: Thank you for some of your suggestions for v1.3's Localization edits for zombies! I've edited a total of 36 zombies with your ideas in mind!
  
  
  CREDITS

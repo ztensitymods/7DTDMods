@@ -1,6 +1,6 @@
 
- Unnecessarily Beautiful But Immersive - Version 1.2.7
- The Unnecessary But Beautiful 19.2b4 Rebuild
+ Unnecessarily Beautiful But Immersive - Version 1.2.8
+ The Unnecessary But Beautiful 19.3 Rebuild
  Alternate Version - Gnamod Compatibility
 
  
@@ -12,7 +12,7 @@
  ABOUT THIS MOD
  ==============
  
- Designed for 19.2b4, this edition is a full version that not only includes assets and blocks designed and coded by the mod author himself, but also an updated recipes file for full compatibility with the latest build of the game.
+ Designed for 19.3, this edition is a full version that not only includes assets and blocks designed and coded by the mod author himself, but also an updated recipes file for full compatibility with the latest build of the game.
  
  To make things fresh and increase immersion, Unnecessarily Beautiful But Immersive also includes an all new localization file that provides names for every building piece, certain building block descriptions and new lines for the on/off switch for lights, TVs, a PC, a laptop, a fireplace and a sound bar. 
  
@@ -25,7 +25,7 @@
  
  I have made the lights an unlockable buildable to make it challenging and rewarding. However, at the same time, vanilla lights require the same skill level before being able to craft. Therefore, this increases immersion further and was a sensible addition to the mod. To add to this as a sort of balancing act, if a player is lucky enough to find a certain schematic, they can also unlock all lights early as well, just like their Vanilla light counterparts.
  
- In order to make recipes work in 19.2b4, I changed - craft_area="tablesaw" to craft_area="workbench" - for each recipe. This was provided in the comments section of Hernan's original upload on Nexus, but with the amount of people asking about how to make it work, making it part of the modlet as a whole and streamlining it in this version seemed the most logical. This effectively makes recipes function as expected.
+ In order to make recipes work in 19.3, I changed - craft_area="tablesaw" to craft_area="workbench" - for each recipe. This was provided in the comments section of Hernan's original upload on Nexus, but with the amount of people asking about how to make it work, making it part of the modlet as a whole and streamlining it in this version seemed the most logical. This effectively makes recipes function as expected.
  
  
  TIPS

@@ -6,7 +6,6 @@ animalZombieDog,entityclasses,Entity,New,Infected Dog
 animalCoyote,entityclasses,Entity,New,Coyote
 animalWolf,entityclasses,Entity,New,Wolf
 animalDireWolf,entityclasses,Entity,New,Dire Wolf
-animalBloatfly,entityclasses,Entity,New,Giant Bloatfly
 animalSnake,entityclasses,Entity,New,Snake
 animalBear,entityclasses,Entity,New,Wild Bear
 animalZombieBear,entityclasses,Entity,New,Infected Bear
