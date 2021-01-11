@@ -17,7 +17,7 @@
  ================================
  
  
- Ztensity's Custom Perks Renaming Modlet (Unpublished - Seeking Original Mod Author's Permission to Post Patch)
+ Ztensity's Custom Perks Renaming Modlet
  =======
  
  One of the staples in my load order is mod author's Zuzul0l's Custom Perks: Prestige Skills. The modlet adds up to fifty new perks in an extra tab for spending points on. A mod that not only makes the long game last that much longer, but it also can give a lot more variety into a players game.
