@@ -35,7 +35,7 @@ zombieHazmatFemale01TSBX,entityclasses,Entity,The Quarantined
 zombieHazmatFemale01TSBXFeral,entityclasses,Entity,Feral Quarantined
 zombieGuppyMalePatient,entityclasses,Entity,Patient Zero
 zombieGuppyProstitute,entityclasses,Entity,Stripper
-zombieGirl,entityclasses,Entity,Infected Child
+zombieGuppyAlma,entityclasses,Entity,Infected Child
 zombieRekt,entityclasses,Entity,Infected Farmer
 zombieRektFeral,entityclasses,Entity,Feral Farmer
 zombieRektRadiated,entityclasses,Entity,Radiated Farmer
@@ -49,9 +49,9 @@ zombieGuppyBeatCop,entityclasses,Entity,Infected Deputy
 zombieGuppyBelle,entityclasses,Entity,Belle
 zombieGuppyCarmela,entityclasses,Entity,Carmela
 zombieGuppyLucy,entityclasses,Entity,Lucy
-zombieGuppyAlma,entityclasses,Entity,Alma
 zombieMalacayFCiv01,entityclasses,Entity,Tarah
 zombieGuppyPete,entityclasses,Entity,Pete
+zombieGirl,entityclasses,Entity,Karen
 zombieGuppyHungryJeff,entityclasses,Entity,Hungry Jeff
 zombieGuppyNurse,entityclasses,Entity,Infected Nurse's Aid
 zombieGuppyOldManZombie,entityclasses,Entity,Infected Hobo

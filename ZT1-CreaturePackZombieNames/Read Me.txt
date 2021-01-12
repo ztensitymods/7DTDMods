@@ -69,7 +69,8 @@
  zombieHazmatFemale01TSBXFeral = Feral Quarantined
  zombieGuppyMalePatient = Patient Zero
  zombieGuppyProstitute = Stripper
- zombieGirl = Infected Child
+ zombieGuppyAlma = Infected Child
+ zombieGirl = Karen
  zombieRekt = Infected Farmer
  zombieRektFeral = Feral Farmer
  zombieRektRadiated = Radiated Farmer
@@ -82,7 +83,6 @@
  zombieGuppyBelle = Belle
  zombieGuppyCarmela = Carmela
  zombieGuppyLucy = Lucy
- zombieGuppyAlma = Alma
  zombieMalacayFCiv01 = Tarah
  zombieGuppyPete = Pete
  zombieGuppyHungryJeff = Hungry Jeff
