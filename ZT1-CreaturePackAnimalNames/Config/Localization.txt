@@ -4,7 +4,7 @@ animalRobin,entityclasses,Entity,Robin
 animalCrow,entityclasses,Entity,Crow
 animalEagle,entityclasses,Entity,Eagle
 animalAlcatraz,entityclasses,Entity,Alcatraz
-animalBloatfly,entityclasses,Entity,New,Bloatfly
+animalBloatfly,entityclasses,Entity,Bloatfly
 animalGuppyInsect,entityclasses,Entity,Giant Bee
 animalPug,entityclasses,Entity,Pug
 animalBeagle,entityclasses,Entity,Beagle
