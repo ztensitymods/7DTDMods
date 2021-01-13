@@ -1,0 +1,130 @@
+
+ Creature Pack Mech Names - Version 1.2.1
+ Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
+ Notes Log 1.2.1
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v1.2.1 -
+ ==============
+ 
+ XPATH "@" SYMBOL:
+ ======
+ 
+ Take the following XPATH for an example:
+ 
+ <set xpath="//entity_class[@name='mechSphereII']/effect_group/passive_effect[@name='HealthMax' and @operation='base_set']/@value">900</set>
+ 
+ Attributes receive an "@" before them in the line, meanwhile "nodes" or main code like "effect_group" or "passive_effect" do not need an "@" symbol before them in the line.
+ 
+ 
+ XPATH GENERAL EFFECTS VS SPECIFIC EFFECTS:
+ ------------
+ 
+ Take the following XPATH for an example:
+ 
+ <set xpath="//entity_class[@name='mechSphereII']/effect_group/passive_effect/@value">900</set>
+ 
+ This xpath will change the value of all passive effects in the group, since it does not look for a specific one by a name attribute or something. If someone where to add another effect before it, that would mess stuff up.
+ 
+ The // tells it to look at every node rather than starting at a more specific point.
+ 
+ Therefore, changing that XPATH to what is below will make it cleaner, more precise, shorter and most importantly less prone to error and if something breaks, you'll know it's not a bug:
+ 
+ <set xpath="//entity_class[@name='mechSphereII']/effect_group/passive_effect[@name='HealthMax' and @operation='base_set']/@value">900</set>
+ 
+ 
+ MISCELLANIOUS XPATH NOTES:
+ ------------
+ 
+ <set xpath="//effect_group[@name='Base Effects']/.."></set>
+ 
+ Is a way you could use it as well, this would hit all entities that have an effect group with the name Base Effects.
+
+ (the .. is blanks since I did not want to write an entire xpath).
+ 
+ 
+ MISCELLANIOUS XPATH NOTES:
+ ------------
+ 
+ <remove xpath="//property"/>
+ 
+ This would remove all <property/> nodes.
+ 
+ 
+ MISCELLANIOUS XPATH NOTES:
+ ------------
+ 
+ <remove xpath="/entity/property"/>
+ 
+ This would only remove properties in entities.
+ 
+ 
+ XPATH FOOD FOR THOUGHT:
+ ------------
+ 
+ XPATH is like making path to a file in folders (where the folders are nodes and the files are attributes.
+ 
+ 
+ MISCELLANIOUS XPATH NOTES:
+ ------------
+ 
+ Consider:
+ 
+ <block name="woodPole">
+    <property name="Extends" value="woodMaster"/>
+    <property name="Shape" value="New"/>
+    <property name="LightOpacity" value="0"/>
+    <property name="Model" value="pole_square"/>
+    <property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+    <property name="SortOrder2" value="0780"/> <!-- SortShape -->
+    <property name="ImposterExclude" value="true"/>
+    <property name="ImposterDontBlock" value="true"/>
+    <property name="UseGlobalUV" value="Local"/>
+    <property class="UpgradeBlock">
+        <property name="ToBlock" value="rWoodPole"/>
+        <property name="ItemCount" value="8"/>
+    </property>
+    <drop event="Fall" count="0" prob="0"/>
+    <property name="Group" value="Building,advBuilding"/>
+ </block>
+
+ And wanting to change all upgrade on all blocks to use 16 items instead of 8
+ 
+ <set xpath="//property[@name='ItemCount']">16</set>
+ 
+ Or wanting only to set those with value 8 to 16
+ 
+ <set xpath="//property[@name='ItemCount' and @value='8']">16</set>
+ 
+ This is why xpath wins from manual editing, since it can do quite specific but still bulk changes to stuff with just 1 line of code.
+ 
+ Though you always need to check if you do not hit something else, ItemCount could be used in other places that you do not want to affect.
+ 
+ 
+ TAKING NOTES USING <!-- --> IN XML:
+ ------------ 
+ 
+ You cannot use <!-- --> within a node declaration or it will Spaatz out
+ 
+ For Example:
+ 
+ <configs>
+	daysAliveChangeWhenKilled="2"
+	difficultyBonus="1.2"
+	startingWeight ="1"
+	diminishingReturns ="0.5"
+		
+	<!-- Dont add comments here -->
+
+	lootBonusEvery = "12"
+	lootBonusMaxCount = "30"
+	lootBonusScale = "25"
+ </configs>
+ 
+ 
+ 
+ ================================

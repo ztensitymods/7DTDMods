@@ -3,5 +3,5 @@ mechBee,entityclasses,Entity,Rogue Messiah Bee
 mechDrone,entityclasses,Entity,Rogue Messiah Drone
 mechRobot,entityclasses,Entity,Rogue Messiah Bot
 mechRobotArmy,entityclasses,Entity,Messiah Bot Boss
-mechSphereI,entityclasses,Entity,Messiah's Last Defense
-mechSphereII,entityclasses,Entity,Messiah's Bot Defense Boss
+mechSphereI,entityclasses,Entity,Messiah's Bot Defense
+mechSphereII,entityclasses,Entity,Messiah's Last Defense Boss
