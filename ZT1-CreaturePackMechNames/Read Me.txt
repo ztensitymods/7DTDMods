@@ -1,6 +1,7 @@
 
- Creature Pack Mech Names - Version 1.2.1
+ Creature Pack Mech Renaming - Version 1.2.1
  Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
+ Introduction to Shotgun Messiah's Last, But Scattered Commission
  
  
  ABOUT THIS MOD
@@ -33,12 +34,12 @@
  MECH RENAMES
  =======
  
- mechBee = Junk Bee
- mechDrone = Drone
- mechRobot = Robot
- mechRobotArmy = Mech Bot
- mechSphereI = Mech Sphere
- mechSphereIIMech = Sphere II
+ mechBee = S. Messiah Bee
+ mechDrone = S. Messiah Drone
+ mechRobot = S. Messiah Bot
+ mechRobotArmy = S. Messiah Bot Boss
+ mechSphereI = S. Messiah's Bot Defense
+ mechSphereIIMech = S. Messiah's Last Defense Boss 
  
  
  ================================

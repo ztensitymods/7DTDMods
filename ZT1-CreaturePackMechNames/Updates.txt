@@ -1,5 +1,5 @@
 
- Creature Pack Mech Names - Version 1.2.1
+ Creature Pack Mech Renaming - Version 1.2.1
  Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
  Updates Log 1.2.1
  
@@ -27,7 +27,12 @@
  MECHS LOCALIZATION CHANGES:
  ======
  
- mechRobot was Robot, now is Rogue Bot
+ mechBee was Junk Bee, but is now S. Messiah Bee
+ mechDrone was Drone, but is now S. Messiah Drone
+ mechRobot was Robot, but is now S. Messiah Bot
+ mechRobotArmy was Mech Bot, but is now S. Messiah Bot Boss
+ mechSphereI was Mech Sphere, but is now S. Messiah's Bot Defense
+ mechSphereIIMech was Sphere II, but is now S. Messiah's Last Defense Boss 
  
  
  
