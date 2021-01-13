@@ -10,5 +10,4 @@
 
 	<set xpath="//entity_class[@name='mechSphereII']/effect_group/passive_effect/@value">900</set>
 
-	
 </configs>
