@@ -1,9 +1,14 @@
 <configs>
-	<append xpath="/entity_classes/entity_class[@name='mechRobotArmy']">
+
+    <append xpath="/entity_classes/entity_class[@name='mechRobotArmy']">
+    
+        <effect_group name="Base Effects">                
+            <passive_effect name="HealthMax" operation="base_set" value="800"/>
+        </effect_group>
+    
+    </append>
+
+	<set xpath="//entity_class[@name='mechSphereII']/effect_group/passive_effect/@value">900</set>
+
 	
-		<effect_group name="Base Effects">                
-			<passive_effect name="HealthMax" operation="base_set" value="800"/>
-		</effect_group>
-	
-	</append>
 </configs>
