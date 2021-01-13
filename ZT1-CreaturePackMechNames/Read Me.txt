@@ -34,12 +34,12 @@
  MECH RENAMES
  =======
  
- mechBee = S. Messiah Bee
- mechDrone = S. Messiah Drone
- mechRobot = S. Messiah Bot
- mechRobotArmy = S. Messiah Bot Boss
- mechSphereI = S. Messiah's Bot Defense
- mechSphereIIMech = S. Messiah's Last Defense Boss 
+ mechBee = SGM Bee
+ mechDrone = Shotgun Messiah Drone
+ mechRobot = Rogue Messiah Bot
+ mechRobotArmy = Shotgun Messiah Bot Boss
+ mechSphereI = Messiah's Bot Defense
+ mechSphereIIMech = Messiah's Last Defense Boss
  
  
  ================================

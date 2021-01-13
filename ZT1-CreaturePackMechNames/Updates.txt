@@ -28,12 +28,12 @@
  MECHS LOCALIZATION CHANGES:
  ======
  
- mechBee was Junk Bee, but is now S. Messiah Bee
- mechDrone was Drone, but is now S. Messiah Drone
- mechRobot was Robot, but is now S. Messiah Bot
- mechRobotArmy was Mech Bot, but is now S. Messiah Bot Boss
- mechSphereI was Mech Sphere, but is now S. Messiah's Bot Defense
- mechSphereIIMech was Sphere II, but is now S. Messiah's Last Defense Boss 
+ mechBee was Junk Bee, but is now SGM Bee
+ mechDrone was Drone, but is now Shotgun Messiah Drone
+ mechRobot was Robot, but is now Rogue Messiah Bot
+ mechRobotArmy was Mech Bot, but is now Shotgun Messiah Bot Boss
+ mechSphereI was Mech Sphere, but is now Messiah's Bot Defense
+ mechSphereIIMech was Sphere II, but is now Messiah's Last Defense Boss
  
  
  
