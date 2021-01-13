@@ -1,10 +1,10 @@
 Key,File,Type,english
 zombieSanta,entityclasses,Entity,Mall Santa
 zombieSantaFeral,entityclasses,Entity,Feral Mall Santa
-zombieNurseTemplate,entityclasses,Entity,Nurse Mary
-zombieNurseTemplateFeral,entityclasses,Entity,Feral Nurse Mary
-zombieFemaleTutorial,entityclasses,Entity,Lida
-zombieFemaleTutorialFeral,entityclasses,Entity,Feral Lida
+zombieNurseTemplate,entityclasses,Entity,Infected Nurse
+zombieNurseTemplateFeral,entityclasses,Entity,Feral Nurse
+zombieFemaleTutorial,entityclasses,Entity,Infected Neighbor
+zombieFemaleTutorialFeral,entityclasses,Entity,Feral Neighbor
 zombieGuppyBlackSoldierMaskHelmet,entityclasses,Entity,Masked Soldier
 zombieGuppyBlackSoldierMaskHelmetFeral,entityclasses,Entity,Feral Masked Soldier
 zombieGuppyBlackSoldierHelmetNoMask,entityclasses,Entity,Infected Soldier
@@ -46,12 +46,12 @@ zombieHughRadiated,entityclasses,Entity,Radiated Frozen Hugh
 zombieGuppyBaldCop,entityclasses,Entity,Infected Cop
 zombieGuppyBaldMan,entityclasses,Entity,Infected
 zombieGuppyBeatCop,entityclasses,Entity,Infected Deputy
-zombieGuppyBelle,entityclasses,Entity,Belle
-zombieGuppyCarmela,entityclasses,Entity,Carmela
-zombieGuppyLucy,entityclasses,Entity,Lucy
-zombieMalacayFCiv01,entityclasses,Entity,Tarah
+zombieGuppyBelle,entityclasses,Entity,Infected Schoolgirl
+zombieGuppyCarmela,entityclasses,Entity,The Walker
+zombieGuppyLucy,entityclasses,Entity,Hungry Child
+zombieMalacayFCiv01,entityclasses,Entity,Infected Civilian
 zombieGuppyPete,entityclasses,Entity,Pete
-zombieGirl,entityclasses,Entity,Karen
+zombieGirl,entityclasses,Entity,Infected Teacher
 zombieGuppyHungryJeff,entityclasses,Entity,Hungry Jeff
 zombieGuppyNurse,entityclasses,Entity,Infected Nurse's Aid
 zombieGuppyOldManZombie,entityclasses,Entity,Infected Hobo

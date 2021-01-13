@@ -1,7 +1,7 @@
 
- Creature Pack Zombie Renaming - Version 1.3.1
+ Creature Pack Zombie Renaming - Version 1.3.2
  Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
- Updates Log 1.3.1
+ Updates Log 1.3.2
  
  
  ================================
@@ -117,10 +117,34 @@
  - v1.3.1 -
  ==============
  
- Read Me Adjustment:
+ READ ME ADMUSTMENT:
  ======
  
  Adjusted text from A19.2b4 or 19.2b4 to 19.3.
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v1.3.2 -
+ ==============
+ 
+ ZOMBIE LOCALIZATION CHANGES:
+ ======
+ 
+ zombieNurseTemplate was Nurse Mary, now is Infected Nurse
+ zombieNurseTemplateFeral was Feral Nurse Mary, now is Feral Nurse
+ zombieMalacayFCiv01 was Tarah, now is Infected Civilian
+ zombieGuppyLucy was Lucy, now is Hungry Child
+ zombieGuppyCarmela was Carmela, now is The Walker
+ zombieGuppyBelle was Belle, now is Infected Schoolgirl
+ zombieFemaleTutorial was Lisa, now is Infected Neighbor
+ zombieFemaleTutorialFeral was Feral Lida, now is Feral Neighbor
+
+ Changed zombieGuppyAlma to "Infected Child"
+ Changed zombieGirl to "Infected Teacher"
  
  
  

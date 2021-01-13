@@ -1,5 +1,5 @@
 
- Creature Pack Zombie Renaming - Version 1.3.1
+ Creature Pack Zombie Renaming - Version 1.3.2
  Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
  
  
@@ -35,10 +35,10 @@
  
  zombieSanta = Mall Santa
  zombieSantaFeral = Feral Mall Santa
- zombieNurseTemplate = Nurse Mary
- zombieNurseTemplateFeral = Feral Nurse Mary
- zombieFemaleTutorial = Lida
- zombieFemaleTutorialFeral = Feral Lida
+ zombieNurseTemplate = Infected Nurse
+ zombieNurseTemplateFeral = Feral Nurse
+ zombieFemaleTutorial = Infected Neighbor
+ zombieFemaleTutorialFeral = Feral Neighbor
  zombieGuppyBlackSoldierMaskHelmet = Masked Soldier
  zombieGuppyBlackSoldierMaskHelmetFeral = Feral Masked Soldier
  zombieGuppyBlackSoldierHelmetNoMask = Infected Soldier
@@ -70,7 +70,7 @@
  zombieGuppyMalePatient = Patient Zero
  zombieGuppyProstitute = Stripper
  zombieGuppyAlma = Infected Child
- zombieGirl = Karen
+ zombieGirl = Infected Teacher
  zombieRekt = Infected Farmer
  zombieRektFeral = Feral Farmer
  zombieRektRadiated = Radiated Farmer
@@ -80,10 +80,10 @@
  zombieHughRadiated = Radiated Frozen Hugh
  zombieGuppyBaldMan = Infected
  zombieGuppyBeatCop = Infected Deputy
- zombieGuppyBelle = Belle
- zombieGuppyCarmela = Carmela
- zombieGuppyLucy = Lucy
- zombieMalacayFCiv01 = Tarah
+ zombieGuppyBelle = Infected Schoolgirl
+ zombieGuppyCarmela = The Walker
+ zombieGuppyLucy = Hungry Child
+ zombieMalacayFCiv01 = Infected Civilian
  zombieGuppyPete = Pete
  zombieGuppyHungryJeff = Hungry Jeff
  zombieGuppyNurse = Infected Nurse's Aid
