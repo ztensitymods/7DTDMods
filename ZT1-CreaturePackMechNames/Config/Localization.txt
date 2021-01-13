@@ -2,6 +2,6 @@ Key,File,Type,english
 mechBee,entityclasses,Entity,SGM Bee
 mechDrone,entityclasses,Entity,Shotgun Messiah Drone
 mechRobot,entityclasses,Entity,Rogue Messiah Bot
-mechRobotArmy,entityclasses,Entity,Shotgun Messiah Bot Boss
-mechSphereI,entityclasses,Entity,Messiah's Bot Defense
-mechSphereII,entityclasses,Entity,Messiah's Last Defense Boss
+mechRobotArmy,entityclasses,Entity,Shotgun Messiah Boss
+mechSphereI,entityclasses,Entity,Messiah's Mecha Claw
+mechSphereII,entityclasses,Entity,Messiah's Claw Boss

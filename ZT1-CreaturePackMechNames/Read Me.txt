@@ -37,9 +37,9 @@
  mechBee = SGM Bee
  mechDrone = Shotgun Messiah Drone
  mechRobot = Rogue Messiah Bot
- mechRobotArmy = Shotgun Messiah Bot Boss
- mechSphereI = Messiah's Bot Defense
- mechSphereIIMech = Messiah's Last Defense Boss
+ mechRobotArmy = Shotgun Messiah Boss
+ mechSphereI = Messiah's Mecha Claw
+ mechSphereIIMech = Messiah's Claw Boss
  
  
  ================================

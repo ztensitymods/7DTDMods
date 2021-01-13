@@ -31,9 +31,9 @@
  mechBee was Junk Bee, but is now SGM Bee
  mechDrone was Drone, but is now Shotgun Messiah Drone
  mechRobot was Robot, but is now Rogue Messiah Bot
- mechRobotArmy was Mech Bot, but is now Shotgun Messiah Bot Boss
- mechSphereI was Mech Sphere, but is now Messiah's Bot Defense
- mechSphereIIMech was Sphere II, but is now Messiah's Last Defense Boss
+ mechRobotArmy was Mech Bot, but is now Shotgun Messiah Boss
+ mechSphereI was Mech Sphere, but is now Messiah's Mecha Claw
+ mechSphereIIMech was Sphere II, but is now Messiah's Claw Boss
  
  
  
