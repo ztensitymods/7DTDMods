@@ -1,7 +1,7 @@
 Key,File,Type,english
-mechBee,entityclasses,Entity,Junk Bee
-mechDrone,entityclasses,Entity,Drone
-mechRobot,entityclasses,Entity,Robot
-mechRobotArmy,entityclasses,Entity,Mech Bot
-mechSphereI,entityclasses,Entity,Mech Sphere
-mechSphereII,entityclasses,Entity,Mech Sphere II
+mechBee,entityclasses,Entity,Rogue Messiah Bee
+mechDrone,entityclasses,Entity,Rogue Messiah Drone
+mechRobot,entityclasses,Entity,Rogue Messiah Bot
+mechRobotArmy,entityclasses,Entity,Messiah Bot Boss
+mechSphereI,entityclasses,Entity,Messiah's Last Defense
+mechSphereII,entityclasses,Entity,Messiah's Bot Defense Boss
