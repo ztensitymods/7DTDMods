@@ -1,5 +1,5 @@
 
- Creature Pack Human Names - Version 1.2.0
+ Creature Pack Human Names - Version 1.2.1
  Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
  
  
@@ -50,21 +50,21 @@
  humanWhispererFemale02 (9 Variants) = Kidnapper
  humanWhispererMale01 (9 Variants) = Kidnapper
  humanWhispererMale02 (9 Variants) = Kidnapper
- humanBakerBanditChef (1 Variant) = Baker
- humanBakerSurvivor (9 Variants) = Baker
+ humanBakerBanditChef (1 Variant) = The Dirty Chef
+ humanBakerSurvivor (9 Variants) = Baker Bentlee
  humanNurseSurvivor (9 Variants) = Nurse Claire
- humanSoldierGirl01Survivor (8 Variants) = Soldier
- humanSoldierDeltaSurvivor (8 Variants) = Soldier
- humanSoldierHunterSurvivor (8 Variants) = Hunter
- humanSoldierNationalGuardSurvivor (8 Variants) = National Guard Survivor
- humanSoldierRangerSurvivor (8 Variants) = Ranger
- humanVaultFemaleResidentSurvivor (2 Variants) = Resident
- humanVaultMaleResidentSurvivor (2 Variants) = Resident
- humanVaultFemaleSecuritySurvivor (2 Variants) = Security Guard
- humanVaultMaleSecuritySurvivor (2 Variants) = Security Guard
+ humanSoldierGirl01Survivor (8 Variants) = Soldier Casi
+ humanSoldierDeltaSurvivor (8 Variants) = Soldier Sig
+ humanSoldierHunterSurvivor (8 Variants) = Hunter Harris
+ humanSoldierNationalGuardSurvivor (8 Variants) = Guard Giovanni
+ humanSoldierRangerSurvivor (8 Variants) = Ranger Matt
+ humanVaultFemaleResidentSurvivor (2 Variants) = Zola
+ humanVaultMaleResidentSurvivor (2 Variants) = Ilario
+ humanVaultFemaleSecuritySurvivor (2 Variants) = Security Guard Brynn
+ humanVaultMaleSecuritySurvivor (2 Variants) = Security Guard Braxis
  humanVaultDoctorSurvivor (2 Variants) = Doctor Veronica
  humanVaultPowerArmorSurvivor (2 Variants) = Armored Security Guard
- humanVaultBossSurvivor (2 Variants) = Vault Boss
+ humanVaultBossSurvivor (2 Variants) = Vault Boss Willem
  
  
  ================================
