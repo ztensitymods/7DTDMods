@@ -11,7 +11,7 @@
  
  Now, this is a modlet that not only renames six mechs from Xyth's Creature Pack Mechs, but it also doubles the health for select bots, making them bosses, changes the name of the mod from Creature Pack Mechs Renaming to Shoutgun Messiahs Mechs, creates lore for the mechs and sets up for more potential expansive updates in the future.
  
- When using a health bar, such as Sirillion's SMX Series and it's optional Target Health Bar modlet, Khaine's HP Bars or KonradSB's Hit Bar Health Bar, players will now have immersive names for animals added by this modlet.
+ When using a health bar, such as Sirillion's SMX Series and it's optional Target Health Bar modlet, Khaine's HP Bars or KonradSB's Hit Bar Health Bar, players will now have immersive names for mechs added by this modlet.
  
  
  LORE
@@ -19,7 +19,7 @@
  
  Months before the zombie apocalypse took over the world and much of the human population with it, titan company Shotgun Messiah was doing everything it could to thrive as a company, survive and ward off the undead. To this end, they commissioned six different mechs as a last resort to protect their company, their assets and maybe their employees if they were lucky.
  
- Despite their efforts, it seemed for naught, as they clearly failed with a multitude of zombies taking over the world, some of which have gone way beyond decaying and radiation to this day. Now, months if not years after it all started the ones that survived are starting to see machines that fight like us, but the thing is? They're coming after us.
+ Despite their efforts, it seemed for naught, as they clearly failed with hordes of zombies taking over the world, some of which have gone way beyond decaying and radiation to this day. Now, months if not years after it all started the ones that survived are starting to see machines that fight like us, but the thing is? They're coming after us.
  
  Whatever Shotgun Messiah's CEOs had commissioned, they are starting to break free from what we can only assume are the factories. We have yet to confirm how they are getting out, but just when we thought the walkers were too much to handle, now this shit is kicking our ass.
  
@@ -32,6 +32,8 @@
  You will however absolutely require a health bar mod in order for this mod to make an effect on your game, otherwise you simply won't see the changes. You will have to pick one of three health bars currently available by mod authors Sirillion, Khaine and KonradSB.
 
  To have the same UI, health bar, etc. as found in this modlet's showcase images, you must install Sirillion's SMX series and the accompanying Target Health Bar that is an optional download either through the launcher or via Nexus.
+ 
+ You will finally require Xyth's modlet Creature Mechs Pack for this to work.
  
  
  ================================
@@ -116,6 +118,8 @@
  =======
  
  If it wasn't for discussion, guidance and help getting started from other mod authors in Guppy's Discord like wrathmaniac, TSPBX, Xyth, Mumpfy, sphereii, Sirillion, saminal, Khaine, chiko and Guppy himself, none of this would have been possible.
+ 
+ Thank you Bdubyah and Haidr'Gna for helping me get the XPATH together for the entityclasses.xml to adjust the HP values of the mechs and making it work.
  
  
  CREDITS
