@@ -93,14 +93,16 @@
  ================================
  
  
- SHOTGUN MESSIAHS MECHS' FUTURE
+ SHOTGUN MESSIAH MECHS' FUTURE
  =======
  
  The idea to create lore for the mechs surrounding Shotgun Messiah because I was trying to think of what companies are prevalent in the vanilla game. I decided that this company was the most prevalent in terms of being one of the only POIs in the game with a factory big enough to potentially house some of these mechs and it gave me the idea that maybe they were one companies that would be the richest and therefore most capable of commissioning these guys.
  
- For the future, I plan to work on implementing a way to make all, some combination or very specific mechs to spawn at the Shotgun Messiah Factories and/or Shotgun Messiah shops (SGM Bee, Rogue Messiah Bot and maybe Messiah's Mecha Claw as examples).
+ I plan on eventually implementing a way to make mechs spawn at the Shotgun Messiah Factories and Shotgun Messiah shops in some way, shape or form. Currently, all images shown in this showcase represent what I'd like to do with this mod with future iterations, as currently mechs will randomly spawn in most biomes.
  
- Mod author mentioned that potentially implementing quests would go well with the lore created for the mechs and I don't disagree. So that could be in the works in the long haul. However, that for now, will be put on the back burner.
+ There is also a possibility that either by myself or through some collaborative effort that through a future update, quests could be created to go along with the lore that has been established for the mechs. This could be in the works in the long haul, however for now, this will be put on the back burner.
+ 
+ Mod author chiko mentioned that potentially implementing quests would go well with the lore created for the mechs and I don't disagree. That is what inspired the quest creation idea.
  
  NOTES
  =======
