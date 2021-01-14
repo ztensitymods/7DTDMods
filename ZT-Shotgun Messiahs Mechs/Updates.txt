@@ -1,7 +1,7 @@
 
  Shotgun Messiahs Mechs - Version 1.3.0
  Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
- Introduction to Shotgun Messiah's Last Scattered Commission
+ Introduction to Shotgun Messiah's Failed Commission
  Updates Log 1.3.0
  
  
@@ -51,10 +51,21 @@
  LORE CREATION:
  ======
  
- The beginning of lore has been created for the mech's that were originally created by Xyth and the community project. The idea is that the titan company, Shotgun Messiah, commissioned an assortment of these six various mechs as a last resort to protect their company, their assets and maybe their people. It clearly failed amidst the final months before the apocalypse, but they tried.
+ Months before the zombie apocalypse took over the world and much of the human population with it, titan company Shotgun Messiah was doing everything it could to thrive as a company, survive and ward off the undead. To this end, they commissioned six different mechs as a last resort to protect their company, their assets and maybe their employees if they were lucky.
  
- This idea came to mind as Shotgun Messiah is one of the only POIs in the game with a factory big enough to potentially house some of them and it gave me the idea that maybe they were a rich company.
+ Despite their efforts, it seemed for naught, as they clearly failed with a multitude of zombies taking over the world, some of which have gone way beyond decaying and radiation to this day. Now, months if not years after it all started the ones that survived are starting to see machines that fight like us, but the thing is? They're coming after us.
  
+ Whatever Shotgun Messiah's CEOs had commissioned, they are starting to break free from what we can only assume are the factories. We have yet to confirm how they are getting out, but just when we thought the walkers were too much to handle, now this shit is kicking our ass.
+ 
+ 
+ SHOTGUN MESSIAHS MECHS' FUTURE
+ =======
+ 
+ The idea to create lore for the mechs surrounding Shotgun Messiah because I was trying to think of what companies are prevalent in the vanilla game. I decided that this company was the most prevalent in terms of being one of the only POIs in the game with a factory big enough to potentially house some of these mechs and it gave me the idea that maybe they were one companies that would be the richest and therefore most capable of commissioning these guys.
+ 
+ For the future, I plan to work on implementing a way to make all, some combination or very specific mechs to spawn at the Shotgun Messiah Factories and/or Shotgun Messiah shops (SGM Bee, Rogue Messiah Bot and maybe Messiah's Mecha Claw as examples).
+ 
+ Mod author mentioned that potentially implementing quests would go well with the lore created for the mechs and I don't disagree. So that could be in the works in the long haul. However, that for now, will be put on the back burner.
  
  
  ================================ 

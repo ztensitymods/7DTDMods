@@ -1,15 +1,27 @@
 
  Shotgun Messiahs Mechs - Version 1.3.0
  Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
- Introduction to Shotgun Messiah's Last Scattered Commission
+ Introduction to Shotgun Messiah's Failed Commission
  
  
  ABOUT THIS MOD
  ==============
  
- Creature Pack Mech Names is built off the premise of Vanilla Creature Renaming and is a renaming modlet that instead of targeting vanilla creature names, targets creatures added by Xyth's Mech Pack. 
+ This is a modlet that was originally built off the premise of Vanilla Creature Renaming and it's original iteration was designed to solely rename creatures. Instead of targeting vanilla creature names, this modlet targeted creatures added by Xyth's Creature Mechs Pack.
+ 
+ Now, this is a modlet that not only renames six mechs from Xyth's Creature Pack Mechs, but it also doubles the health for select bots, making them bosses, changes the name of the mod from Creature Pack Mechs Renaming to Shoutgun Messiahs Mechs, creates lore for the mechs and sets up for more potential expansive updates in the future.
  
  When using a health bar, such as Sirillion's SMX Series and it's optional Target Health Bar modlet, Khaine's HP Bars or KonradSB's Hit Bar Health Bar, players will now have immersive names for animals added by this modlet.
+ 
+ 
+ LORE
+ =======
+ 
+ Months before the zombie apocalypse took over the world and much of the human population with it, titan company Shotgun Messiah was doing everything it could to thrive as a company, survive and ward off the undead. To this end, they commissioned six different mechs as a last resort to protect their company, their assets and maybe their employees if they were lucky.
+ 
+ Despite their efforts, it seemed for naught, as they clearly failed with a multitude of zombies taking over the world, some of which have gone way beyond decaying and radiation to this day. Now, months if not years after it all started the ones that survived are starting to see machines that fight like us, but the thing is? They're coming after us.
+ 
+ Whatever Shotgun Messiah's CEOs had commissioned, they are starting to break free from what we can only assume are the factories. We have yet to confirm how they are getting out, but just when we thought the walkers were too much to handle, now this shit is kicking our ass.
  
  
  REQUIREMENTS
@@ -30,6 +42,8 @@
  
  All robots needing renamed from name type similar to "mechBee" have been replaced with an immersive counterpart. Specifically, there are six different mechanical entities that are added to the game by Xyth's pack from robots and drones to spheres.
  
+ Health bars have been increased for two different mechs to reflect their new boss statuses as they look a little more dangerous than their counterpart. For "mechRobotArmy," the new HP max is 800 and for "mechSphereII," the HP max is 900.
+ 
  
  MECH RENAMES
  =======
@@ -39,7 +53,7 @@
  mechRobot = Rogue Messiah Bot
  mechRobotArmy = Shotgun Messiah Boss
  mechSphereI = Messiah's Mecha Claw
- mechSphereIIMech = Messiah's Claw Boss
+ mechSphereII = Messiah's Claw Boss
  
  
  ================================
@@ -78,6 +92,15 @@
  
  ================================
  
+ 
+ SHOTGUN MESSIAHS MECHS' FUTURE
+ =======
+ 
+ The idea to create lore for the mechs surrounding Shotgun Messiah because I was trying to think of what companies are prevalent in the vanilla game. I decided that this company was the most prevalent in terms of being one of the only POIs in the game with a factory big enough to potentially house some of these mechs and it gave me the idea that maybe they were one companies that would be the richest and therefore most capable of commissioning these guys.
+ 
+ For the future, I plan to work on implementing a way to make all, some combination or very specific mechs to spawn at the Shotgun Messiah Factories and/or Shotgun Messiah shops (SGM Bee, Rogue Messiah Bot and maybe Messiah's Mecha Claw as examples).
+ 
+ Mod author mentioned that potentially implementing quests would go well with the lore created for the mechs and I don't disagree. So that could be in the works in the long haul. However, that for now, will be put on the back burner.
  
  NOTES
  =======
