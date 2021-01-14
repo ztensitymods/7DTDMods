@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="ZT-Shotgun Messiahs Mechs" />
+    <Description value="This is modlet that renames six mechs from Xyth's Creature Pack Mechs and doubles the health for select bots, making them bosses. As one of the next iterations of what was previously titled Creature Pack Mechs Renaming, ZT-Shoutgun Messiahs Mechs seeks to establish new lore surrounding six mechs that were commissioned by the titan company months before the apocalyse. There is more to come." />
+    <Author value="Ztensity" />
+    <Version value="1.3.0" />
+  </ModInfo>
+</xml>

@@ -1,0 +1,60 @@
+
+ Shotgun Messiahs Mechs - Version 1.3.0
+ Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
+ Introduction to Shotgun Messiah's Last Scattered Commission
+ Updates Log 1.3.0
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v1.2.0 -
+ ==============
+ 
+ Read Me Adjustment:
+ ======
+ 
+ Added this updates log, changed modlet version from 1.1 to 1.2.0 and adjusted text from A19.2b4 and 19.2b4 to 19.3.
+ 
+ 
+ 
+ ================================
+ 
+ 
+ - v1.3.0 -
+ ==============
+ 
+ MECHS LOCALIZATION CHANGES:
+ ======
+ 
+ mechBee was Junk Bee, but is now SGM Bee
+ mechDrone was Drone, but is now Shotgun Messiah Drone
+ mechRobot was Robot, but is now Rogue Messiah Bot
+ mechRobotArmy was Mech Bot, but is now Shotgun Messiah Boss
+ mechSphereI was Mech Sphere, but is now Messiah's Mecha Claw
+ mechSphereIIMech was Sphere II, but is now Messiah's Claw Boss
+ 
+ 
+ MODLET NAME CHANGE:
+ ======
+ 
+ Modlet has changed names from Creature Pack Mechs Renaming (ZT1-CreaturePackMechNames) v1.2.0 to Shotgun Messiahs Mechs (ZT-Shotgun Messiahs Mechs) v1.3.0.
+ 
+ 
+ ENTITYCLASSES XML ADDITION:
+ ======
+ 
+ An entityclasses.xml has been added, which adjusts the HP levels of mechRobotArmy from 400 to 800 and the mechSphereIIMech from 500 to 900. This was done to rename them with boss names.
+ 
+ 
+ LORE CREATION:
+ ======
+ 
+ The beginning of lore has been created for the mech's that were originally created by Xyth and the community project. The idea is that the titan company, Shotgun Messiah, commissioned an assortment of these six various mechs as a last resort to protect their company, their assets and maybe their people. It clearly failed amidst the final months before the apocalypse, but they tried.
+ 
+ This idea came to mind as Shotgun Messiah is one of the only POIs in the game with a factory big enough to potentially house some of them and it gave me the idea that maybe they were a rich company.
+ 
+ 
+ 
+ ================================ 
