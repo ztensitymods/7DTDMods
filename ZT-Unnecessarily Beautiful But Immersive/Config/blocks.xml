@@ -3903,7 +3903,7 @@
 	
 		<block name="HN Main Double Door">
 			<property name="Class" value="DoorSecure" />
-			<property name="Material" value="Miron" />
+			<property name="Material" value="MwoodMetal" />
 			<property name="MaxDamage" value="1200"/>
 			<property name="Shape" value="ModelEntity" />
 			<property name="Collide" value="movement,melee,rocket,bullet" />
@@ -3922,7 +3922,7 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" count="0" />
+			<drop event="Destroy" name="resourceWood" count="10" />
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
