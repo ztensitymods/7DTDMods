@@ -17,19 +17,6 @@
  ================================
  
  
- Ztensity's Custom Perks Renaming Modlet
- =======
- 
- One of the staples in my load order is mod author's Zuzul0l's Custom Perks: Prestige Skills. The modlet adds up to fifty new perks in an extra tab for spending points on. A mod that not only makes the long game last that much longer, but it also can give a lot more variety into a players game.
- 
- After using this mod for a while, I discovered that there was an issue with the UI title next to "Perks & Attributes" and "Perk Books." Instead of being titled "Prestige Skills" as pointed out on Nexus and in the progressions.xml, it was showing "attprestige."
- 
- What this mod does is localize and rename "attprestige" to a more appropriate name that players will see in-game as "Prestige Perks."
- 
- 
- ================================
- 
- 
  Unnecessarily Beautiful But Immersive 1.2.7 (Standard Version)
  =======
  
