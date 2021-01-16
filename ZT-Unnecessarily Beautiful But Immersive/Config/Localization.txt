@@ -106,7 +106,7 @@ HN Elegant Chair 1,blocks,Variant,New,Chair
 HN PC Chair Black,blocks,Variant,New,Computer Chair
 HN PC Chair Brown,blocks,Variant,New,Computer Chair
 HN PC Chair White,blocks,Variant,New,Computer Chair
-HN Modern Chair,blocks,Variant,New,Comfy Chair
+HN Modern Chair,blocks,Variant,New,Chair
 HN Chair Metal,blocks,Variant,New,Metal Chair
 HN Umbrella Blue,blocks,Variant,New,Blue Umbrella
 HN Umbrella Green,blocks,Variant,New,Green Umbrella
@@ -154,7 +154,7 @@ HN Garden Table Round,blocks,Variant,New,Round Garden Table
 ZTPCRebuild,blocks,Variant,New,Desktop PC
 ZTLaptopRebuild,blocks,Variant,New,Laptop
 HN Video Game Console PS,blocks,Variant,New,Playstation 4 Console 
-HN Sliding Door Mirrored Glass,blocks,Variant,New,Bulletproof Mirrored Doors
+HN Sliding Door Mirrored Glass,blocks,Variant,New,Mirrored Sliding Glass Doors
 HN Glass Closet Door 1,blocks,Variant,New,Glass Closet Door
 HN Glass Closet Door 2,blocks,Variant,New,Glass Closet Door
 HN Glass Closet Door 3,blocks,Variant,New,Glass Closet Door
