@@ -3923,13 +3923,15 @@
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
 			<drop event="Destroy" name="resourceWood" count="10" />
+			<drop event="Fall" name="resourceWood" count="5" prob="0.75" stick_chance="1" />
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
 	
 		<block name="HN Main Door">
 			<property name="Class" value="DoorSecure" />
-			<property name="Material" value="Mmetal" />
+			<property name="Material" value="MwoodReinforced" />
+			<property name="MaxDamage" value="900"/>
 			<property name="Shape" value="ModelEntity" />
 			<property name="Collide" value="movement,melee,rocket,bullet" />
 			<property name="Tag" value="Door" />
@@ -3947,7 +3949,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" count="0" />
+			<drop event="Destroy" name="resourceWood" count="10" />
+			<drop event="Fall" name="resourceWood" count="5" prob="0.75" stick_chance="1" />
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
@@ -3955,6 +3958,7 @@
 		<block name="HN Wood Double Door Brown">
 			<property name="Class" value="DoorSecure" />
 			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="750"/>
 			<property name="Shape" value="ModelEntity" />
 			<property name="Collide" value="movement,melee,rocket,bullet" />
 			<property name="Tag" value="Door" />
@@ -3973,7 +3977,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" count="0" />
+			<drop event="Destroy" name="resourceWood" count="10" />
+			<drop event="Fall" name="resourceWood" count="5" prob="0.75" stick_chance="1" />
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
@@ -3981,6 +3986,7 @@
 		<block name="HN Wood Door Brown">
 			<property name="Class" value="DoorSecure" />
 			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="500"/>
 			<property name="Shape" value="ModelEntity" />
 			<property name="Collide" value="movement,melee,rocket,bullet" />
 			<property name="Tag" value="Door" />
@@ -3998,7 +4004,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" count="0" />
+			<drop event="Destroy" name="resourceWood" count="10" />
+			<drop event="Fall" name="resourceWood" count="5" prob="0.75" stick_chance="1" />
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
@@ -4006,6 +4013,7 @@
 		<block name="HN Wood Double Door Gray">
 			<property name="Class" value="DoorSecure" />
 			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="750"/>
 			<property name="Shape" value="ModelEntity" />
 			<property name="Collide" value="movement,melee,rocket,bullet" />
 			<property name="Tag" value="Door" />
@@ -4024,7 +4032,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" count="0" />
+			<drop event="Destroy" name="resourceWood" count="10" />
+			<drop event="Fall" name="resourceWood" count="5" prob="0.75" stick_chance="1" />
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
@@ -4032,6 +4041,7 @@
 		<block name="HN Wood Door Gray">
 			<property name="Class" value="DoorSecure" />
 			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="500"/>
 			<property name="Shape" value="ModelEntity" />
 			<property name="Collide" value="movement,melee,rocket,bullet" />
 			<property name="Tag" value="Door" />
@@ -4049,7 +4059,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" count="0" />
+			<drop event="Destroy" name="resourceWood" count="10" />
+			<drop event="Fall" name="resourceWood" count="5" prob="0.75" stick_chance="1" />
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
@@ -4057,6 +4068,7 @@
 		<block name="HN Wood Double Door Clear">
 			<property name="Class" value="DoorSecure" />
 			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="750"/>
 			<property name="Shape" value="ModelEntity" />
 			<property name="Collide" value="movement,melee,rocket,bullet" />
 			<property name="Tag" value="Door" />
@@ -4075,7 +4087,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" count="0" />
+			<drop event="Destroy" name="resourceWood" count="10" />
+			<drop event="Fall" name="resourceWood" count="5" prob="0.75" stick_chance="1" />
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
@@ -4083,6 +4096,7 @@
 		<block name="HN Wood Door Clear">
 			<property name="Class" value="DoorSecure" />
 			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="500"/>
 			<property name="Shape" value="ModelEntity" />
 			<property name="Collide" value="movement,melee,rocket,bullet" />
 			<property name="Tag" value="Door" />
@@ -4100,7 +4114,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" count="0" />
+			<drop event="Destroy" name="resourceWood" count="10" />
+			<drop event="Fall" name="resourceWood" count="5" prob="0.75" stick_chance="1" />
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
@@ -4108,6 +4123,7 @@
 		<block name="HN Wood Double Door White">
 			<property name="Class" value="DoorSecure" />
 			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="750"/>
 			<property name="Shape" value="ModelEntity" />
 			<property name="Collide" value="movement,melee,rocket,bullet" />
 			<property name="Tag" value="Door" />
@@ -4126,7 +4142,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" count="0" />
+			<drop event="Destroy" name="resourceWood" count="10" />
+			<drop event="Fall" name="resourceWood" count="5" prob="0.75" stick_chance="1" />
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
@@ -4134,6 +4151,7 @@
 		<block name="HN Wood Door White">
 			<property name="Class" value="DoorSecure" />
 			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="500"/>
 			<property name="Shape" value="ModelEntity" />
 			<property name="Collide" value="movement,melee,rocket,bullet" />
 			<property name="Tag" value="Door" />
@@ -4151,13 +4169,15 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" count="0" />
+			<drop event="Destroy" name="resourceWood" count="10" />
+			<drop event="Fall" name="resourceWood" count="5" prob="0.75" stick_chance="1" />
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
 		
 		<block name="HN Closet Door Bottom">
-			<property name="Material" value="MwoodReinforced" />
+			<property name="Material" value="Mwood_weak" />
+			<property name="MaxDamage" value="75"/>
 			<property name="StabilitySupport" value="true" />
 			<!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
@@ -4169,13 +4189,15 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1" />
+			<drop event="Destroy" name="resourceWood" count="5" />
+			<drop event="Fall" name="resourceWood" count="3" prob="0.75" stick_chance="1" />
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
 
 		<block name="HN Closet Door Middle">
-			<property name="Material" value="MwoodReinforced" />
+			<property name="Material" value="Mwood_weak" />
+			<property name="MaxDamage" value="75"/>
 			<property name="StabilitySupport" value="true" />
 			<!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
@@ -4187,13 +4209,15 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1" />
+			<drop event="Destroy" name="resourceWood" count="5" />
+			<drop event="Fall" name="resourceWood" count="3" prob="0.75" stick_chance="1" />
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
 
 		<block name="HN Closet Door">
-			<property name="Material" value="MwoodReinforced" />
+			<property name="Material" value="Mwood_weak" />
+			<property name="MaxDamage" value="75"/>
 			<property name="StabilitySupport" value="true" />
 			<!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
@@ -4205,7 +4229,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1" />
+			<drop event="Destroy" name="resourceWood" count="5" />
+			<drop event="Fall" name="resourceWood" count="3" prob="0.75" stick_chance="1" />
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4234,8 +4259,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="2" prob="0.40" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.40" stick_chance="0"/>
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
@@ -4263,8 +4288,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="3" prob="0.45" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.50" stick_chance="0"/>
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
@@ -4290,8 +4315,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="2" prob="0.40" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.40" stick_chance="0"/>
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
 		</block>
@@ -4316,8 +4341,8 @@
 				<property name="resourceForgedIron" value="20" />
 			</property>
 			<property name="CustomUpgradeSound" value="place_block_wood" />
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
      	</block>
@@ -4339,8 +4364,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4362,8 +4387,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4383,8 +4408,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4404,8 +4429,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4426,8 +4451,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4448,8 +4473,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4469,8 +4494,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4490,8 +4515,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4512,8 +4537,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4534,8 +4559,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>		
@@ -4556,8 +4581,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4578,8 +4603,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4600,8 +4625,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4622,8 +4647,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>		
@@ -4644,8 +4669,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>	
@@ -4666,8 +4691,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4688,8 +4713,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4709,8 +4734,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4731,8 +4756,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4753,8 +4778,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4775,8 +4800,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4797,8 +4822,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4819,8 +4844,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4841,8 +4866,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4863,8 +4888,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4885,8 +4910,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4907,8 +4932,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4930,8 +4955,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4952,8 +4977,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4974,8 +4999,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -4996,8 +5021,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>	
@@ -5019,8 +5044,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -5041,8 +5066,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>	
@@ -5063,8 +5088,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>	
@@ -5086,8 +5111,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -5109,8 +5134,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -5130,8 +5155,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -5153,8 +5178,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -5174,8 +5199,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -5197,8 +5222,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -5218,8 +5243,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -5240,8 +5265,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>	
@@ -5262,8 +5287,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>	
@@ -5285,8 +5310,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
@@ -5307,8 +5332,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>	
@@ -5329,8 +5354,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>	
@@ -5352,8 +5377,8 @@
 			<property class="RepairItems">
 				<property name="resourceWood" value="10" />
 			</property>
-			<drop event="Destroy" name="resourceBrokenGlass" count="1" />
-			<drop event="Fall" name="MresourceBrokenGlass" count="1" prob="0.20" stick_chance="0"/>
+			<drop event="Destroy" name="glassBlockVariantHelper" count="5" />
+			<drop event="Fall" name="MresourceBrokenGlass" count="7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
 		</block>
