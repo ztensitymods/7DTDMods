@@ -4,6 +4,6 @@
     <Name value="ZT1-CreaturePackAnimalNames" />
     <Description value="Renaming patch that provides names to animals added by Xyth's 'Creature Pack Animals' for immersion." />
     <Author value="Ztensity" />
-    <Version value="1.3.1" />
+    <Version value="1.3.0" compat="alpha19.3" />
   </ModInfo>
 </xml>
