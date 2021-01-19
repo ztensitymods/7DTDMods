@@ -1,12 +1,14 @@
 
- Unnecessarily Beautiful But Immersive - Version 1.2.8
- The Unnecessary But Beautiful 19.3 Rebuild
+ Unnecessarily Beautiful But Immersive - Version 1.3.0
+ The Unnecessary But Beautiful 19.3b6 Rebuild
  Alternate Version - Gnamod Compatibility
 
  
  This alternate modlet has tweaked recipes that will only work with Gnamod. If you are using this mod without Gnamod, you should immediately delete it and get the standard version on the launcher, Nexus, Forums or Discord.
  
  The recipes that have been changed are: short iron pipe, wood, scrap polymers, clay soil, forged steel and glass block. Gnamod uses: iron pipe, sawed wood, plastic scraps, clay, forged iron (different file), forged steel (different file) and glass. Adjustments can be found in recipes.xml.
+ 
+ In version 1.3.0, blocks.xml and recipes.xml both utilize the new resources to make sure that repairing works, destroying items returns resources properly and if items fall upon placement, they return the appropriate resources.
  
  
  ABOUT THIS MOD
@@ -18,10 +20,17 @@
  
  Not only this, but I have added four unnecessarily, but absolutely immersive features:
  
- 1. In order to turn on the lights, TVs, PC, laptop, fireplace and sound bar, players must now make use of the wire tool. 
+ 1. In order to turn on the lights, TVs, PC, laptop, fireplace and sound bar, players must now make use of the wire tool.
+ 
  2. In order to craft any of the lights however, a player must first have their Intellect perk at lvl 6 and their Advanced Engineering perk at lvl 3.
+ 
  3. If a player is lucky to find the "Basics of Electricity Schematic" at the trader or in the world, they can unlock all lights early.
+ 
  4. Players can now utilize the garden bed, small bed and big bed as a bedroll.
+ 
+ 5. Players can use the wrench line of tools to receive additional resources when destroying a multitude of items, whilst also receiving resources back when using just fists and/or weapons to destroy them.
+ 
+ 6. In order to repair items crafted, players must use specific resources from cloth fragments, wood and glass blocks to forged iron, concrete mix and leather.
  
  I have made the lights an unlockable buildable to make it challenging and rewarding. However, at the same time, vanilla lights require the same skill level before being able to craft. Therefore, this increases immersion further and was a sensible addition to the mod. To add to this as a sort of balancing act, if a player is lucky enough to find a certain schematic, they can also unlock all lights early as well, just like their Vanilla light counterparts.
  
@@ -176,6 +185,8 @@
  Vanilla: Forged Iron (resourceForgedIron) - Gnamod: Forged Iron (resourceIronForged)
  Vanilla: Forged Steel (resourceForgedSteel) - Gnamod: Forged Steel (resourceSteelForged)
  Vanilla: Glass Block (glassBlockVariantHelper) - Gnamod: Glass (resourceGlass)
+ Vanilla: Cloth Fragment (resourceCloth) - Gnamod: Cloth Scraps (harvestClothScrap)
+ 
  
  
  ================================

@@ -1,30 +1,30 @@
 key,source,context,changes,english
 useSwitchLightOff,UI,Menu,New,Turn Off
 useSwitchLightOn,UI,Menu,New,Turn On
-HN Bathroom Blocks,blocks,Variant,New,Bathroom Furniture/Amenities
-HNBathroomBlocksDesc,blocks,Block,New,Bathroom furniture and amenities for the zombie apocalypse!
-HN Bedroom Blocks/Racks,blocks,Variant,New,Bedroom Furniture
-HNBedroomBlocks/RacksDesc,blocks,Block,New,Bedroom furniture for the zombie apocalypse!
-HN Decor,blocks,Variant,New,Decor
-HNDecorDesc,blocks,Block,New,Decorations even for the zombie apocalypse!
-HN Doors,blocks,Variant,New,Wooden Doors
-HNDoorsDesc,blocks,Block,New,Wooden doors for the zombie apocalypse!
-HN Electronics,blocks,Variant,New,Electronics
-HNElectronicsDesc,blocks,Block,New,Electronics that somehow work in the zombie apocalypse, who knew!
-HN Kitchen Appliances,blocks,Variant,New,Kitchen Appliances
-HNKitchenAppliancesDesc,blocks,Block,New,Kitchen appliances that somehow work in the zombie apocalypse, who knew!
 HN Kitchen Blocks,blocks,Variant,New,Kitchen Cabinets/Sinks
 HNKitchenBlocksDesc,blocks,Block,New,Kitchen cabinets and sinks for the zombie apocalypse!
-HN Lights,blocks,Variant,New,Lights
-HNLightsDesc,blocks,Block,New,New fancy lights that somehow work in the zombie apocalypse, who knew!
-HN Sofa Blocks,blocks,Variant,New,Sofa Furniture
-HNSofaBlocksDesc,Block,Variant,New,Sofa furniture for the zombie apocalypse!
+HN Kitchen Appliances,blocks,Variant,New,Kitchen Appliances
+HNKitchenAppliancesDesc,blocks,Block,New,Kitchen appliances that somehow work in the zombie apocalypse, who knew!
+HN Decor,blocks,Variant,New,Decor
+HNDecorDesc,blocks,Block,New,Decorations even for the zombie apocalypse!
 HN Tables/Chairs,blocks,Variant,New,Tables/Chairs
 HNTables/ChairsDesc,blocks,Block,New,Tables and chairs for the zombies apocalypse!
-HN Windows/Glass Doors,blocks,Variant,New,Windows/Glass Doors
-HNWindows/GlassDoorsDesc,blocks,Block,New,Windows and glass doors for the zombie apocalypse!
+HN Sofa Blocks,blocks,Variant,New,Sofa Furniture
+HNSofaBlocksDesc,Block,Variant,New,Sofa furniture for the zombie apocalypse!
+HN Bedroom Blocks/Racks,blocks,Variant,New,Bedroom Furniture
+HNBedroomBlocks/RacksDesc,blocks,Block,New,Bedroom furniture for the zombie apocalypse!
+HN Electronics,blocks,Variant,New,Electronics
+HNElectronicsDesc,blocks,Block,New,Electronics that somehow work in the zombie apocalypse, who knew!
+HN Lights,blocks,Variant,New,Lights
+HNLightsDesc,blocks,Block,New,New fancy lights that somehow work in the zombie apocalypse, who knew!
+HN Bathroom Blocks,blocks,Variant,New,Bathroom Furniture/Amenities
+HNBathroomBlocksDesc,blocks,Block,New,Bathroom furniture and amenities for the zombie apocalypse!
 HN Pool/Outdoor Furniture,blocks,Variant,New,Pool/Outdoor Furniture
 HNPool/OutdoorFurnitureDesc,blocks,Block,New,Even the zombie apocalypse deserves pools!
+HN Doors,blocks,Variant,New,Wooden Doors
+HNDoorsDesc,blocks,Block,New,Wooden doors for the zombie apocalypse!
+HN Windows/Glass Doors,blocks,Variant,New,Windows/Glass Doors
+HNWindows/GlassDoorsDesc,blocks,Block,New,Windows and glass doors for the zombie apocalypse!
 HN Kitchen Cooktop,blocks,Variant,New,Small Kitchen Cooktop
 HN Cooktop,blocks,Variant,New,Big Kitchen Cooktop
 HN Cooker Top,blocks,Variant,New,Cooker Top
@@ -40,7 +40,7 @@ HN Bathroom ShowerGlass 1x1,blocks,Variant,New,Shower Glass
 HN Bathroom ShowerGlass 2x1,blocks,Variant,New,Shower Glass
 HN Bathroom Towel,blocks,Variant,New,Towel
 HN Bathroom Toilet Paper,blocks,Variant,New,Toilet Paper
-HN Bathroom Shower,blocks,Variant,New,Shower
+HN Bathroom Shower,blocks,Variant,New,Shower Head
 HN Bathroom Cabinet 1,blocks,Variant,New,Cabinet
 HN Bathroom Cabinet 2,blocks,Variant,New,Shelf
 HN Bathroom Cabinet 3,blocks,Variant,New,Cabinet
@@ -90,23 +90,23 @@ ZTLargeMountedTV,blocks,Variant,New,Mounted TV
 ZTSmallMountedTV,blocks,Variant,New,Mounted TV
 ZTSoundBarRebuild,blocks,Variant,New,Sound Bar
 HN Glass Desk,blocks,Variant,New,Glass Desk
-HN Glass and Metal Table 1x1,blocks,Variant,New,Table
-HN Glass and Metal Table 2x1,blocks,Variant,New,Table
-HN Glass and Metal Table 2x2,blocks,Variant,New,Table
+HN Glass and Metal Table 1x1,blocks,Variant,New,Metal Table
+HN Glass and Metal Table 2x1,blocks,Variant,New,Metal Table
+HN Glass and Metal Table 2x2,blocks,Variant,New,Metal Table
 HN Large Table,blocks,Variant,New,Table
 HN Dark Wood Medium Table,blocks,Variant,New,Table
-HN Glass and Metal Coffe Table,blocks,Variant,New,Coffee Table
+HN Glass and Metal Coffe Table,blocks,Variant,New,Metal Coffee Table
 HN Coffee Table X1,blocks,Variant,New,Coffee Table
 HN Coffee Table X2,blocks,Variant,New,Coffee Table
 HN Coffee Table X3,blocks,Variant,New,Coffee Table
 HN Coffee Table AX1,blocks,Variant,New,Coffee Table
 HN Coffee Table AX2,blocks,Variant,New,Coffee Table
 HN Coffee Table AX3,blocks,Variant,New,Coffee Table
-HN Elegant Chair 1,blocks,Variant,New,Chair
+HN Elegant Chair 1,blocks,Variant,New,Leather Chair
 HN PC Chair Black,blocks,Variant,New,Computer Chair
 HN PC Chair Brown,blocks,Variant,New,Computer Chair
 HN PC Chair White,blocks,Variant,New,Computer Chair
-HN Modern Chair,blocks,Variant,New,Chair
+HN Modern Chair,blocks,Variant,New,Metal Chair
 HN Chair Metal,blocks,Variant,New,Metal Chair
 HN Umbrella Blue,blocks,Variant,New,Blue Umbrella
 HN Umbrella Green,blocks,Variant,New,Green Umbrella
@@ -153,8 +153,8 @@ HN Garden Table Square,blocks,Variant,New,Square Garden Table
 HN Garden Table Round,blocks,Variant,New,Round Garden Table
 ZTPCRebuild,blocks,Variant,New,Desktop PC
 ZTLaptopRebuild,blocks,Variant,New,Laptop
-HN Video Game Console PS,blocks,Variant,New,Playstation 4 Console 
-HN Sliding Door Mirrored Glass,blocks,Variant,New,Mirrored Sliding Glass Doors
+HN Video Game Console PS,blocks,Variant,New,PlayStation 4 Console 
+HN Sliding Door Mirrored Glass,blocks,Variant,New,Bulletproof Mirrored Door
 HN Glass Closet Door 1,blocks,Variant,New,Glass Closet Door
 HN Glass Closet Door 2,blocks,Variant,New,Glass Closet Door
 HN Glass Closet Door 3,blocks,Variant,New,Glass Closet Door
@@ -162,17 +162,17 @@ HN Glass Door,blocks,Variant,New,Glass Door
 HN Closet Door,blocks,Variant,New,Closet Door
 HN Closet Door Bottom,blocks,Variant,New,Closet Door
 HN Closet Door Middle,blocks,Variant,New,Closet Door
-HN Main Door,blocks,Variant,New,Door
-HN Main Double Door,blocks,Variant,New,Double Doors
+HN Main Door,blocks,Variant,New,Heavy Door
+HN Main Double Door,blocks,Variant,New,Heavy Double Doors
 HN Sliding Door,blocks,Variant,New,Sliding Doors
-HN Wood Door Brown,blocks,Variant,New,Wooden Door
-HN Wood Door Clear,blocks,Variant,New,Wooden Door
-HN Wood Door White,blocks,Variant,New,Wooden Door
-HN Wood Door Gray,blocks,Variant,New,Gray Door
-HN Wood Double Door Brown,blocks,Variant,New,Wooden Double Doors
-HN Wood Double Door Clear,blocks,Variant,New,Wooden Double Doors
-HN Wood Double Door White,blocks,Variant,New,Wooden Double Doors
-HN Wood Double Door Gray,blocks,Variant,New,Wooden Double Doors
+HN Wood Door Brown,blocks,Variant,New,Brown Wooden Door
+HN Wood Door Clear,blocks,Variant,New,Clear Wooden Door
+HN Wood Door White,blocks,Variant,New,White Wooden Door
+HN Wood Door Gray,blocks,Variant,New,Gray Wooden Door
+HN Wood Double Door Brown,blocks,Variant,New,Brown Double Doors
+HN Wood Double Door Clear,blocks,Variant,New,Clear Double Doors
+HN Wood Double Door White,blocks,Variant,New,White Double Doors
+HN Wood Double Door Gray,blocks,Variant,New,Gray Double Doors
 HN Cabinet 1,blocks,Variant,New,Cabinet
 HN Cabinet 2,blocks,Variant,New,Cabinet
 HN Cabinet 3,blocks,Variant,New,Cabinet

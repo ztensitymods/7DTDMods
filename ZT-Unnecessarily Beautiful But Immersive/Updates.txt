@@ -1,14 +1,14 @@
 
  Unnecessarily Beautiful But Immersive
- The Unnecessary But Beautiful 19.3 Rebuild
- Updates Log 1.2.8
+ The Unnecessary But Beautiful 19.3b6 Rebuild
+ Updates Log 1.3.0
  
  
  ================================
  
  
  
- - UBBI UPDATE 1.2.0 -
+ - UPDATE 1.2.0 -
  ==============
  
  BEDROLL FEATURE:
@@ -79,7 +79,7 @@
  
  
  
- - UBBI UPDATE 1.2.5 -
+ - UPDATE 1.2.5 -
  ==============
  
  URGENT FIX TO PERK REQUIREMENTS:
@@ -99,7 +99,7 @@
  
  
  
- - UBBI UPDATE 1.2.6 -
+ - UPDATE 1.2.6 -
  ==============
  
  URGENT FIX TO Floor Lamp:
@@ -113,7 +113,7 @@
  
  
  
-  - UBBI UPDATE 1.2.7 -
+ - UPDATE 1.2.7 -
  ==============
  
  URGENT FIX TO Floor Lamp, Small Lamp & PC:
@@ -127,13 +127,114 @@
  
  
  
-  - v1.2.8 -
+ - UPDATE 1.2.8 -
  ==============
  
- Read Me Adjustment:
+ READ ME ADJUSTMENT:
  ======
  
  Adjusted text from A19.2b4 or 19.2b4 to 19.3.
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - UPDATE 1.3.0 -
+ ==============
+ 
+ ITEM HP ADJUSTMENTS:
+ ======
+ 
+ I have adjusted HP values of all blocks in XML to match more closely with their item counterpart in-game, so that they are a little more immersive. This way when breaking items from doors, windows, cabinets and umbrella stands (now made out of iron) to tables, chairs and paintings amongst others, their health is not only balanced, but also a little more realistic across the board.
+ 
+ For Example: The "Bulletproof Mirrored Doors" now has 750 health, rather than the previously, unrealistically, high health of 3000.
+ 
+ 
+ PROPERTY ADJUSTMENTS:
+ ======
+ 
+ I have adjusted properties of all blocks in XML to match more closely with their item counterpart in-game for further increased immersion. 
+ 
+ This means that when hitting items either with fists, a tool or a weapon, the item has affects that appear closer to what they are (i.e. something made out of wood will now look like it's wood being hit instead of iron) and you will now receive ingredients/resources in return when destroyed this way (in most cases the ingredients will be what was used for the recipe and then a certain percentage of what that ingredient returned).
+ 
+ This also means that if an item drops when placed, you now have a chance to receive a certain amount of ingredients/resources back in return (in most cases the ingredients will be what was used for the recipe and then a certain percentage of what that ingredient returned).
+ 
+ 
+ DESTROYING/DISSASEMBLING:
+ ======
+ 
+ To add additional immersion, players can now use the wrench line of tools to break down select items from Unnecessarily Beautiful But Immersive after being placed. The items that can be returned follow in-line not only with vanilla counterparts, but also with select ingredients required to make the recipes in the first place. 
+ 
+ You can still use your fists and/or standard weapons to break items down to receive wood, iron etc. but you won't get additional resources/ingredients returned that you otherwise would if you used a tool from the wrench line.
+ 
+ 
+ Wrench Line: Wrench, Ratchet & Impact Tool
+ 
+ UBBI Items Available to Disassemble: Sinks (6), Lights (10), Doors (10), Beds (3), Closet Pieces (3), Fireplace, Sound Bar, TVs (4), PC, Laptop, PlayStation 4 Console, Bathtubs (2), a Cooktop, a Fridge, a Gas Stove, a Wall Oven, a Kitchen Cooktop, a Toaster, a Coffee Maker and a Microwave.
+ 
+ 
+ ITEM REPAIR ADJUSTMENTS:
+ ======
+ 
+ I have adjusted the resource requirement to repair an assortment of items across the board in the blocks XML. There are still a wide variety of items that require things like Forged Iron and Wood to repair, however there are also many items that now require new resources to repair.
+ 
+ 
+ Resource Repair Master List: Cloth Fragment, Concrete Mix, Forged Iron, Glass Block, Leather & Wood
+ 
+ The Item Repair Atlas include more information as to what item requires what for repair.
+ 
+ 
+ CREATIVE MENU / CRAFTING TABS REORDERING:
+ ======
+ 
+ I have reordered/recategorized recipes in the crafting tabs so that players can now better find recipes in either the building category, science category and/or the decor/miscellaneous category when at the workbench instead of having to manually search for "HN" or the name of the recipe such as "lights."
+ 
+ 
+ I have also made sure to add an ordering property to all blocks, to make sure that blocks can be found accordingly in the creative menu "building" / "floot" area. 
+ 
+ 
+ DECORATIONS CHANGE / ITEM RETURN BEHAVIOR CHANGE:
+ ======
+ 
+ All decorations in-game can still be picked up, however if destroyed by a player's fists or a weapon they cannot be retrieved like before and will instead provide a player with a certain percentage of select ingredients/resources back in return. Alternatively, if any decoration were to fall right after being placed, resources would similarly return to the player.
+ 
+ 
+ Any item like the bathroom towel or bathroom toilet paper that would return to a players inventory after being destroyed like before, will now no longer do that. Instead, a percentage of ingredients/resources are returned to the player instead. This is done to increase immersion and simply makes more sense.
+ 
+ 
+ LOCALIZATION & RECIPE ORDERING CHANGES:
+ ======
+ 
+ I have changed localizations of an assortment of items in-game to increase immersion. Many changes have applied to select tables, sliding glass doors, standard doors and a few more.
+ 
+ 
+ I have also changed the order of glass doors, shower doors and shower glass to be together so that they can be found quicker and more efficiently when flowing through the windows pages.
+ 
+ 
+ BLOCKS ROTATIONS:
+ ======
+ 
+ Every item should now be able to rotate by every type of rotation thanks to the suggestion and help from LeonaLens and Bdubyah. This has been achieved by adding the "<property name="AllowAllRotations" value="true"/> line of code to each master block that controls the recipes.
+ 
+ 
+ BEHIND THE SCENES:
+ ======
+ 
+ Finally, I have done a multitude of tweaks to the code, which has done almost nothing but make things easier for future updates. The following updates will not be noticeable to players, but did occur to make 1.3.0 a reality:
+ 
+ 
+ Reordered blocks.xml to match their Master List blocks ordering to make future updates a little easier. To this end, I have also reordered the individual blocks throughout each category to match their "Place Alt Block Value" organization so that tweaking properties would be easier now and later.
+ 
+ 
+ I have also reordered recipes.xml to match blocks.xml ordering so that each recipe would be in the same exact order as in the blocks.xml. This achieves likely nothing, but my personal OCD needs, potentially future updates and maybe even helps to separate UBBI from Hernan's original UBB.
+ 
+ 
+ 
+ More than ever, Unnecessarily Beautiful But Immersive (UBBI) is a comprehensive rebuild that stands further from Hernan's version than any previous version. Update 1.3.0 is likely the last major tweak to blocks.xml, as I truly took a deep dive into the code, changing multiple lines, removing some and adjusting others.
+ 
+ Future updates should be easier and quicker however moving forward.
  
  
  
