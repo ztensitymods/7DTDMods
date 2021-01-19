@@ -4,6 +4,6 @@
     <Name value="ZT0-VanillaCreatureRenaming" />
     <Description value="Renaming modlet that corrects and changes select vanilla creature names for immersive purposes." />
     <Author value="Ztensity" />
-    <Version value="1.2.1" compat="alpha19.3" />
+    <Version value="1.2.1" compat="A19.3" />
   </ModInfo>
 </xml>

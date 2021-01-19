@@ -4,6 +4,6 @@
     <Name value="ZT1-CreaturePackZombieNames" />
     <Description value="Renaming patch that provides names to zombies added by Xyth's 'Creature Pack Zombies' for immersion." />
     <Author value="Ztensity" />
-    <Version value="1.3.2" compat="alpha19.3" />
+    <Version value="1.3.2" compat="A19.3" />
   </ModInfo>
 </xml>
