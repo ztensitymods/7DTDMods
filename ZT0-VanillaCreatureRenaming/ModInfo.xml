@@ -2,7 +2,7 @@
 <xml>
   <ModInfo>
     <Name value="ZT0-VanillaCreatureRenaming" />
-    <Description value="Renaming Modlet Correcting Vanilla Creature Names" />
+    <Description value="Renaming modlet that corrects and changes select vanilla creature names for immersive purposes." />
     <Author value="Ztensity" />
     <Version value="1.2.1" />
   </ModInfo>

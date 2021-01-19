@@ -2,7 +2,8 @@
 <xml>
 	<ModInfo>
 		<Name value="ZT-UBBI GMC" />
-		<Description value="Unnecessarily Beautiful But Immersive is a rebuild for hernanxx' Unnecessary But Beautiful modlet. This version is designed for compatibility with the Gnamod overhaul" />
+		<Description value="Gnamod - Unnecessarily Beautiful But Immersive (Compatibility Version)." />
+		<!--Unnecessarily Beautiful But Immersive is a rebuild for hernanxx' Unnecessary But Beautiful modlet. This version is designed for compatibility with the Gnamod overhaul-->
 		<Author value="Ztensity" />
 		<!--Original Author of Unnecessary But Beautiful: Hernan-->
 		<!--Original Author of Unnecessary But Beautiful's Recipes: Hellsmoke-->

@@ -2,7 +2,7 @@
 <xml>
   <ModInfo>
     <Name value="ZT1-CreaturePackHumanNames" />
-    <Description value="Creature Pack Human Renaming Modlet" />
+    <Description value="Renaming patch that provides names to humans added by Xyth's 'Creature Pack Humans' for immersion." />
     <Author value="Ztensity" />
     <Version value="1.2.1" />
   </ModInfo>
