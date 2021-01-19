@@ -11,7 +11,20 @@
  Ztensity's Creature Renaming Modlet Series
  =======
  
- The first six modlets focus on localizing names for various creatures around the world space of 7 Days to Die, which includes zombies, animals, humans, machines and robots. I have patches for renaming vanilla creatures, Xyth's various creatures and Mumpfy's zombies.
+ The first five modlets focus on localizing names for various creatures around the world space of 7 Days to Die, which includes zombies, animals, humans and machines. I have patches for renaming vanilla creatures, Xyth's various creatures and Mumpfy's zombies.
+ 
+ 
+ ================================
+ 
+ 
+ Ztensity's Shotgun Messiah Mechs
+ =======
+ 
+ The sixth renaming modlet is an add-on for Xyth's "Creature Pack Mechs" and does a lot more than just renaming. Not only does this modlet rename six mechs, but it also doubles the health for select bots, making them bosses. 
+ 
+ As one of the next iterations of what was previously titled "Creature Pack Mechs Renaming," Shoutgun Messiah Mechs seeks to establish new lore surrounding six mechs that were commissioned by the titan company, Shotgun Messiah, months before the zombie apocalyse.
+ 
+ I will first plan to work on implementing a way to make all, some combination or very specific mechs to spawn at the Shotgun Messiah Factories and/or Shotgun Messiah shops (SGM Bee, Rogue Messiah Bot and maybe Messiah's Mecha Claw as examples). If successful, I will then begin implementing quests that would go well with the lore created for the mechs.
  
  
  ================================
@@ -33,9 +46,9 @@
  ZT-UBBI GMC 1.2.7 (Gnamod Compatibility Version)
  =======
  
- While both modlets are complete versions of the latest build, ZT-UBBI GMC is designed for compatibility with Gnamod and should only be downloaded for use with the Gnamod overhaul. This alternate modlet was necessary because various vanilla recipes were removed and select recipes were added. Therefore, a tweaked recipes XML was created to work with Gnamod.
+ While both modlets are complete versions of the latest build, ZT-UBBI GMC is designed for compatibility with Gnamod and should only be downloaded for use with the Gnamod overhaul. This alternate modlet was necessary because various vanilla recipes were removed and select recipes were added. Therefore, a tweaked blocks XML and recipes XML was created to work with Gnamod.
  
- The recipes that have been changed are: short iron pipe, wood, scrap polymers, clay soil, forged steel and glass block. Gnamod uses: iron pipe, sawed wood, plastic scraps, clay, forged iron (different file), forged steel (different file) and glass.
+ The recipes that have been changed are: short iron pipe, wood, scrap polymers, clay soil, forged steel, cloth fragments and glass block. Gnamod uses: iron pipe, sawed wood, plastic scraps, clay, forged iron (different file), forged steel (different file), cloth scraps and glass.
  
  
  ================================
