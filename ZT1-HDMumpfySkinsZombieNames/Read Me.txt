@@ -81,7 +81,7 @@
  Additional creatures are renamed through five other modlets, which are mostly dependent on "recommended creature mods" below. My additional modlets are titled:
  
  - ZT0-VanillaCreatureRenaming
- - ZT1-CreaturePackMechNames
+ - ZT-Shotgun Messiah Mechs
  - ZT1-CreaturePackHumanNames
  - ZT1-CreaturePackAnimalNames
  - ZT1-CreaturePackZombieNames

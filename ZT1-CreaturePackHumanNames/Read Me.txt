@@ -78,7 +78,7 @@
  - ZT0-VanillaCreatureRenaming
  - ZT1-CreaturePackZombieNames
  - ZT1-CreaturePackAnimalNames
- - ZT1-CreaturePackMechNames
+ - ZT-Shotgun Messiah Mechs
  - ZT1-HDMumpfySkinsZombieNames
  
  You can find all my additional modlets here: http://bit.ly/38pnCsq
