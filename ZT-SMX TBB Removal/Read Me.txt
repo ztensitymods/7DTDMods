@@ -1,0 +1,96 @@
+ 
+ Ztensity's SMX Toolbelt Backsplash Removal - Version 1.0.0
+ Toolbelt Backsplash Removal Patch
+ Build 19.3 Compatible
+ 
+ 
+ ================================
+ 
+ 
+ ABOUT THIS MOD
+ =======
+ 
+ After playing with Sirillion's SMX series for a few months in my own playthroughs, while also showcasing the UI overhaul alongside my modlets like my Creature Renaming series, Shotgun Messiah Mechs and Unnecessarily Beautiful But Immersive, I've now decided to put together a patch for SMX.
+
+ If you've used SMX like me, you know that Sirillion has done a powerful job of overhauling and converting the Hud, Menu and general UI of 7 Days to Die to feel truly fresh and almost like a different game, especially when paired with other modlets like Custom Perks﻿ by Zuzul0l.
+
+ Not only does Sirillion offer changes to the UI, but he has also created a target health bar modlet, a bigger bags expansion and a third forge slot that seamlessly blends in with this SMX series. For compatibility purposes, he has designed optional files that make parts of SMX work better with overhauls like Darkness Falls and other, smaller modlets.
+
+ While SMX undoubtedly has a tasteful and aesthetic UI that is appealing not only to myself, but also a quarter of a million players around the world, there were a couple hud components and one Menu component I felt could be tweaked and that is where SMX UI Tweaks comes into play.
+
+ SMX UI Tweaks removes the backsplash behind the inventory toolbelt hud element, it removes the toolbelt numbers under the toolbelt, it remove the compass backsplash and it removes the SMX logo from the main menu and from the in-game hud to maintain consistency and increase immersion while playing with Sirillion's fantastic UI Overhaul series.
+ 
+ I have changed absolutely nothing more and nothing less, as I have nothing but the absolute respect for this mod author.
+ 
+ 
+ REQUIREMENTS
+ =======
+ 
+ Most recent builds of 7 Days to Die should be acceptable, however the most recent build of the game is recommended, which is currently version 19.3b6.
+ 
+ You will however absolutely require Sirillion's "SMXhud," which includes files "SMXhud," "SMXlib" and "ZMXhudCP." Without downloading "SMXhud" from either Nexus, Forums or the 7 Days to Die Mod Launcher designed by sphereii, this modlet will not do anything.
+
+ To have the same UI, health bar, etc. as all my other modlet's showcase images however, I would encourage players to install Sirillion's entire SMX series, the accompanying Target Health Bar, any other optional files of your choice if applicable and then my renaming modlets for creatures like zombies, animals, humans, mechs etc if applicable.
+ 
+ Download Sirillion's SMX Modlets Here: https://www.nexusmods.com/7daystodie/mods/22
+ 
+ If You Downloaded the Optional "Target Health Bar," Download my Renaming Modlets Here:
+ Download Vanilla Creature Renaming Here: https://www.nexusmods.com/7daystodie/mods/1210
+ Download Creature Pack Animal Renaming Here: https://www.nexusmods.com/7daystodie/mods/1259/
+ Download Creature Pack Zombie Renaming Here: https://www.nexusmods.com/7daystodie/mods/1260
+ Download Creature Pack Human Renaming Here: https://www.nexusmods.com/7daystodie/mods/1261
+ Download Shotgun Messiah Mechs Here: https://www.nexusmods.com/7daystodie/mods/1263
+ Download Mumfpy's Zombie Pack Renaming Here: http://bit.ly/2Kw4xeQ
+ 
+ Note: When downloading more than one SMX modlet, keep in mind that they all require "SMXlib," but only only one "SMXlib" is required for the series to work.
+ 
+ Note: Since "SMXlib" is an asset library required for all SMX mods, it is actually required for all players, regardless if SMX is run in solo play, in multiplayer or on a dedicated server.
+ 
+ 
+ ================================
+ 
+ 
+ WHAT FILES ARE NEW
+ =======
+ 
+ There are technically no "new" files, however I have used a Config folder, with an embedded XUi Folder, which uses a "windows.xml" file to remove the toolbelt backsplash.
+ 
+ 
+ ================================
+ 
+ 
+ CREDITS
+ =======
+ 
+ All credit is due to Sirillion for his original modlet titled "SMX." With the work of Sirillion, he has presented a complete overhaul to the HUD, MENU and general UI of 7 Days to Die that has been downloaded over 350,000 times with over 70,000 unique downloads on Nexus alone. You'll notice on Nexus Mods, SMX is also the 22nd modlet to be uploaded for 7 Days to Die, so it is also one of the first for the game.
+ 
+ With Sirillion's permission﻿, I have created this modlet only to remove the SMX logo, remove the backsplash from behind the inventory toolbelt, remove the numbers from under the toolbelt and remove the backsplash from behind the compass hud element to increase immersion while playing. No assets have been reused.
+ 
+ In any showcases for all my other modlets (outside of this one), I will continue to use SMX without this modlet to show the most love to the mod author, as he deserves it!
+ 
+ Permission: https://drive.google.com/u/0/uc?id=1tBJ254qI4aad_dvlTHhXDagwXOdiokdX&export=download
+ Original Mod Via Nexus: https://www.nexusmods.com/7daystodie/mods/22
+ Guppy's Discord: https://discord.com/invite/q7uUqSw4w8
+ 
+ 
+ ================================
+ 
+ 
+ SHOUTOUTS
+ =======
+ 
+ Qend: I want to give a shout out to Qend for the idea of removing the backsplash in the first place, as it inspired me to finally move forward with my idea with also removing the SMX logo as well.
+ 
+ Qend also provided me with information that would help me with removing the tool belt backsplash: "Ztensity, the line is 261 (in notepad++) for the tool belt background in windows.xml."
+ 
+ 
+ Alloc: I want to say thank you for helping me understand which missing tokens or tokens were incorrect throughout XPATH. Not only this, but you helped me sort out the code, to make sure I included the correct nodes/elements so that in order to remove the hud elements, I was pathing correctly.
+ 
+ 
+ Sphereii: Thank you for also helping point out some incorrect/missing tokens. Without your assistance, I wouldn't have had the breakthrough I did on-top of all the help Alloc gave me to make it all work.
+ 
+ 
+ - Ztensity -
+ 
+ 
+ ================================

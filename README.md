@@ -8,7 +8,7 @@
  ================================
  
  
- Ztensity's Creature Renaming Modlet Series
+ Ztensity's Creature Renaming Series
  =======
  
  The first five modlets focus on localizing names for various creatures around the world space of 7 Days to Die, which includes zombies, animals, humans and machines. I have patches for renaming vanilla creatures, Xyth's various creatures and Mumpfy's zombies.
@@ -17,7 +17,7 @@
  ================================
  
  
- Ztensity's Shotgun Messiah Mechs
+ Ztensity's Shotgun Messiah Mechs 1.0.0
  =======
  
  The sixth renaming modlet is an add-on for Xyth's "Creature Pack Mechs" and does a lot more than just renaming. Not only does this modlet rename six mechs, but it also doubles the health for select bots, making them bosses. 
@@ -30,7 +30,7 @@
  ================================
  
  
- Unnecessarily Beautiful But Immersive 1.2.7 (Standard Version)
+ Unnecessarily Beautiful But Immersive 1.3.0 (Standard Version)
  =======
  
  The remaining two modlets are different versions of a rebuild of Hernan's Unnecessary But Beautiful mod, titled Unnecessarily Beautiful But Immersive. UBBI for short not only brings the mod up to date and reworks it, but truly overhauls it as well. 
@@ -43,12 +43,30 @@
  ================================
  
  
- ZT-UBBI GMC 1.2.7 (Gnamod Compatibility Version)
+ ZT-UBBI GMC 1.3.0 (Gnamod Compatibility Version)
  =======
  
  While both modlets are complete versions of the latest build, ZT-UBBI GMC is designed for compatibility with Gnamod and should only be downloaded for use with the Gnamod overhaul. This alternate modlet was necessary because various vanilla recipes were removed and select recipes were added. Therefore, a tweaked blocks XML and recipes XML was created to work with Gnamod.
  
  The recipes that have been changed are: short iron pipe, wood, scrap polymers, clay soil, forged steel, cloth fragments and glass block. Gnamod uses: iron pipe, sawed wood, plastic scraps, clay, forged iron (different file), forged steel (different file), cloth scraps and glass.
+ 
+ 
+ ================================
+ 
+ 
+ ZT-SMX UI Tweaks 1.0.0
+ =======
+ 
+ SMX UI Tweaks is a patch that removes the backsplash behind the inventory toolbelt hud element, removes the toolbelt numbers under the toolbelt, removes the compass backsplash and removes the SMX logo from the menu and from in-game for better immersion while playing with Sirillion's fantastic UI overhaul series.
+ 
+ 
+ Optional Files
+ =======
+ 
+ ZT-SMX Logo Removal - SMX Logo Removal Only            (Requires SMXhud & SMXMenu)
+ ZT-SMX CBS Removal  - Compass Backsplash Removal Only  (Requires Only SMXhud)
+ ZT-SMX TBB Removal  - Toolbelt Backsplash Removal Only (Requires Only SMXhud)
+ ZT-SMX TBN Removal  - Toolbelt Numbers Removal Only    (Requires Only SMX
  
  
  ================================

@@ -1,0 +1,5 @@
+<ZThudTweaks name="windows.xml">
+	
+	<remove xpath="/windows/window[@name='windowCompass']/sprite[@name='SMXhudCompassBackground']" />
+	
+</ZThudTweaks>

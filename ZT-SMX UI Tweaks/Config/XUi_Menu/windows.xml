@@ -1,0 +1,5 @@
+<ZTmenuTweaks name="windows.xml">
+
+	<remove xpath="/windows/window[@name='SMXhudLogo']" />
+
+</ZTmenuTweaks>
