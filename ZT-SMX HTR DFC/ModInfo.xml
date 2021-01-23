@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<ModInfo>
+		<Name value="ZT-SMX HTR DFC" />
+		<Description value="Patch that removes the time counter from the SMX hud for compatibility with Darkness Falls." />
+		<!-- Full Description: SMX HTR DFC is a patch designed to remove the time counter from the SMX hud, center the day counter and also remove the time counter and time counter backsplash when in the playing menus to increase immersion while playing with Sirillion's fantastic UI overhaul series, but also for compatibility with Khaine's Darkness Falls. -->
+		<Author value="Ztensity" />
+		<!-- Sirillion's SMX is a modlet that overhauls and converts the HUD, MENU and general UI of 7 Days to Die. There are optional files that offer a Target Health Bar, Bigger Bags, a third forge slot and better compatibility with Darkness Falls and other modlets. 
+		Nexus: https://www.nexusmods.com/7daystodie/mods/22 -->
+		<Version value="1.0.0" compat="A19.3" />
+		<!-- Compatible with Sirillion's latest SMX version. -->
+	</ModInfo>
+</xml>
+
+

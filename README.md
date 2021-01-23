@@ -57,7 +57,7 @@
  ZT-SMX UI Tweaks 1.0.0
  =======
  
- SMX UI Tweaks is a patch that removes the backsplash behind the inventory toolbelt hud element, removes the toolbelt numbers under the toolbelt, removes the compass backsplash and removes the SMX logo from the menu and from in-game for better immersion while playing with Sirillion's fantastic UI overhaul series.
+ SMX UI Tweaks is a patch that removes the backsplash behind the inventory toolbelt hud element, removes the toolbelt numbers under the toolbelt, removes the compass backsplash, removes the SMX logo from the menu and from in-game and removes the hud time counter and backsplash behind the hud time counter in the game menus for better immersion while playing with Sirillion's fantastic UI overhaul series.
  
  
  Optional Files
@@ -67,6 +67,7 @@
  ZT-SMX CBS Removal  - Compass Backsplash Removal Only  (Requires Only SMXhud)
  ZT-SMX TBB Removal  - Toolbelt Backsplash Removal Only (Requires Only SMXhud)
  ZT-SMX TBN Removal  - Toolbelt Numbers Removal Only    (Requires Only SMX
+ ZT-SMX HTR DFC      - Hud Time Counter Removal         (Requires SMXhud & SMXMenu)
  
  
  ================================

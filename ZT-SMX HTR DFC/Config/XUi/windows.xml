@@ -1,0 +1,11 @@
+<ZThudTweaks name="windows.xml">
+	
+	<remove xpath="/windows/window[@name='SMXhudDayTimeHUD']/sprite/label[@name='SMXhudTime']" />
+	
+	<set xpath="/windows/window[@name='SMXhudDayTimeHUD']/sprite/label[@name='SMXhudDay']/@pos" >10,-20</set>
+	
+	<remove xpath="/windows/window[@name='SMXhudDayTimeUI']/sprite/label[@name='SMXhudDayTime']" />
+	
+	<remove xpath="/windows/window[@name='SMXhudDayTimeUI']/sprite[@name='SMXhudDaytimeUIBackground']" />
+	
+</ZThudTweaks>
