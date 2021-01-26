@@ -22,10 +22,22 @@
  
  The sixth renaming modlet is an add-on for Xyth's "Creature Pack Mechs" and does a lot more than just renaming. Not only does this modlet rename six mechs, but it also doubles the health for select bots, making them bosses. 
  
- As one of the next iterations of what was previously titled "Creature Pack Mechs Renaming," Shoutgun Messiah Mechs seeks to establish new lore surrounding six mechs that were commissioned by the titan company, Shotgun Messiah, months before the zombie apocalyse.
+ As one of the next iterations of what was previously titled "Creature Pack Mechs Renaming," Shoutgun Messiah Mechs seeks to establish new lore surrounding six mechs that were commissioned by the titan company, Shotgun Messiah months before the zombie apocalyse.
  
- I will first plan to work on implementing a way to make all, some combination or very specific mechs to spawn at the Shotgun Messiah Factories and/or Shotgun Messiah shops (SGM Bee, Rogue Messiah Bot and maybe Messiah's Mecha Claw as examples). If successful, I will then begin implementing quests that would go well with the lore created for the mechs.
+ I will first plan to work on implementing a way to make all, some combination or very specific mechs to spawn at the Shotgun Messiah Factories and/or Shotgun Messiah shops (SGM Bee, Rogue Messiah Bot and maybe Messiah's Mecha Claw as examples). I will later begin implementing quests that would go well with the lore created for the mechs.
  
+ 
+ ================================
+ 
+ 
+ Ztensity's Wasteland Creature Renaming 1.0.0
+ =======
+ 
+ "Wasteland Creature Renaming" is a renaming modlet that corrects creature names for humans and zombies added by Bdubyah's modlet "The Wasteland."
+ 
+ After six different patches that renamed creatures from Vanilla and Xyth's Creature Pack series to Mumpfy's Zombie Pack, I am now releasing this next iteration in the series by request of swmeek. With the intent to continue increasing immersion when encountering different creatures in game, this patch is now publicly available! 
+ 
+ Modlets like these are useful, if not necessary for immersion when using a health bar such as Sirillion’s SMX Series and it's optional Target Health Bar modlet, Khaine's HP Bars or KonradSB's Hit Bar Health Bar. 
  
  ================================
  
@@ -33,9 +45,9 @@
  Unnecessarily Beautiful But Immersive 1.3.0 (Standard Version)
  =======
  
- The remaining two modlets are different versions of a rebuild of Hernan's Unnecessary But Beautiful mod, titled Unnecessarily Beautiful But Immersive. UBBI for short not only brings the mod up to date and reworks it, but truly overhauls it as well. 
+ The remaining two modlets are different versions of a rebuild of Hernan's Unnecessary But Beautiful mod, titled Unnecessarily Beautiful But Immersive. UBBI for short not only brings the mod up to date and reworks it, but overhauls it as well.
  
- With UBBI, every item, recipe and recipe description has been localized, including the on/off switch wording! Players now also have the ability to turn on/off lights, TVs, a PC, a laptop, a fireplace and a sound bar with a wire tool, as long as they have attained Intellect perk lvl 5 and Advanced Engineering lvl 3. Players can unlock lights early by finding the "Basics of Electricity Schematic" and they can now even utilize the garden bed, small bed and big bed as a bedroll.
+ With UBBI, every item, recipe and recipe description has been localized, including the on/off switch wording! Players now also have the ability to turn on/off lights, TVs, a PC, a laptop, a fireplace and a sound bar with a wire tool, as long as they have attained Intellect perk lvl 5 and Advanced Engineering lvl 3. Players can unlock lights early by finding the "Basics of Electricity Schematic" and they can now even utilize the garden bed, a small bed and a big bed as a bedroll.
  
  Players can place UBBI in most load orders, as it's compatible with almost all modlets. As far as overhauls go, it is currently tested to be 100% compatible with Ravenhearst and War3zuk. Feel free to play with any overhaul or any combination of modlets, just know that as far as overhauls go, until I test it, I cannot give a personal guarantee of success.
  
@@ -68,6 +80,8 @@
  ZT-SMX TBB Removal  - Toolbelt Backsplash Removal Only (Requires Only SMXhud)
  ZT-SMX TBN Removal  - Toolbelt Numbers Removal Only    (Requires Only SMX
  ZT-SMX HTR DFC      - Hud Time Counter Removal         (Requires SMXhud & SMXMenu)
+ 
+ SMX HTR DFC is designed for Darkness Falls, as Khaine has disabled the timer. However, if you wish to remove the timer in other playthroughs with Sirillion's "SMX," this may proof helpful.
  
  
  ================================

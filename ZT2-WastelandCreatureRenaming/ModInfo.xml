@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="ZT2-WastelandCreatureRenaming" />
+    <Description value="Renaming modlet that adds names to raiders, soldiers and zombies added by Bdubyah's Wasteland." />
+	<!-- Ztensity's Creature Renaming Modlet Series -->
+    <Author value="Ztensity" />
+    <Version value="1.0.0" compat="A19.3" />
+  </ModInfo>
+</xml>
