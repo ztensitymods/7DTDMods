@@ -39,13 +39,14 @@
  
  Modlets like these are useful, if not necessary for immersion when using a health bar such as Sirillion’s SMX Series and it's optional Target Health Bar modlet, Khaine's HP Bars or KonradSB's Hit Bar Health Bar. 
  
+ 
  ================================
  
  
  Unnecessarily Beautiful But Immersive 1.3.0 (Standard Version)
  =======
  
- The remaining two modlets are different versions of a rebuild of Hernan's Unnecessary But Beautiful mod, titled Unnecessarily Beautiful But Immersive. UBBI for short not only brings the mod up to date and reworks it, but overhauls it as well.
+ The other two UBBI modlets are different versions of a rebuild of Hernan's Unnecessary But Beautiful mod, titled Unnecessarily Beautiful But Immersive. UBBI for short not only brings the mod up to date and reworks it, but overhauls it as well.
  
  With UBBI, every item, recipe and recipe description has been localized, including the on/off switch wording! Players now also have the ability to turn on/off lights, TVs, a PC, a laptop, a fireplace and a sound bar with a wire tool, as long as they have attained Intellect perk lvl 5 and Advanced Engineering lvl 3. Players can unlock lights early by finding the "Basics of Electricity Schematic" and they can now even utilize the garden bed, a small bed and a big bed as a bedroll.
  
@@ -58,13 +59,23 @@
  ZT-UBBI GMC 1.3.0 (Gnamod Compatibility Version)
  =======
  
- While both modlets are complete versions of the latest build, ZT-UBBI GMC is designed for compatibility with Gnamod and should only be downloaded for use with the Gnamod overhaul. This alternate modlet was necessary because various vanilla recipes were removed and select recipes were added. Therefore, a tweaked blocks XML and recipes XML was created to work with Gnamod.
+ While all three modlets are complete versions of the latest build, ZT-UBBI GMC is designed for compatibility with Gnamod and should only be downloaded for use with the Gnamod overhaul. This alternate modlet was necessary because various vanilla recipes were removed and select recipes were added. Therefore, a tweaked blocks XML and recipes XML was created to work with Gnamod.
  
  The recipes that have been changed are: short iron pipe, wood, scrap polymers, clay soil, forged steel, cloth fragments and glass block. Gnamod uses: iron pipe, sawed wood, plastic scraps, clay, forged iron (different file), forged steel (different file), cloth scraps and glass.
  
  
  ================================
  
+ 
+ ZT-UBBI WOTW 1.3.0 (War of the Walkers Compatibility Version)
+ =======
+ 
+ While all three modlets are complete versions of the latest build, ZT-UBBI WOTW is designed specifically and only for Dwallorde's mod overhaul titled "War of the Walkers" or WotW for short.
+ 
+ In the WotW compatibility version of UBBI, quite a lot of things changed behind the scenes. From adjusting the perk requirements to work with an entirely different progression system and utilizing three different workbenches for crafting the recipes to Localization tweaks, added resource requirements for crafting select recipes and more, this is truly a fresh and new experience for those who enjoy UBBI.
+ 
+ 
+ ================================ 
  
  ZT-SMX UI Tweaks 1.0.0
  =======
