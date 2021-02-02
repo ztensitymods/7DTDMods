@@ -1,7 +1,6 @@
  
- Ztensity's SMX UI Tweaks - Version 1.2.0
- SMX Logo, Toolbelt Backsplash, Toolbelt Numbers & Compass Backsplash Removal
- Hides Quest Tracker From The In-Game Menu Hud
+ Ztensity's SMX Gamepad Callouts Removal - Version 1.0.0
+ Gamepad Callouts Removal Patch
  Build 19.3 Compatible
  
  
@@ -19,7 +18,9 @@
 
  While SMX undoubtedly has a tasteful and aesthetic UI that is appealing not only to myself, but also a quarter of a million players around the world, there were a couple hud components and one Menu component I felt could be tweaked and that is where SMX UI Tweaks comes into play.
 
- SMX UI Tweaks removes the backsplash behind the inventory toolbelt hud element, it removes the toolbelt numbers under the toolbelt, it remove the compass backsplash, it hides the quest tracker while in the in-game menu hud and it removes the SMX logo from the main menu and from the in-game hud to maintain consistency and increase immersion while playing with Sirillion's fantastic UI Overhaul series.
+ SMX UI Tweaks removes the backsplash behind the inventory toolbelt hud element, it removes the toolbelt numbers under the toolbelt, it remove the compass backsplash and it removes the SMX logo from the main menu and from the in-game hud to maintain consistency and increase immersion while playing with Sirillion's fantastic UI Overhaul series.
+ 
+ This is an optional file that can be downloaded alongside SMX UI Tweaks titled "SMX Gampead Callouts Removal," which does exactly what it says. This is optimal for controller players who want to increase immersion by reducing things that come up on screen.
  
  I have changed absolutely nothing more and nothing less, as I have nothing but the absolute respect for this mod author.
  
@@ -29,13 +30,19 @@
  
  Most recent builds of 7 Days to Die should be acceptable, however the most recent build of the game is recommended, which is currently version 19.3b6.
  
- You will however absolutely require both Sirillion's "SMXhud," which includes files "SMXhud," "SMXlib" and "ZMXhudCP" and also "SMXMenu," which includes "SMXMenu" and "SMXlib." Without downloading "SMXhud" and "SMXMenu" from either Nexus, Forums or the 7 Days to Die Mod Launcher designed by sphereii, this modlet will not do anything.
-
+ You will however absolutely require Sirillion's "SMXhud," which includes files "SMXhud," "SMXlib" and "ZMXhudCP." Without downloading "SMXhud" from either Nexus, Forums or the 7 Days to Die Mod Launcher designed by sphereii, this modlet will not do anything.
+ 
  To have the same UI, health bar, etc. as all my other modlet's showcase images however, I would encourage players to install Sirillion's entire SMX series, the accompanying Target Health Bar, any other optional files of your choice if applicable and then my renaming modlets for creatures like zombies, animals, humans, mechs etc if applicable.
  
  Download Sirillion's SMX Modlets Here: https://www.nexusmods.com/7daystodie/mods/22
  
- If You Downloaded the Optional "Target Health Bar," Download my Renaming Modlets Here:
+ 
+ ================================
+
+ 
+ IF YOU DOWNLOADED THE OPTIONAL "TARGET HEALTH BAR," DOWNLOAD MY RENAMING MODLETS HERE
+ =======
+ 
  Download Vanilla Creature Renaming Here: https://www.nexusmods.com/7daystodie/mods/1210
  Download Creature Pack Animal Renaming Here: https://www.nexusmods.com/7daystodie/mods/1259/
  Download Creature Pack Zombie Renaming Here: https://www.nexusmods.com/7daystodie/mods/1260
@@ -54,30 +61,11 @@
  WHAT FILES ARE NEW
  =======
  
- There are technically no "new" files, however I have used a Config folder, with an embedded XUi Folder and an embedded XUi_Menu folder, which both hold a "windows.xml" file that made all the changes to the toolbelt backsplash, toolbelt numbers, compass backsplash and "SMX" logo.
+ There are technically no "new" files, however I have used a Config folder, with an embedded XUi Folder, which uses a "windows.xml" file to remove the gamepad callouts.
  
  
  ================================
  
- 
- MAIN FILE VS. OPTIONAL FILES
- =======
- 
- If you are wanting to only disable the "SMX" logo, the toolbelt backsplash, the compass backsplash or some combination of hud and/or menu elements, but not all elements that have been hidden by this modlet, you must instead delete this modlet and install the separate modlets of your choice below:
- 
- ZT-SMX Logo Removal = Removes "SMX" Logo
- ZT-SMX CBS Removal  = Removes Compass Backsplash
- ZT-SMX TBB Removal  = Removes Toolbelt Backsplash
- ZT-SMX TBN Removal  = Removes Toolbelt Numbers
- 
- "ZT-SMX TBN Removal" is useful for players who primarily use a controller and don't pay attention to the numbers, so it would be helpful to download this separately and then choose other modlets you may want.
-
- This would be the opposite if you were primarily a keyboard and mouse player and did pay attention to the numbers under the toolbelt and want to download other modlets like "ZT-SMX Logo Removal."
- 
- Each modlet should be compatible with each other, as long as you don't use this one with one of them. For instance, you should not be using one of the modlets like "ZT-SMX CBS Removal" and this one at the same time, as it would cause problems and be redundant.
- 
- 
- ================================
  
  CREDITS
  =======
@@ -109,8 +97,12 @@
  
  Sphereii: Thank you for also helping point out some incorrect/missing tokens. Without your assistance, I wouldn't have had the breakthrough I did on-top of all the help Alloc gave me to make it all work.
  
+ Ssyl: I want to say thank you for inspiring me to create this optional modlet. You released your modlet titled "Move Gamepad Button Icons" and it reminded me that I truly didn't like those callouts from appearing at all.
  
- Sirillion: Thank you for helping me figure out code to hide the quest marker while in the in-game menu hud.
+ Get Ssyl's Modlet Here: https://www.nexusmods.com/7daystodie/mods/1274
+ 
+ 
+ Haidr'Gna, Sirillion, Guppy & Saminal: Thank you guys for helping me figure out the code to make this work alongside reassuring me that simply hiding the popups by putting this off screen is sufficient enough.
  
  
  - Ztensity -

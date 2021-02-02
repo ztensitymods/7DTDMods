@@ -77,22 +77,29 @@
  
  ================================ 
  
- ZT-SMX UI Tweaks 1.0.0
+ 
+ ZT-SMX UI Tweaks 1.2.0
  =======
  
  SMX UI Tweaks is a patch that removes the backsplash behind the inventory toolbelt hud element, removes the toolbelt numbers under the toolbelt, removes the compass backsplash, removes the SMX logo from the menu and from in-game and removes the hud time counter and backsplash behind the hud time counter in the game menus for better immersion while playing with Sirillion's fantastic UI overhaul series.
+ 
+ Version 1.2.0 Update: I have hidden the quest tracker from the in-game menu hud, so that it's not cluttered on-screen. Players will still be able to see their quest marker on-screen while not in the in-game menu hud (i.e. crafting, map, etc tabs).
  
  
  Optional Files
  =======
  
- ZT-SMX Logo Removal - SMX Logo Removal Only            (Requires SMXhud & SMXMenu)
- ZT-SMX CBS Removal  - Compass Backsplash Removal Only  (Requires Only SMXhud)
- ZT-SMX TBB Removal  - Toolbelt Backsplash Removal Only (Requires Only SMXhud)
- ZT-SMX TBN Removal  - Toolbelt Numbers Removal Only    (Requires Only SMX
- ZT-SMX HTR DFC      - Hud Time Counter Removal         (Requires SMXhud & SMXMenu)
+ ZT-SMX Logo Removal - SMX Logo Removal                    (Requires Both SMXhud & SMXMenu)
+ ZT-SMX CBS Removal  - Compass Backsplash Removal          (Requires Only SMXhud)
+ ZT-SMX TBB Removal  - Toolbelt Backsplash Removal         (Requires Only SMXhud)
+ ZT-SMX TBN Removal  - Toolbelt Numbers Removal            (Requires Only SMX)
+ ZT-SMX HTR DFC      - Hud Time Counter Removal            (Requires Both SMXhud & SMXMenu)
+ ZT-SMX GPC Removal  - Gamepad Controller Pop-Up Removal   (Requires Only SMXhud)
+ ZT-SMX LBRB Removal - LB & RB Controller Pop-Up Removal   (Requires Only SMXhud)
  
  SMX HTR DFC is designed for Darkness Falls, as Khaine has disabled the timer. However, if you wish to remove the timer in other playthroughs with Sirillion's "SMX," this may proof helpful.
+ 
+ SMX GPC, SMX LBRB and SMX TBN are three optional files that are optimal for controller players. While SMX TBN is specifically for SMX only, SMX LBRB and SMX GPC should be possible on vanilla playthroughs as well, as they both remove these UI elements regardless of an SMX install.
  
  
  ================================

@@ -1,0 +1,5 @@
+<ZTwindowsTweaks name="windows.xml">
+	
+	<remove xpath="/windows/window[@name='windowPagingHeader']/gamepad_icon"/>
+	
+</ZTwindowsTweaks>
