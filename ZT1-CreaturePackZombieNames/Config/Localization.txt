@@ -1,4 +1,9 @@
 Key,File,Type,english
+
+ZombieW7WalkStyle0Schematic,items,perk  book,Zombie Walking Style 0
+ZombieW7WalkStyle0blend1Schematic,items,perk  book,Blended Zombie Walking Style
+ZombieW7WalkStyle1Schematic,items,perk  book,Zombie Walking Style 1
+
 zombieSanta,entityclasses,Entity,Mall Santa
 zombieSantaFeral,entityclasses,Entity,Feral Mall Santa
 zombieNurseTemplate,entityclasses,Entity,Infected Nurse
