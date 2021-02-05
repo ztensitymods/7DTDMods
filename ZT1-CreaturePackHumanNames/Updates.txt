@@ -60,7 +60,7 @@
  
  As I was designing a patch for "War of the Walkers," I realized that there were a number of weapons from that modlet that were in creative menu. These items do not have icons and when placed in your inventory are stuck and don't work right.
  
- Update 1.2.4 removes these items and placed only in "debug menu" through an items.xml file to clean the creative menu.
+ Update 1.2.4 removes these items from the creative menu through an items.xml file to clean the creative menu.
  
  
  Dwallorde's "War of the Walkers" Discord: https://discord.gg/xBnQ6NXbSb
