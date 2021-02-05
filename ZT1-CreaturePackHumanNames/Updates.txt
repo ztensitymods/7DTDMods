@@ -1,7 +1,7 @@
 
- Creature Pack Human Names - Version 1.2.1
+ Creature Pack Human Names - Version 1.2.4
  Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
- Updates Log 1.2.0
+ Updates Log 1.2.4
  
  
  ================================
@@ -25,7 +25,7 @@
  - v1.2.1 -
  ==============
  
- HUMAN LOCALIZATION CHANGES::
+ HUMAN LOCALIZATION CHANGES:
  ======
  
  Localizations for all survivor humans have been updated to reflect more unique names as they do not attack players on sight. This is to slightly differentiate these characters from the rest.
@@ -47,3 +47,24 @@
  
  
  ================================
+ 
+ 
+ 
+ - v1.2.4 -
+ ==============
+ 
+ CREATIVE MENU / DEBUG MENU CHANGE:
+ ======
+ 
+ One modlet that comes with "War of the Walkers" is Xyth's "Creature Pack Humans."
+ 
+ As I was designing a patch for "War of the Walkers," I realized that there were a number of weapons from that modlet that were in creative menu. These items do not have icons and when placed in your inventory are stuck and don't work right.
+ 
+ Update 1.2.4 removes these items and placed only in "debug menu" through an items.xml file to clean the creative menu.
+ 
+ 
+ Dwallorde's "War of the Walkers" Discord: https://discord.gg/xBnQ6NXbSb
+ 
+ 
+ 
+ ================================ 

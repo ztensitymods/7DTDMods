@@ -3,7 +3,8 @@
   <ModInfo>
     <Name value="ZT1-CreaturePackHumanNames" />
     <Description value="Renaming patch that provides names to humans added by Xyth's 'Creature Pack Humans.'" />
+	<!-- Version 1.2.4, I have moved "Creature Pack Human" items from the creative menu to the debug menu to de-clutter the creative menu. I found this while patching Dwallorde's "War of the Walkers."-->
     <Author value="Ztensity" />
-    <Version value="1.2.1" compat="A19.3" />
+    <Version value="1.2.4" compat="A19.3" />
   </ModInfo>
 </xml>

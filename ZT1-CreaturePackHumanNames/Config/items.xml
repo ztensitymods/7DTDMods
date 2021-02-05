@@ -1,0 +1,141 @@
+<ZTcphItemsPatches name="items.xml">
+	
+	<insertAfter xpath="/items/item[@name='meleeBanditClubWood']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='meleeBanditKnifeIron']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='meleeHarleyBat']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBanditSMG5']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBanditSMG5Hidden']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBanditHuntingRifle']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBanditHuntingRifleHidden']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBanditMR10']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBanditMR10Hidden']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBanditBow']/property[@name='Extends']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBanditPumpShotgun']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBanditPumpShotgunHidden']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBanditM60Hidden']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='ammoNPC9mmBulletBall']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='ammoNPC1mmBulletBall']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='ammoNPC762mmBulletBall']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='ammoNPC762mmBulletAP']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='ammoNPC762mmBulletHP']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='ammoNPCCrossbowBoltIron']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='ammoNPCArrowIron']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='ammoNPCShotgunShell']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='ammoNPCMechgunShell']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='handChefKnife']/property[@name='Extends']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>	
+	
+</ZTcphItemsPatches>
