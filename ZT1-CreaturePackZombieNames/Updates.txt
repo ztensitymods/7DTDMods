@@ -158,7 +158,7 @@
  LOCALIZATION ADDITIONS & CM ADJUSTMENTS:
  ======
  
- In version 1.3.4 of Creature Pack Zombie Names, I have added three new localizations to schematics that were used by Xyth for testing zombie walking styles. To add to immersion, I have moved these three same "schematics" from the creative menu to the debug menu.
+ In version 1.3.4 of Creature Pack Zombie Names, I have added three new localizations to schematics that were used by Xyth for testing zombie walking styles. To add to immersion, I have moved these three same "schematics" from the creative menu.
  
  ZombieW7WalkStyle0Schematic = Zombie Walking Style 0
  ZombieW7WalkStyle0blend1Schematic = Blended Zombie Walking Style
