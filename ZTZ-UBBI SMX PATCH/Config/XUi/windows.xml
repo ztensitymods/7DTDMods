@@ -1,0 +1,87 @@
+<ZTSMXwindowsUBBI name="windows.xml">
+	
+	<remove xpath="/windows/window[@name='windowFuelElectronic']" />
+	
+	<insertAfter xpath="/windows/window[@name='windowFuel']">
+	
+		<!--
+		
+		Patch designed for compatibility with SMX, with tweaked code below from his modlet "SMXui," so the Kitchen Appliances Cooking Window will look as intended while playing with Sirllion's UI overhaul modlet titled, SMX.
+		
+		-->
+	
+		<window name="windowFuelElectronic" depth="9" size="470,10" panel="Left" cursor_area="true">
+			
+			<rect name="content" depth="2" pos="400,697" size="53,243">
+				<panel name="SMXuiBurnTime" depth="2" pos="-48,47" size="470,80" disableautobackground="true">
+					<sprite name="windowIcon" depth="2" pos="-35,3" size="32,32" sprite="ui_game_symbol_fire" color="[lightGrey]" />
+					<label name="burnTimeLeft" depth="2" pos="40,-11" size="80,45" text="00:00" color="[lightGrey]" font_size="40" crispness="Never" effect="outline" effect_distance="1,1" justify="center" pivot="center" overflow="ShrinkContent" />
+				</panel>
+
+				<panel name="buttonContent" depth="9" pos="0,0" size="53,80" disableautobackground="true">
+						<button name="button" pos="2,-2" size="50,50" sprite="ui_game_symbol_fire" disabledcolor="[lightGrey]" defaultcolor="255,165,0,158" hoversprite="ui_game_symbol_fire" hovercolor="255,165,0,255" type="sliced" hoverscale="1.0" collider_scale="1.5" />
+						<label name="onoff" depth="2" pos="2,-57" text="TURN ON" text_key="xuiTurnOn" font_size="16" crispness="Never" effect="outline" effect_distance="1,1" upper_case="true" justify="center" />
+				</panel>
+
+				<rect name="content" depth="0" pos="0,-80" size="53,162">
+					<rect disablefallthrough="true">
+						<grid rows="3" cols="1" pos="0,0" cell_width="53" cell_height="53" controller="WorkstationFuelGrid" repeat_content="true">
+							<smxui_fuel_stack_50 name="0" />
+						</grid>
+					</rect>
+
+					<grid name="slot_preview" depth="1" rows="3" cols="1" pos="0,0" cell_width="53" cell_height="53" controller="SlotPreview">
+						<rect>
+							<sprite name="slot" depth="2" pos="28,-25" size="45,45" atlas="ItemIconAtlasGreyscale" sprite="carBattery" pivot="center" foregroundlayer="true" />
+						</rect>
+						<rect>
+							<sprite name="slot" depth="2" pos="28,-25" size="45,45" atlas="ItemIconAtlasGreyscale" sprite="resourceElectricParts" pivot="center" foregroundlayer="true" />
+						</rect>
+						<rect>
+							<sprite name="slot" depth="2" pos="28,-25" size="45,45" atlas="ItemIconAtlasGreyscale" sprite="resourceElectronicParts" pivot="center" foregroundlayer="true" />
+						</rect>
+					</grid>
+				</rect>
+			</rect>
+		</window>
+	
+	</insertAfter>
+	
+	<remove xpath="/windows/window[@name='windowToolsToaster']" />
+	<remove xpath="/windows/window[@name='windowToolsCoffeeMaker']" />
+	
+	<insertAfter xpath="/windows/window[@name='windowToolsCampfire']">
+		
+		<!--
+		
+		Patch designed for compatibility with SMX, with tweaked code below from his modlet "SMXui," so the Kitchen Appliances Tool Requirements Window will look as intended while playing with Sirllion's UI overhaul modlet titled, SMX.
+		
+		-->
+		
+		<window name="windowToolsToaster" depth="9" size="480,10" panel="Left" cursor_area="true">
+			<rect name="content" depth="2" pos="400,417" size="53,162" disablefallthrough="true">
+				<grid name="inventory" rows="3" cols="1" pos="0,0" cell_width="53" cell_height="53" controller="WorkstationToolGrid" repeat_content="true" required_tools="toolCookingSpring,toolCookingSpring,toolCookingSpring" required_tools_only="true">
+					<smxui_tools_stack_50 name="0" />
+				</grid>
+			</rect>
+		</window>
+		
+		<window name="windowToolsCoffeeMaker" depth="9" size="480,10" panel="Left" cursor_area="true">
+			<rect name="content" depth="2" pos="400,417" size="53,162" disablefallthrough="true">
+				<grid name="inventory" rows="3" cols="1" pos="0,0" cell_width="53" cell_height="53" controller="WorkstationToolGrid" repeat_content="true" required_tools="toolCookingPot,toolCookingPot,toolCookingPot" required_tools_only="true">
+					<smxui_tools_stack_50 name="0" />
+				</grid>
+			</rect>
+		</window>
+		
+	</insertAfter>
+	
+	<!--
+		
+		Patch designed for compatibility with SMX, with tweaked code from his modlet "SMXui." This code adjusts a previously hidden Buff Window from Vanilla that was brought back to the forefront by Sirillion. Now, these lines have been removed again so that when buffs are activated, this window is gone and Localizations will provide more accurate information.
+		
+	-->
+	
+	<remove xpath="windows/window[@name='buffInfoPanel']/panel/rect/rect[@name='description2']" />
+	
+</ZTSMXwindowsUBBI>

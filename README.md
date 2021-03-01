@@ -43,12 +43,14 @@
  ================================
  
  
- Unnecessarily Beautiful But Immersive 1.3.0 (Standard Version)
+ Unnecessarily Beautiful But Immersive 2.0.0 (Standard Version)
  =======
  
  The other two UBBI modlets are different versions of a rebuild of Hernan's Unnecessary But Beautiful mod, titled Unnecessarily Beautiful But Immersive. UBBI for short not only brings the mod up to date and reworks it, but overhauls it as well.
  
  With UBBI, every item, recipe and recipe description has been localized, including the on/off switch wording! Players now also have the ability to turn on/off lights, TVs, a PC, a laptop, a fireplace and a sound bar with a wire tool, as long as they have attained Intellect perk lvl 5 and Advanced Engineering lvl 3. Players can unlock lights early by finding the "Basics of Electricity Schematic" and they can now even utilize the garden bed, a small bed and a big bed as a bedroll.
+ 
+ With version 2.0.0, players can use kitchen appliances and take a hot shower for added benefits. Pre-existing items like closet pieces, bathroom items and more have been tweaked, while new doors, a chimney and a doorbell have also been added amongst other things!
  
  Players can place UBBI in most load orders, as it's compatible with almost all modlets. As far as overhauls go, it is currently tested to be 100% compatible with Ravenhearst and War3zuk. Feel free to play with any overhaul or any combination of modlets, just know that as far as overhauls go, until I test it, I cannot give a personal guarantee of success.
  
@@ -75,7 +77,16 @@
  In the WotW compatibility version of UBBI, quite a lot of things changed behind the scenes. From adjusting the perk requirements to work with an entirely different progression system and utilizing three different workbenches for crafting the recipes to Localization tweaks, added resource requirements for crafting select recipes and more, this is truly a fresh and new experience for those who enjoy UBBI.
  
  
- ================================ 
+ ================================
+ 
+ 
+ ZTZ-UBBI SMX PATCH
+ =======
+ 
+ With version 2.0.0 of Unnecessarily Beautiful But Immersive, new features were added with unique UI elements for the Campfire window for kitchen appliances. Because of this, I have released this standalone patch to make UBBI compatible with Sirillion's SMX UI Overhaul modlet.
+ 
+ 
+ ================================
  
  
  ZT-SMX UI Tweaks 1.2.0

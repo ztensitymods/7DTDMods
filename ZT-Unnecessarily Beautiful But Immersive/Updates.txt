@@ -1,7 +1,7 @@
 
- Unnecessarily Beautiful But Immersive
- The Unnecessary But Beautiful 19.3b6 Rebuild
- Updates Log 1.3.0
+ Unnecessarily Beautiful But Immersive - Version 2.0.0
+ The Unnecessary But Beautiful 19.3 Rebuild
+ Updates Log 2.0.0
  
  
  ================================
@@ -235,6 +235,85 @@
  More than ever, Unnecessarily Beautiful But Immersive (UBBI) is a comprehensive rebuild that stands further from Hernan's version than any previous version. Update 1.3.0 is likely the last major tweak to blocks.xml, as I truly took a deep dive into the code, changing multiple lines, removing some and adjusting others.
  
  Future updates should be easier and quicker however moving forward.
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - UPDATE 2.0.0 -
+ ==============
+ 
+ NEW REQUIREMENTS & CURRENT SAVE GAME WARNING:
+ ======
+ 
+ This version of UBBI's 2.0.0 update is designed only for the vanilla version of 7 Days to Die. Meaning if you have SMX UI or another mod that alters the campfire UI winodow and xui, this modlet will conflict, as the added appliances tweak this part of the UI.
+ 
+ Before loading up UBBI 2.0.0 in a current save, all following items should be destroyed and removed from your inventory or chests prior to loading up your save with this version to make for a smoother transition:
+ 
+ - Stove
+ - Oven
+ - Cooktop
+ - Toaster
+ - Coffee Maker
+ - Microwave
+ - Shower Head
+ - Shower Glass Mirrors
+ - Shower Sliding Glass Doors
+ - Toilet Paper
+ - Bathroom Towel
+ - Closet Pieces
+ 
+ 
+ WORKABLE KITCHEN APPLIANCES:
+ ======
+ 
+ There are now six workable kitchen appliances that work similarly to a campfire. These items are updated from previously static items from UBBI. Now, you can use the Stove, Oven, Cooktop, Toaster, Coffee Maker and Microwave with slightly unique sounds, fuel requirements and even a new tool requirement for the toaster!
+ 
+ 
+ NEW COOKING TOOL:
+ ======
+ 
+ I have created a new tool that can be used in the toaster. The tool in question is a blue tinted spring called a "Shamway Cooking Spring." This tool will allow players to craft the Tuna Fish Gravy Toast at the toaster once the appropriate skills have been met and schematic has been read.
+ 
+ 
+ NEW POWER/FUEL SOURCES:
+ ======
+ 
+ To increase immersion even further, I have put into place the ability to use electronic parts, electric parts and car batteries as a power source with the electronic campfire like appliances. Furthermore, while all items can still be crafted at a campfire, these alternate appliances will look more aesthetic, while allowing players to craft select foods depending on the device.
+ 
+ 
+ ELECTRONIC COMPONENTS RETURN:
+ ======
+ 
+ Similarly to War of the Walkers, I have added the Electronic Components back to the game via not only to the creative menu, but also to the loot list for vehicles, so you should be able to attain these parts as an alternative power source to the kitchen appliances for use to craft foods.
+ 
+ 
+ SHOWER HEAD FEATURES:
+ ======
+ 
+ I have made the shower head usable with water visual and sound effects. To increase immersion and add usefulness to it, I also provided up to 30 minutes of increased benefits, which include inscreased stamina regeneration, icnreased running speed and cold resistance.
+ 
+ 
+ SHOWER ROOM ITEM TWEAKS & ADDITIONS:
+ ======
+ 
+ To improve shower room aesthetics, I have replaced the towel, made the toilet paper piece to be closer to the edge for aesthetics with a toilet, created an alternate toilet paper piece to be closer to the opposite side (left), redesigned the bathroom mirrors and bathroom double doors and created a new bathroom single door as well.
+ 
+ 
+ CLOSET PIECES TWEAKS & ADDITIONS:
+ ======
+ 
+ I have reworked the closet pieces slightly, created a single closet door and created a secret closet door that takes up one block for people playing with one block crouch.
+ 
+ 
+ NEW CHIMNEY & DOORBELL:
+ ======
+ 
+ Inspired by the POI version of the vanilla chimney, I have brought to life a more immersive version of the Chimney with new chimney effects that emit more realistically.
+ 
+ I have added a working doorbell that can not only be used as aesthetics, but it can be used as a way to alarm a player you're entering their build and it will hopefully alarm zombies to some extent as well.
  
  
  

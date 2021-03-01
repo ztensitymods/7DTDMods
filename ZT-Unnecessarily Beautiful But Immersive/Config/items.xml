@@ -76,6 +76,70 @@
 		Resources/ZTLightRebuilds.unity3d?ZTHangingLightRebuildPrefab
 		-->
 		
+        <item name="LivingOverhaulLoadingHacks"><!--Covers sixteen assets/objects-->
+            <property name="CreativeMode" value="None"/>
+            <property name="CustomIcon" value="missingIcon"/>
+			<property name="CustomIconTint" value="90ff90"/>
+            <property name="HoldType" value="45"/>
+            <property name="HoldingItemHidden" value="true"/>
+            <property name="Meshfile" value="#@modfolder:Resources/ZTLivingOverhaul.unity3d?ZTStoveRebuildPrefab"/>
+            <property name="DropMeshfile" value="#@modfolder:Resources/ZTLivingOverhaul.unity3d?ZTStoveRebuildPrefab"/>
+            <property name="Material" value="MresourceScrapIron"/>
+            <property name="Weight" value="1"/>
+            <property name="Stacknumber" value="1"/> 
+            <property name="EconomicValue" value="1"/>
+            <property name="EconomicBundleSize" value="1000"/>
+            <property name="Group" value="Resources"/>
+        </item>
+		
+		<!--
+		LivingOverhaulLoadingHacks includes:
+		Resources/ZTLivingOverhaul.unity3d?ZTStoveRebuildPrefab
+		Resources/ZTLivingOverhaul.unity3d?StoveLightingParticle
+		Resources/ZTLivingOverhaul.unity3d?toaster_open
+		Resources/ZTLivingOverhaul.unity3d?toaster_close
+		Resources/ZTLivingOverhaul.unity3d?coffee_open
+		Resources/ZTLivingOverhaul.unity3d?coffee_close
+		Resources/ZTLivingOverhaul.unity3d?ZTMicrowaveRebuildPrefab
+		Resources/ZTLivingOverhaul.unity3d?MicrowaveLightingParticle
+		Resources/ZTLivingOverhaul.unity3d?microwave_open
+		Resources/ZTLivingOverhaul.unity3d?microwave_close
+		Resources/ZTLivingOverhaul.unity3d?microwave_click_craft
+		Resources/ZTLivingOverhaul.unity3d?microwave_complete_item
+		Resources/ZTLivingOverhaul.unity3d?microwave_cook_click
+		Resources/ZTLivingOverhaul.unity3d?ZTChimneyRebuildPrefab
+		Resources/ZTLivingOverhaul.unity3d?ZTDoorBellPrefab
+		Resources/ZTLivingOverhaul.unity3d?ZTDoorBellLeftPrefab
+		-->
+		
+		<item name="BathroomItemsLoadingHacks"><!--Covers eight assets/objects-->
+            <property name="CreativeMode" value="None"/>
+            <property name="CustomIcon" value="missingIcon"/>
+			<property name="CustomIconTint" value="90ff90"/>
+            <property name="HoldType" value="45"/>
+            <property name="HoldingItemHidden" value="true"/>
+            <property name="Meshfile" value="#@modfolder:Resources/ZTBathroomRebuilds.unity3d?ZTBathroomShowerRebuildPrefab"/>
+            <property name="DropMeshfile" value="#@modfolder:Resources/ZTBathroomRebuilds.unity3d?ZTBathroomShowerRebuildPrefab"/>
+            <property name="Material" value="MresourceScrapIron"/>
+            <property name="Weight" value="1"/>
+            <property name="Stacknumber" value="1"/> 
+            <property name="EconomicValue" value="1"/>
+            <property name="EconomicBundleSize" value="1000"/>
+            <property name="Group" value="Resources"/>
+        </item>
+		
+		<!--
+		BathroomItemsLoadingHacks includes:
+		Resources/ZTBathroomRebuilds.unity3d?ZTBathroomShowerRebuildPrefab
+		Resources/ZTBathroomRebuilds.unity3d?ZTBathroomTowelRebuildPrefab
+		Resources/ZTBathroomRebuilds.unity3d?ZTBathroomToiletPaperRebuildPrefab
+		Resources/ZTBathroomRebuilds.unity3d?ZTBathroomToiletPaperRightRebuildPrefab
+		Resources/ZTBathroomRebuilds.unity3d?ZTBathroomDoorRebuildPrefab
+		Resources/ZTBathroomRebuilds.unity3d?ZTBathroomSingleDoorRebuildPrefab
+		Resources/ZTBathroomRebuilds.unity3d?ZTBathroomTallGlassRebuildPrefab
+		Resources/ZTBathroomRebuilds.unity3d?ZTBathroomGlassPanelRebuildPrefab
+		-->
+		
 		<item name="GardenLoadingHacks"><!--Covers eleven assets/objects-->
             <property name="CreativeMode" value="None"/>
             <property name="CustomIcon" value="missingIcon"/>
@@ -167,41 +231,6 @@
 		Resources/HNWWindows.unity3d?WW4a.prefab
 		Resources/HNWWindows.unity3d?WW5a.prefab
 		Resources/HNWWindows.unity3d?WW6a.prefab
-		-->
-		
-        <item name="BathroomAmenitiesLoadingHacks"><!--Covers fifteen assets/objects-->
-            <property name="CreativeMode" value="None"/>
-            <property name="CustomIcon" value="missingIcon"/>
-			<property name="CustomIconTint" value="90ff90"/>
-            <property name="HoldType" value="45"/>
-            <property name="HoldingItemHidden" value="true"/>
-            <property name="Meshfile" value="#@modfolder:Resources/HNBathroom.unity3d?HNBath01.prefab"/>
-            <property name="DropMeshfile" value="#@modfolder:Resources/HNBathroom.unity3d?HNBath01.prefab"/>
-            <property name="Material" value="MresourceScrapIron"/>
-            <property name="Weight" value="1"/>
-            <property name="Stacknumber" value="1"/> 
-            <property name="EconomicValue" value="1"/>
-            <property name="EconomicBundleSize" value="1000"/>
-            <property name="Group" value="Resources"/>
-        </item>
-		
-		<!--
-		BathroomAmenitiesLoadingHacks includes:
-		Resources/HNBathroom.unity3d?HNBath01.prefab
-		Resources/HNBathroom.unity3d?HNBath02.prefab
-		Resources/HNBathroom.unity3d?HNBath04.prefab
-		Resources/HNBathroom.unity3d?HNBath05.prefab
-		Resources/HNBathroom.unity3d?HNBath05a.prefab
-		Resources/HNBathroom.unity3d?HNBath06.prefab
-		Resources/HNBathroom.unity3d?HNBath06a.prefab
-		Resources/HNBathroom.unity3d?HNBath07.prefab
-		Resources/HNBathroom.unity3d?HNBath08.prefab
-		Resources/HNBathroom.unity3d?HNBath10.prefab
-		Resources/HNBathroom.unity3d?HNBath11.prefab
-		Resources/HNBathroom.unity3d?HNBath12.prefab
-		Resources/HNBathroom.unity3d?HNBath13.prefab
-		Resources/HNBathroom.unity3d?HNBath14.prefab
-		Resources/HNBathroom.unity3d?HNBath15.prefab
 		-->
 		
         <item name="DoorsLoadingHacks"><!--Covers sixteen assets/objects-->
@@ -357,5 +386,80 @@
 		
 	<!--Code designed by modder Beardman-->
 	</append>
+	
+	<insertAfter xpath="/items/item[@name='carBattery']/property[@name='EconomicValue']">
+	
+		<property name="FuelValue" value="500"/>
+	
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='resourceElectricParts']/property[@name='EconomicValue']">
+	
+		<property name="FuelValue" value="60"/>
+	
+	</insertAfter>
+	
+	<remove xpath="/items/item[@name='resourceElectronicParts']" />
+	
+	<insertAfter xpath="/items/item[@name='resourceElectricParts']">
+		
+		<item name="resourceElectronicParts"> <!-- scrap material -->
+			<property name="CreativeMode" value="Player"/>
+			<property name="HoldType" value="45"/>
+			<property name="Tags" value="junk"/>
+			<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MelectronicParts"/>
+			<property name="Weight" value="1"/>
+			<property name="Stacknumber" value="1000"/> <!-- STK resource -->
+			<property name="EconomicValue" value="50"/>
+			<property name="FuelValue" value="200"/>
+			<property name="Group" value="Resources"/>
+			<property name="CraftingIngredientTime" value="2"/>
+			<!-- <property name="RepairTime" value="2"/>
+			<property name="RepairAmount" value="400"/> -->
+		</item>		
+	
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='resourceSpring']">
+	
+		<item name="toolCookingSpring"><!-- Shamway Cooking Spring -->
+			<property name="CreativeMode" value="Player"/>
+			<property name="HoldType" value="45" />
+			<property name="Tags" value="junk" />
+			<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab" />
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab" />
+			<property name="CustomIcon" value="Shamway Spring" />
+			<property name="Material" value="MresourceForgedSteel" />
+			<property name="Stacknumber" value="500" /> <!-- STK resource -->
+			<property name="Weight" value="10" />
+			<property name="EconomicValue" value="22" />
+			<property name="Group" value="Resources,Food/Cooking,toasterFood" />
+			<property name="ItemTypeIcon" value="ui_game_symbol_toaster" />
+			<property name="DescriptionKey" value="toolCookingSpringDesc"/>
+		</item>
+	
+	</insertAfter>
+	
+	<set xpath="/items/item[@name='foodTunaFishGravyToast']/property[@name='Group']/@value">toasterFood</set>
+	
+	<set xpath="/items/item[@name='drinkJarBoiledWater']/property[@name='Group']/@value">Food/Cooking,CFDrink/Cooking,coffeeWater</set>
+	
+	<set xpath="/items/item[@name='drinkJarRiverWater']/property[@name='Group']/@value">Food/Cooking,CFDrink/Cooking,coffeeWater</set>
+	
+	<set xpath="/items/item[@name='drinkJarRedTea']/property[@name='Group']/@value">Food/Cooking,CFDrink/Cooking,coffeeWater</set>
+	
+	<set xpath="/items/item[@name='drinkJarYuccaJuice']/property[@name='Group']/@value">Food/Cooking,CFDrink/Cooking,coffeeWater</set>
+	
+	<set xpath="/items/item[@name='drinkJarPureMineralWater']/property[@name='Group']/@value">Food/Cooking,CFDrink/Cooking,coffeeWater</set>
+	
+	<set xpath="/items/item[@name='drinkJarCoffee']/property[@name='Group']/@value">Food/Cooking,CFDrink/Cooking,coffeeWater</set>
+	
+	<insertAfter xpath="/items/item[@name='drinkJarBlackStrapCoffee']/property[@name='UnlockedBy']">
+	
+		<property name="Group" value="Food/Cooking,CFDrink/Cooking,coffeeWater"/>
+	
+	</insertAfter>
 	
 </configs>

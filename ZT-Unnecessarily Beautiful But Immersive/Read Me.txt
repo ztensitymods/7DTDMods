@@ -1,16 +1,39 @@
+
+ Unnecessarily Beautiful But Immersive - Version 2.0.0
+ The Unnecessary But Beautiful 19.3 Rebuild
  
- Unnecessarily Beautiful But Immersive - Version 1.3.0
- The Unnecessary But Beautiful 19.3b6 Rebuild
+ 
+ - !!URGENT!! -
+ 
+ This version of UBBI's 2.0.0 update is designed only for the vanilla version of 7 Days to Die. Meaning if you have SMX UI or another mod that alters the campfire UI winodow and xui, this modlet will conflict, as the added appliances tweak this part of the UI.
+ 
+ Before loading up UBBI 2.0.0 in a current save, all following items should be destroyed and removed from your inventory or chests prior to loading up your save with this version to make for a smoother transition:
+ 
+ - Stove
+ - Oven
+ - Cooktop
+ - Toaster
+ - Coffee Maker
+ - Microwave
+ - Shower Head
+ - Shower Glass Mirrors
+ - Shower Sliding Glass Doors
+ - Toilet Paper
+ - Bathroom Towel
+ - Closet Pieces
+ 
+ - !!URGENT!! -
  
  
  ABOUT THIS MOD
  ==============
  
- Designed for 19.3, this edition is a full version that not only includes assets and blocks designed and coded by the mod author himself, but also an updated recipes file for full compatibility with the latest build of the game.
+ After a lot of hard work across weeks of coding, Unnecessarily Beautiful But Immersive's 2.0.0 update is finally out.
  
- To make things fresh and increase immersion, Unnecessarily Beautiful But Immersive also includes an all new localization file that provides names for every building piece, certain building block descriptions and new lines for the on/off switch for lights, TVs, a PC, a laptop, a fireplace and a sound bar. 
+ Originally designed as a rework of Hernan's Unnecessary But Beautiful, UBBI is a fuller version of that mod that has been created for 7 Days to Die's 19.3 stable edition. Not only does my modlet include assets and blocks currated by the original mod author himself, but it also brings updated recipes, Localization and an assortment of other features.
  
- Not only this, but I have added four unnecessarily, but absolutely immersive features:
+ 
+ In previous updates, I added the following unnecessarily beautiful, but absolutely immersive features:
  
  1. In order to turn on the lights, TVs, PC, laptop, fireplace and sound bar, players must now make use of the wire tool.
  
@@ -23,6 +46,28 @@
  5. Players can use the wrench line of tools to receive additional resources when destroying a multitude of items, whilst also receiving resources back when using just fists and/or weapons to destroy them.
  
  6. In order to repair items crafted, players must use specific resources from cloth fragments, wood and glass blocks to forged iron, concrete mix and leather.
+ 
+ 
+ For Unnecessarily Beautiful But Immersive's 2.0.0 update, I have added the following:
+ 
+ 7. There are now six workable kitchen appliances that work similarly to a campfire. These items are updated from previously static items from UBBI. Now, you can use the Stove, Oven, Cooktop, Toaster, Coffee Maker and Microwave with slightly unique sounds, fuel requirements and even a new tool requirement for the toaster!
+ 
+ 8. I have created a new tool that can be used in the toaster. The tool in question is a blue tinted spring called a "Shamway Cooking Spring." This tool will allow players to craft the Tuna Fish Gravy Toast at the toaster once the appropriate skills have been met and schematic has been read. This tool can be found in a variety of loot places, however the Shamway related containers will hold it the most.
+ 
+ 9. To increase immersion even further, I have put into place the ability to use electronic parts, electric parts and car batteries as a power source with the electronic campfire like appliances. Furthermore, while all items can still be crafted at a campfire, these alternate appliances will look more aesthetic, while allowing players to craft select foods depending on the device.
+ 
+ 10. Similarly to War of the Walkers, I have added the Electronic Components back to the game via not only to the creative menu, but also to the loot list for vehicles, so you should be able to attain these parts as an alternative power source to the kitchen appliances for use to craft foods.
+ 
+ 11. I have made the shower head usable with water visual and sound effects. To increase immersion and add usefulness to it, I also provided up to 30 minutes of increased benefits, which include inscreased stamina regeneration, icnreased running speed and cold resistance.
+ 
+ 12. To improve shower room aesthetics, I have replaced the towel, made the toilet paper piece to be closer to the edge for aesthetics with a toilet, created an alternate toilet paper piece to be closer to the opposite side (left), redesigned the bathroom mirrors and bathroom double doors and created a new bathroom single door as well.
+ 
+ 13. I have reworked the closet pieces slightly, created a single closet door and created a secret closet door that takes up one block for people playing with one block crouch.
+ 
+ 14. Inspired by the POI version of the vanilla chimney, I have brought to life a more immersive version of the Chimney with new chimney effects that emit more realistically.
+ 
+ 15. I have added a working doorbell that can not only be used as aesthetics, but it can be used as a way to alarm a player you're entering their build and it will hopefully alarm zombies to some extent as well.
+ 
  
  I have made the lights an unlockable buildable to make it challenging and rewarding. However, at the same time, vanilla lights require the same skill level before being able to craft. Therefore, this increases immersion further and was a sensible addition to the mod. To add to this as a sort of balancing act, if a player is lucky enough to find a certain schematic, they can also unlock all lights early as well, just like their Vanilla light counterparts.
  
@@ -124,6 +169,7 @@
  
  Similarly to vanilla, once you place a bedroll it should act a safe haven for re-spawning. Whichever is your last placed bed or vanilla bedroll however will be utilized as your re-spawn point in almost all cases with the exception of rare vanilla bugs.
  
+ 
  ================================
  
  
@@ -146,6 +192,7 @@
  
  Hopefully, this XML will allow for slightly smoother gameplay for players.
  
+ 
  ================================
  
  
@@ -161,6 +208,8 @@
  I have added an items.xml file, which pre-loads pre-loads certain bundles I've selected into memory to increase frames per second, freezing/lagging and general performance for players. This is likely especially useful to players with older software/hardware.
  
  I have adjusted code across the board for blocks.xml, recipes.xml, sounds.xml, progression.xml, Localization.txt, ModInfo.xml and this Read Me.txt to make everything smoother, cleaner and most importantly more immersive when applicable from an in-game standpoint. I have also cleaned the ItemIconAtlas folder (235 files remaining) and Resources folder (51 files remaining) to make sure only the files being used in-game were left.
+ 
+ With version 2.0.0, I have added an xui.xml, windows.xml, buffs.xml, loot.xml and a ui_display.xml file to make all new features a reality. Further, I also added a variety of lines to blocks.xml, items.xml and sounds.xml as well.
  
  Finally, I have made sure that there are no yellow line errors, red line errors or any other issues associated with this mod.
  
@@ -201,7 +250,7 @@
  
  Xyth, Mumpfy, Snufkin & TSBX: Thank you for helping me change wording for switches from "Switch light off" / "Switch light on" to "turn off" / "turn on." While this was accomplished through organic conversation and light pushes to look at the vanilla Localization, I wouldn't have known to do that without you guys.
  
- Guppy: Thank you for helping me understand the in and outs of using Unity. Alongside Xyth, I would not have been able to do everything without first having learned to rebuild the first lamp with your assistance. You also helped me with textures and taught me how to use the application Materialize! Finally, without organic conversation with you, I wouldn't have realized that making a Prefab out of an object while it's invisible in Unity and then bundling it, would cause issues in-game.
+ Guppy: Thank you for helping me understand the in and outs of using Unity. Alongside Xyth, I would not have been able to do everything without first having learned to rebuild the first lamp with your assistance. You also helped me with textures and taught me how to use the application Materialize! Finally, without organic conversation with you, I wouldn't have realized that making a Prefab out of an object while it's invisible in Unity and then bundling it, would cause issues in-game. Thank you for also helping me understand how to design doors.
  
  Guppycur, Zorro, Ragsy & Khaine: Thank you guys for helping me rebuild my first lamp from Hernan's Unnecessary But Beautiful mod. This was the only lamp I made new textures for, as I eventually caught on to how to truly rebuild the remaining objects based on what was already designed, but without your guys help, none of this would have been possible.
  
