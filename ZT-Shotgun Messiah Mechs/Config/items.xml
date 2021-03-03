@@ -6,15 +6,28 @@
 		
 	</insertAfter>
 	
-	<insertAfter xpath="/items/item[@name='gunBotRustyDrone']/property[@name='extends']">
-		
-		<property name="CreativeMode" value="Dev"/>
-		
-	</insertAfter>
+	<remove xpath="/items/item[@name='gunBotRustyDrone']" />
+	<remove xpath="/items/item[@name='gunBotBeeDrone']" />
 	
-	<insertAfter xpath="/items/item[@name='gunBotBeeDrone']/property[@name='extends']">
+	<insertAfter xpath="/items/item[@name='gunMechJunkDrone']">
 		
-		<property name="CreativeMode" value="Dev"/>
+		<item name="gunBotRustyDrone">
+			<property name="Extends" value="gunMechJunkDrone" />
+			<property name="CreativeMode" value="Dev"/>
+			<property class="Action1">
+				<property name="Class" value="SpawnTurret" />
+				<property name="Turret" value="droneRustyDrone" />
+			</property>
+		</item>
+		
+		<item name="gunBotBeeDrone">
+			<property name="Extends" value="gunMechJunkDrone" />
+			<property name="CreativeMode" value="Dev"/>
+			<property class="Action1">
+				<property name="Class" value="SpawnTurret" />
+				<property name="Turret" value="droneBeeDrone" />
+			</property>
+		</item>
 		
 	</insertAfter>
 
