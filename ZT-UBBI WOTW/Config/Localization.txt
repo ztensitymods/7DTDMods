@@ -3,7 +3,23 @@ key,source,context,changes,english
 useSwitchLightOff,UI,Menu,New,Turn Off
 useSwitchLightOn,UI,Menu,New,Turn On
 
-resourceElectronicPartsDesc,items,Item,New,"Scrap electronic components that might aid in crafting select electrical devices like lights, tvs and more..."
+toolCookingSpring,items,Item,,Shamway Cooking Spring
+toolCookingSpringDesc,items,Item,,"While standard Springs are great for making furniture, vault doors, hatches and more, the Shamway Cooking Spring is meant for getting a toaster running to cook the Tuna Fish Gravy Toast. If you're lucky, more Shamway recipes from before the apocalypse might soon become uncovered!"
+
+lblToasterFood,UI,Tooltip,,Toasted Foods
+lblCoffeeWater,UI,Tooltip,,Coffee & Water
+
+foodTunaFishGravyToastDesc,items,Food,New,"Some call it Shamway's shit on a shingle, but its actually pretty tasty and filling."
+
+drinkJarRiverWaterDesc,items,Food,New,"Disgusting murky water, but what can you do. It's the damn zombie apocalypse. You can't be picky. Boil at a campfire or a coffee maker to purify it."
+
+buffElementHotShowerWetName,buffs,Buff,,Cleanliness
+buffElementHotShowerWetDesc,buffs,Buff,,"Normally under the rain, you get colder, but since you've taken a hot shower, you receive some unexpected benefits.\n\nStamina Regeneration: [DECFA4]+{cvar(.StaminaRegeneration:0.0)}%[-]\n\nRunning Speed: [DECFA4]+{cvar(.RunSpeed:0.0)}%[-]\n\nCold Resist: [DECFA4]+{cvar(.ColdResistance:0.0)}[-]"
+buffElementHotShowerWetTooltip,buffs,Buff,,You enjoy a hot shower
+
+carBatteryDesc,items,Item,New,"Car batteries can be used to either get kitchen appliances running to cook items or craft vehicles. If this battery isn't needed, it can also be scrapped or smelted at the forge for lead. Recharge them in a powered battery bank."
+resourceElectricPartsDesc,items,Item,New,"While electrical parts can aid in crafting wires, switches and screw joints, they can also be used to get kitchen appliances running to cook items."
+resourceElectronicPartsDesc,items,Item,New,"Scrap electronic components that might aid in crafting select electrical devices like lights and TVs, but also will allow you to cook with certain kitchen appliances."
 
 perkElectricalDevicesRank2Desc,progression,Perk,New,"Unlocks the ability to craft basic lights such as the old outdoor light, silver dome light, recessed light, warehouse outdoor light, fluorescent light, track light and sconce light amongst others alongside other unnecessarily beautiful, but immersive lights."
 
@@ -46,22 +62,24 @@ HN Doors,blocks,Variant,New,Wooden Doors
 HNDoorsDesc,blocks,Block,New,Wooden doors for the zombie apocalypse!
 HN Windows/Glass Doors,blocks,Variant,New,Windows/Glass Doors
 HNWindows/GlassDoorsDesc,blocks,Block,New,Windows and glass doors for the zombie apocalypse!
-HN Kitchen Cooktop,blocks,Variant,New,Small Kitchen Cooktop
-HN Cooktop,blocks,Variant,New,Big Kitchen Cooktop
+ZTCooktopRebuild,blocks,Variant,New,Small Cooktop
+HN Cooktop,blocks,Variant,New,Big Cooktop
 HN Cooker Top,blocks,Variant,New,Cooker Top
 HN Cooker Top Chimney,blocks,Variant,New,Cooker Top Chimney
-HN Gas Stove,blocks,Variant,New,Gas Stove
-HN Wall Oven,blocks,Variant,New,Wall Oven
-HN Coffee Maker,blocks,Variant,New,Coffee Maker
-HN Microwave Black,blocks,Variant,New,Microwave
-HN Toaster,blocks,Variant,New,Toaster
+ZTStoveRebuild,blocks,Variant,New,Gas Stove
+ZTOvenRebuild,blocks,Variant,New,Wall Oven
+ZTCoffeeMakerRebuild,blocks,Variant,New,Coffee Maker
+ZTMicrowaveRebuild,blocks,Variant,New,Microwave
+ZTToasterRebuild,blocks,Variant,New,Toaster
 HN Fridge New,blocks,Variant,New,Fridge
-HN Bathroom Double Shower Door,blocks,Variant,New,Shower Double Doors
-HN Bathroom ShowerGlass 1x1,blocks,Variant,New,Shower Glass
-HN Bathroom ShowerGlass 2x1,blocks,Variant,New,Shower Glass
-HN Bathroom Towel,blocks,Variant,New,Towel
-HN Bathroom Toilet Paper,blocks,Variant,New,Toilet Paper
-HN Bathroom Shower,blocks,Variant,New,Shower Head
+ZTBathroomDoorRebuild,blocks,Variant,New,Shower Double Doors
+ZTBathroomSingleDoorRebuild,blocks,Variant,New,Shower Single Door
+ZTBathroomTallGlassRebuild,blocks,Variant,New,Shower Glass
+ZTBathroomGlassPanelRebuild,blocks,Variant,New,Shower Glass
+ZTBathroomTowelRebuild,blocks,Variant,New,Towel
+ZTBathroomToiletPaperRebuild,blocks,Variant,New,Toilet Paper (Left)
+ZTBathroomToiletPaperRightRebuild,blocks,Variant,New,Toilet Paper (Right)
+ZTBathroomShowerRebuild,blocks,Variant,New,Shower
 HN Bathroom Cabinet 1,blocks,Variant,New,Cabinet
 HN Bathroom Cabinet 2,blocks,Variant,New,Shelf
 HN Bathroom Cabinet 3,blocks,Variant,New,Cabinet
@@ -110,6 +128,8 @@ ZTLargeTVRebuild,blocks,Variant,New,Large TV Set
 ZTLargeMountedTV,blocks,Variant,New,Mounted TV
 ZTSmallMountedTV,blocks,Variant,New,Mounted TV
 ZTSoundBarRebuild,blocks,Variant,New,Sound Bar
+ZTDoorBell,blocks,Variant,New,Door Bell (Right Side)
+ZTDoorBellLeft,blocks,Variant,New,Door Bell (Left Side)
 HN Glass Desk,blocks,Variant,New,Glass Desk
 HN Glass and Metal Table 1x1,blocks,Variant,New,Metal Table
 HN Glass and Metal Table 2x1,blocks,Variant,New,Metal Table
@@ -156,6 +176,7 @@ HN Sofa Arm Black,blocks,Variant,New,Sofa
 HN Sofa Arm Right Black,blocks,Variant,New,Sofa
 HN Sofa Arm Left Black,blocks,Variant,New,Sofa
 HN Sofa Corner Black,blocks,Variant,New,Sofa
+ZTChimneyRebuild,blocks,Variant,New,Chimney
 HN Decor Plant,blocks,Variant,New,Decorative Plant
 HN Palm Plant Pot,blocks,Variant,New,Palm Plant
 HN Puff,blocks,Variant,New,Cushion
@@ -180,9 +201,13 @@ HN Glass Closet Door 1,blocks,Variant,New,Glass Closet Door
 HN Glass Closet Door 2,blocks,Variant,New,Glass Closet Door
 HN Glass Closet Door 3,blocks,Variant,New,Glass Closet Door
 HN Glass Door,blocks,Variant,New,Glass Door
-HN Closet Door,blocks,Variant,New,Closet Door
-HN Closet Door Bottom,blocks,Variant,New,Closet Door
-HN Closet Door Middle,blocks,Variant,New,Closet Door
+ZTClosetDoor,blocks,Variant,New,Closet Door
+ZTClosetSecretDoor,blocks,Variant,New,Secret Closet Door
+ZTClosetDoorSwingOut,blocks,Variant,New,Closet Door (Swing Out)
+ZTClosetSecretDoorSwingOut,blocks,Variant,New,Secret Closet Door (Swing Out)
+ZTClosetBottomRebuild,blocks,Variant,New,Closet (Bottom)
+ZTClosetMiddleRebuild,blocks,Variant,New,Closet (Middle)
+ZTClosetTopRebuild,blocks,Variant,New,Closet (Top)
 HN Main Door,blocks,Variant,New,Heavy Door
 HN Main Double Door,blocks,Variant,New,Heavy Double Doors
 HN Sliding Door,blocks,Variant,New,Sliding Doors

@@ -17,7 +17,7 @@
  ================================
  
  
- Ztensity's Shotgun Messiah Mechs 1.0.0
+ Ztensity's Shotgun Messiah Mechs 1.3.2
  =======
  
  The sixth renaming modlet is an add-on for Xyth's "Creature Pack Mechs" and does a lot more than just renaming. Not only does this modlet rename six mechs, but it also doubles the health for select bots, making them bosses. 
@@ -69,7 +69,7 @@
  ================================
  
  
- ZT-UBBI WOTW 1.3.0 (War of the Walkers Compatibility Version)
+ ZT-UBBI WOTW 2.0.0 (War of the Walkers Compatibility Version)
  =======
  
  While all three modlets are complete versions of the latest build, ZT-UBBI WOTW is designed specifically and only for Dwallorde's mod overhaul titled "War of the Walkers" or WotW for short.
@@ -80,7 +80,7 @@
  ================================
  
  
- ZTZ-UBBI SMX PATCH
+ ZTZ-UBBI SMX PATCH 1.0.0
  =======
  
  With version 2.0.0 of Unnecessarily Beautiful But Immersive, new features were added with unique UI elements for the Campfire window for kitchen appliances. Because of this, I have released this standalone patch to make UBBI compatible with Sirillion's SMX UI Overhaul modlet.

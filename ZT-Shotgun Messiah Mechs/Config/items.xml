@@ -1,0 +1,21 @@
+<ZTitemsMech name="items.xml">
+
+	<insertAfter xpath="/items/item[@name='gunMechJunkDrone']/property[@name='Tags']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBotRustyDrone']/property[@name='extends']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="/items/item[@name='gunBotBeeDrone']/property[@name='extends']">
+		
+		<property name="CreativeMode" value="Dev"/>
+		
+	</insertAfter>
+
+</ZTitemsMech>

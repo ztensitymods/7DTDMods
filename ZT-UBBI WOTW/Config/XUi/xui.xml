@@ -1,0 +1,75 @@
+<ZTxuiVannilaUBBI name="xui.xml">
+
+	<!-- Vanilla Version of xui for UBBI -->
+
+	<insertAfter xpath="/xui/ruleset[@name='default']/window_group[@name='messageBox']">
+		
+		<window_group name="workstation_ZTMicrowaveRebuild" controller="XUiC_WorkstationWindowGroup">
+				<window name="windowWorkstationCraftingList"/>
+				<window name="craftingInfoPanel"/>
+				<window name="windowWorkstationCraftingQueue"/>
+				<window name="windowOutputWorkStation" />
+				<window name="windowToolsCampfire" />
+				<window name="windowFuelElectronic" />
+				<window name="windowNonPagingHeader" anchor="CenterTop" />
+				<window name="SMXhudDayTimeUI" anchor="LeftTop" />
+		</window_group>
+		
+		<window_group name="workstation_ZTCooktopRebuild" controller="XUiC_WorkstationWindowGroup">
+				<window name="windowWorkstationCraftingList"/>
+				<window name="craftingInfoPanel"/>
+				<window name="windowWorkstationCraftingQueue"/>
+				<window name="windowOutputWorkStation" />
+				<window name="windowToolsCampfire" />
+				<window name="windowFuelElectronic" />
+				<window name="windowNonPagingHeader" anchor="CenterTop" />
+				<window name="SMXhudDayTimeUI" anchor="LeftTop" />
+		</window_group>
+		
+		<window_group name="workstation_ZTStoveRebuild" controller="XUiC_WorkstationWindowGroup">
+				<window name="windowWorkstationCraftingList"/>
+				<window name="craftingInfoPanel"/>
+				<window name="windowWorkstationCraftingQueue"/>
+				<window name="windowOutputWorkStation" />
+				<window name="windowToolsCampfire" />
+				<window name="windowFuelElectronic" />
+				<window name="windowNonPagingHeader" anchor="CenterTop" />
+				<window name="SMXhudDayTimeUI" anchor="LeftTop" />
+		</window_group>
+		
+		<window_group name="workstation_ZTOvenRebuild" controller="XUiC_WorkstationWindowGroup">
+				<window name="windowWorkstationCraftingList"/>
+				<window name="craftingInfoPanel"/>
+				<window name="windowWorkstationCraftingQueue"/>
+				<window name="windowOutputWorkStation" />
+				<window name="windowToolsCampfire" />
+				<window name="windowFuelElectronic" />
+				<window name="windowNonPagingHeader" anchor="CenterTop" />
+				<window name="SMXhudDayTimeUI" anchor="LeftTop" />
+		</window_group>
+		
+		<window_group name="workstation_ZTToasterRebuild" controller="XUiC_WorkstationWindowGroup">
+				<window name="windowWorkstationCraftingList"/>
+				<window name="craftingInfoPanel"/>
+				<window name="windowWorkstationCraftingQueue"/>
+				<window name="windowOutputWorkStation" />
+				<window name="windowToolsToaster" />
+				<window name="windowFuelElectronic" />
+				<window name="windowNonPagingHeader" anchor="CenterTop" />
+				<window name="SMXhudDayTimeUI" anchor="LeftTop" />
+		</window_group>
+		
+		<window_group name="workstation_ZTCoffeeMakerRebuild" controller="XUiC_WorkstationWindowGroup">
+				<window name="windowWorkstationCraftingList"/>
+				<window name="craftingInfoPanel"/>
+				<window name="windowWorkstationCraftingQueue"/>
+				<window name="windowOutputWorkStation" />
+				<window name="windowToolsCoffeeMaker" />
+				<window name="windowFuelElectronic" />
+				<window name="windowNonPagingHeader" anchor="CenterTop" />
+				<window name="SMXhudDayTimeUI" anchor="LeftTop" />
+		</window_group>
+		
+	</insertAfter>
+	
+</ZTxuiVannilaUBBI>	

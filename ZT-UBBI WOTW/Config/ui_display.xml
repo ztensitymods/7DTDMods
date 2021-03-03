@@ -1,0 +1,36 @@
+<ZTuiDisplayUBBI name="ui_display.xml">
+
+	<insertAfter xpath="/ui_display_info/crafting_category_display/crafting_category_list[@display_type='campfire']">
+	
+		<crafting_category_list display_type="ZTMicrowaveRebuild">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink" />
+		</crafting_category_list>
+		
+		<crafting_category_list display_type="ZTCooktopRebuild">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink" />
+			<crafting_category name="CFChemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals" />
+		</crafting_category_list>
+	
+		<crafting_category_list display_type="ZTStoveRebuild">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink" />
+			<crafting_category name="CFChemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals" />
+		</crafting_category_list>
+		
+		<crafting_category_list display_type="ZTOvenRebuild">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+		</crafting_category_list>
+		
+		<crafting_category_list display_type="ZTToasterRebuild">
+			<crafting_category name="toasterFood" icon="ui_game_symbol_toaster" display_name="lblToasterFood" />
+		</crafting_category_list>
+		
+		<crafting_category_list display_type="ZTCoffeeMakerRebuild">
+			<crafting_category name="coffeeWater" icon="ui_game_symbol_coffee" display_name="lblCoffeeWater" />
+		</crafting_category_list>
+		
+	</insertAfter>
+	
+</ZTuiDisplayUBBI>

@@ -27,8 +27,7 @@
 			<property name="ItemTypeIcon" value="all_blocks"/>
 			<property name="SelectAlternates" value="true"/>
 			<property name="AllowAllRotations" value="true"/>
-			<property name="PlaceAltBlockValue" value="HN Fridge New,HN Gas Stove,HN Wall Oven,HN Kitchen Cooktop,HN Cooker Top,HN Cooker Top Chimney,HN Toaster,HN Coffee Maker,HN Microwave Black"/>
-			<property name="Group" value="Decor/Miscellaneous,DiningRoom/Kitchen"/>
+			<property name="PlaceAltBlockValue" value="ZTMicrowaveRebuild,HN Fridge New,ZTStoveRebuild,ZTOvenRebuild,ZTCooktopRebuild,HN Cooker Top,HN Cooker Top Chimney,ZTToasterRebuild,ZTCoffeeMakerRebuild"/>
 		</block>
 		
 		<block name="HN Decor">
@@ -40,7 +39,7 @@
 			<property name="ItemTypeIcon" value="all_blocks"/>
 			<property name="SelectAlternates" value="true"/>
 			<property name="AllowAllRotations" value="true"/>
-			<property name="PlaceAltBlockValue" value="HN Decor Jars,HN Decoration Spheres,HN Decoration Spheres X2,HN Sushi Dinner,HN Toy Teddy Bear,HN Painting 1,HN Painting 2,HN Painting 3,HN Painting 4,HN Painting 5,HN Painting 6,HN Palm Plant Pot,HN Decor Plant"/>
+			<property name="PlaceAltBlockValue" value="HN Decor Jars,HN Decoration Spheres,HN Decoration Spheres X2,HN Sushi Dinner,HN Toy Teddy Bear,HN Painting 1,HN Painting 2,HN Painting 3,HN Painting 4,HN Painting 5,HN Painting 6,HN Palm Plant Pot,HN Decor Plant,ZTChimneyRebuild"/>
 			<property name="Group" value="Decor/Miscellaneous,LivingRoom"/>
 		</block>
 		
@@ -96,7 +95,7 @@
 			<property name="ItemTypeIcon" value="all_blocks"/>
 			<property name="SelectAlternates" value="true"/>
 			<property name="AllowAllRotations" value="true"/>
-			<property name="PlaceAltBlockValue" value="ZTLargeTVRebuild,ZTSmallTVRebuild,ZTLargeMountedTV,ZTSmallMountedTV,ZTSoundBarRebuild,ZTPCRebuild,ZTLaptopRebuild,ZTModernFireplaceRebuild,HN Video Game Console PS"/>
+			<property name="PlaceAltBlockValue" value="ZTLargeTVRebuild,ZTSmallTVRebuild,ZTLargeMountedTV,ZTSmallMountedTV,ZTSoundBarRebuild,ZTDoorBell,ZTDoorBellLeft,ZTPCRebuild,ZTLaptopRebuild,ZTModernFireplaceRebuild,HN Video Game Console PS"/>
 			<property name="Group" value="Decor/Miscellaneous,LivingRoom"/>
 		</block>
 		
@@ -124,7 +123,7 @@
 			<property name="ItemTypeIcon" value="all_blocks"/>
 			<property name="SelectAlternates" value="true"/>
 			<property name="AllowAllRotations" value="true"/>
-			<property name="PlaceAltBlockValue" value="HN Bathroom Bathtub,HN Bathroom Bathtub White,HN Bathroom Accessories,HN Bathroom Cabinet 1,HN Bathroom Cabinet 2,HN Bathroom Sink 2,HN Bathroom Cabinet 3,HN Bathroom Shower,HN Bathroom Double Shower Door,HN Bathroom ShowerGlass 1x1,HN Bathroom ShowerGlass 2x1,HN Bathroom Towel,HN Bathroom Toilet Paper"/>
+			<property name="PlaceAltBlockValue" value="HN Bathroom Bathtub,HN Bathroom Bathtub White,HN Bathroom Accessories,HN Bathroom Cabinet 1,HN Bathroom Cabinet 2,HN Bathroom Sink 2,HN Bathroom Cabinet 3,ZTBathroomShowerRebuild,ZTBathroomDoorRebuild,ZTBathroomSingleDoorRebuild,ZTBathroomTallGlassRebuild,ZTBathroomGlassPanelRebuild,ZTBathroomTowelRebuild,ZTBathroomToiletPaperRebuild,ZTBathroomToiletPaperRightRebuild"/>
 			<property name="Group" value="Decor/Miscellaneous,Bathroom"/>
 		</block>
 		
@@ -150,7 +149,7 @@
 			<property name="ItemTypeIcon" value="all_blocks"/>
 			<property name="SelectAlternates" value="true"/>
 			<property name="AllowAllRotations" value="true"/>
-			<property name="PlaceAltBlockValue" value="HN Main Double Door,HN Main Door,HN Wood Double Door Brown,HN Wood Door Brown,HN Wood Double Door Gray,HN Wood Door Gray,HN Wood Double Door Clear,HN Wood Door Clear,HN Wood Double Door White,HN Wood Door White,HN Closet Door Bottom,HN Closet Door Middle,HN Closet Door"/>
+			<property name="PlaceAltBlockValue" value="HN Main Double Door,HN Main Door,HN Wood Double Door Brown,HN Wood Door Brown,HN Wood Double Door Gray,HN Wood Door Gray,HN Wood Double Door Clear,HN Wood Door Clear,HN Wood Double Door White,HN Wood Door White,ZTClosetDoor,ZTClosetDoorSwingOut,ZTClosetSecretDoor,ZTClosetSecretDoorSwingOut,ZTClosetBottomRebuild,ZTClosetMiddleRebuild,ZTClosetTopRebuild"/>
 			<property name="Group" value="Building"/>
 		</block>
 
@@ -163,7 +162,7 @@
 			<property name="ItemTypeIcon" value="all_blocks"/>
 			<property name="SelectAlternates" value="true"/>
 			<property name="AllowAllRotations" value="true"/>
-			<property name="PlaceAltBlockValue" value="HN Sliding Door Mirrored Glass,HN Sliding Door,HN Glass Door,HN Bathroom Double Shower Door,HN Bathroom ShowerGlass 1x1,HN Bathroom ShowerGlass 2x1,HN SD Window Panel x1,HN SD Window Panel x2,HN SD Window Panel x4,HN Glass Closet Door 1,HN Glass Closet Door 2,HN Glass Closet Door 3,HN Window B1,HN Window B2,HN Window B3,HN Window B4,HN Window B5,HN Window B6,HN Window B7,HN Window B8,HN Window B9,HN Window B10 Inverted,HN Window A1,HN Window A2,HN Window A3,HN Window A4,HN Window A5,HN Window A6,HN Window A7,HN Window A8,HN Window A9,HN Wood Double Door Brown Top Window,HN Wood Door Brown Top Window,HN Wood Window 1x1,HN Wood Window 2x1,HN Wood Window 2x2,HN Wood Window Sect 1x1,HN Wood Window Sect 2x1,HN Wood Window Sect 2x2,HN Wood Double Door Gray Top Window,HN Wood Door Gray Top Window,HN Wood Double Door Clear Top Window,HN Wood Door Clear Top Window,HN Wood Double Door White Top Window,HN Wood Door White Top Window,HN Wood Window White 1x1,HN Wood Window White 2x1,HN Wood Window White 2x2,HN Wood Window Sect White 1x1,HN Wood Window Sect White 2x1,HN Wood Window Sect White 2x2"/>
+			<property name="PlaceAltBlockValue" value="HN Sliding Door Mirrored Glass,HN Sliding Door,HN Glass Door,ZTBathroomDoorRebuild,ZTBathroomSingleDoorRebuild,ZTBathroomTallGlassRebuild,ZTBathroomGlassPanelRebuild,HN SD Window Panel x1,HN SD Window Panel x2,HN SD Window Panel x4,HN Glass Closet Door 1,HN Glass Closet Door 2,HN Glass Closet Door 3,HN Window B1,HN Window B2,HN Window B3,HN Window B4,HN Window B5,HN Window B6,HN Window B7,HN Window B8,HN Window B9,HN Window B10 Inverted,HN Window A1,HN Window A2,HN Window A3,HN Window A4,HN Window A5,HN Window A6,HN Window A7,HN Window A8,HN Window A9,HN Wood Double Door Brown Top Window,HN Wood Door Brown Top Window,HN Wood Window 1x1,HN Wood Window 2x1,HN Wood Window 2x2,HN Wood Window Sect 1x1,HN Wood Window Sect 2x1,HN Wood Window Sect 2x2,HN Wood Double Door Gray Top Window,HN Wood Door Gray Top Window,HN Wood Double Door Clear Top Window,HN Wood Door Clear Top Window,HN Wood Double Door White Top Window,HN Wood Door White Top Window,HN Wood Window White 1x1,HN Wood Window White 2x1,HN Wood Window White 2x2,HN Wood Window Sect White 1x1,HN Wood Window Sect White 2x1,HN Wood Window Sect White 2x2"/>
 			<property name="Group" value="Building"/>
 		</block>
 		
@@ -1388,21 +1387,41 @@
 			<property name="SellableToTrader" value="false" />
 		</block>
 		
-	    <block name="HN Gas Stove">
-			<property name="Class" value="Loot" />
+	    <block name="ZTStoveRebuild">
+			<property name="Class" value="Campfire"/>
 			<property name="Material" value="Miron" />
 			<property name="MaxDamage" value="350"/>
-			<property name="StabilitySupport" value="true" />
-			<property name="Place" value="TowardsPlacerInverted"/>
-			<!-- build restriction -->
+			<property name="StabilitySupport" value="true" /> <!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
+			<property name="Model" value="#@modfolder:Resources/ZTLivingOverhaul.unity3d?ZTStoveRebuildPrefab"/>
 			<property name="Texture" value="293" />
-			<property name="Model" value="#@modfolder:Resources/HNKitchen.unity3d?Stove01.prefab"/>
-			<property name="MultiBlockDim" value="1,1,1" />
-			<property name="HandleFace" value="Bottom" />
-			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
-			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="5" />
+			<property name="CustomIcon" value="Stove" />
+			<property name="ImposterDontBlock" value="true"/>
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+			<property name="IsTerrainDecoration" value="true" />
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="ParticleName" value="#@modfolder:Resources/ZTLivingOverhaul.unity3d?StoveLightingParticle"/>
+			<!-- Internal Racks of Stove Come From Michael Diaz: https://sketchfab.com/michael.diaz029 -->
+			<property name="ParticleOffset" value="0.50,0.65,0.5"/> <!-- X, Y, Z -->
+			<property name="Stacknumber" value="1"/>
+			<property name="HeatMapStrength" value="1"/>
+			<property name="HeatMapTime" value="1200"/>
+			<property name="HeatMapFrequency" value="25"/>
+			<property class="Workstation">
+				<property name="Modules" value="tools,output,fuel,input"/>
+				<property name="Collide" value="melee,bullet,arrow,rocket"/>
+				<property name="CraftingAreaRecipes" value="campfire" />
+			</property>
+			<property name="WorkstationIcon" value="ui_game_symbol_campfire"/>
+			<property name="CraftActionName" value="lblContextActionCook"/>
+			<property name="CraftIcon" value="ui_game_symbol_spatula"/>
+			<property name="OpenSound" value="microwave_open_ubbi"/><!-- Working -->
+			<property name="CloseSound" value="microwave_close_ubbi"/><!-- Working -->
+			<property name="CraftSound" value="microwave_cook_click"/>
+			<property name="CraftCompleteSound" value="microwave_complete_item"/>
+			<property name="WorkstationJournalTip" value="heatMapTip"/>
+			<property name="PickupJournalEntry" value="campfireTip"/>
+			<property name="DescriptionKey" value="campfireDesc"/>
 			<property class="RepairItems">
 				<property name="resourceForgedIron" value="5" />
 			</property>
@@ -1410,25 +1429,43 @@
 			<drop event="Destroy" name="resourceElectricParts" count="2,5" tag="salvageHarvest" tool_category="Disassemble"/>
 			<drop event="Destroy" name="resourceSpring" count="1,2" tag="salvageHarvest" tool_category="Disassemble"/>
 			<drop event="Fall" name="resourceScrapIron" count="3" prob="0.20" stick_chance="0" />
-			<property name="FilterTags" value="floot" />
+			<property name="FilterTags" value="fdecor,fother,ffurniture" />
 			<property name="SellableToTrader" value="false" />
 		</block>
 		
-		<block name="HN Wall Oven">
-			<property name="Class" value="Loot" />
+		<block name="ZTOvenRebuild">
+			<property name="Class" value="Campfire"/>
 			<property name="Material" value="Miron" />
 			<property name="MaxDamage" value="350"/>
-			<property name="StabilitySupport" value="true" />
-			<property name="Place" value="TowardsPlacerInverted"/>
-			<!-- build restriction -->
+			<property name="StabilitySupport" value="true" /> <!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
-			<property name="Texture" value="293" />
 			<property name="Model" value="#@modfolder:Resources/HNCabinetsKB.unity3d?WallOven.prefab"/>
-			<property name="MultiBlockDim" value="1,1,1" />
-			<property name="HandleFace" value="Bottom" />
-			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
+			<property name="Texture" value="293" />
+			<property name="CustomIcon" value="Wall Oven" />
+			<property name="ImposterDontBlock" value="true"/>
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
 			<property name="IsTerrainDecoration" value="false" />
-			<property name="LootList" value="5" />
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="HandleFace" value="Bottom" />
+			<property name="Stacknumber" value="1"/>
+			<property name="HeatMapStrength" value="1"/>
+			<property name="HeatMapTime" value="1200"/>
+			<property name="HeatMapFrequency" value="25"/>
+			<property class="Workstation">
+				<property name="Modules" value="tools,output,fuel,input"/>
+				<property name="Collide" value="melee,bullet,arrow,rocket"/>
+				<property name="CraftingAreaRecipes" value="campfire" />
+			</property>
+			<property name="WorkstationIcon" value="ui_game_symbol_campfire"/>
+			<property name="CraftActionName" value="lblContextActionCook"/>
+			<property name="CraftIcon" value="ui_game_symbol_spatula"/>
+			<property name="OpenSound" value="microwave_open_ubbi"/><!-- Working -->
+			<property name="CloseSound" value="microwave_close_ubbi"/><!-- Working -->
+			<property name="CraftSound" value="microwave_cook_click"/>
+			<property name="CraftCompleteSound" value="microwave_complete_item"/>
+			<property name="WorkstationJournalTip" value="heatMapTip"/>
+			<property name="PickupJournalEntry" value="campfireTip"/>
+			<property name="DescriptionKey" value="campfireDesc"/>			
 			<property class="RepairItems">
 				<property name="resourceForgedIron" value="5" />
 			</property>
@@ -1437,28 +1474,51 @@
 			<drop event="Destroy" name="resourceMetalPipe" count="1,3" tag="salvageHarvest" tool_category="Disassemble"/>
 			<drop event="Destroy" name="resourceSpring" count="1,2" tag="salvageHarvest" tool_category="Disassemble"/>
 			<drop event="Fall" name="resourceScrapIron" count="3" prob="0.20" stick_chance="0" />
-			<property name="FilterTags" value="floot" />
+			<property name="FilterTags" value="fdecor,fother,ffurniture" />
 			<property name="SellableToTrader" value="false" />
 		</block>
 		
-		<block name="HN Kitchen Cooktop">
+		<block name="ZTCooktopRebuild">
+			<property name="Class" value="Campfire"/>
 			<property name="Material" value="Miron" />
 			<property name="MaxDamage" value="150"/>
-			<property name="StabilitySupport" value="true" />
-			<!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
+			<property name="StabilitySupport" value="true" /> <!-- build restriction -->
 			<property name="Texture" value="293" />
 			<property name="Model" value="#@modfolder:Resources/HNCabinetsKB.unity3d?CooktopGen.prefab"/>
+			<property name="CustomIcon" value="HN Cooktop" />
 			<property name="Place" value="TowardsPlacerInverted"/>
-			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
-			<property name="IsTerrainDecoration" value="false" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+			<property name="IsTerrainDecoration" value="true" />
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="Stacknumber" value="1"/>
+			<property name="HeatMapStrength" value="1"/>
+			<property name="HeatMapTime" value="1200"/>
+			<property name="HeatMapFrequency" value="25"/>
+			<property class="Workstation">
+				<property name="Modules" value="tools,output,fuel,input"/>
+				<property name="Collide" value="melee,bullet,arrow,rocket"/>
+				<property name="CraftingAreaRecipes" value="campfire" />
+			</property>
+			<property name="WorkstationIcon" value="ui_game_symbol_campfire"/>
+			<property name="CraftActionName" value="lblContextActionCook"/>
+			<property name="CraftIcon" value="ui_game_symbol_spatula"/>
+			<property name="OpenSound" value="campfire_open"/><!-- Working -->
+			<property name="CloseSound" value="campfire_close"/><!-- Working -->
+			<property name="CraftSound" value="campfire_cook_click"/>
+			<property name="CraftCompleteSound" value="campfire_complete_item"/>
+			<property name="WorkstationJournalTip" value="heatMapTip"/>
+			<property name="PickupJournalEntry" value="campfireTip"/>
+			<property name="DescriptionKey" value="campfireDesc"/>			
 			<property class="RepairItems">
 				<property name="resourceForgedIron" value="5" />
 			</property>
 			<drop event="Destroy" name="resourceElectricParts" count="2,5" tag="salvageHarvest" tool_category="Disassemble"/>
 			<drop event="Fall" name="resourceScrapIron" count="3" prob="0.20" stick_chance="0" />
-			<property name="FilterTags" value="floot" />
+			<property name="EconomicValue" value="5"/>
+			<property name="EconomicBundleSize" value="1"/>
 			<property name="SellableToTrader" value="false" />
+			<property name="FilterTags" value="fdecor,fother,ffurniture" />
 		</block>
 		
 		<block name="HN Cooker Top">
@@ -1501,75 +1561,161 @@
 			<property name="SellableToTrader" value="false" />
 		</block>
 		
-		<block name="HN Toaster">
+		<block name="ZTToasterRebuild">
+			<property name="Class" value="Campfire"/>
 			<property name="Material" value="Miron" />
 			<property name="MaxDamage" value="100"/>
-			<property name="StabilitySupport" value="true" />
-			<!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
+			<property name="StabilitySupport" value="true" /> <!-- build restriction -->
 			<property name="Texture" value="293" />
 			<property name="Model" value="#@modfolder:Resources/HNToaster.unity3d?Toaster.prefab"/>
+			<property name="CustomIcon" value="Toaster" />
 			<property name="Place" value="TowardsPlacerInverted"/>
-			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
-			<property name="IsTerrainDecoration" value="false" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+			<property name="IsTerrainDecoration" value="true" />
+			<property name="Stacknumber" value="1"/>
+			<property name="HeatMapStrength" value="1"/>
+			<property name="HeatMapTime" value="1200"/>
+			<property name="HeatMapFrequency" value="25"/>
+			<property class="Workstation">
+				<property name="Modules" value="tools,output,fuel,input"/>
+				<property name="Collide" value="melee,bullet,arrow,rocket"/>
+				<property name="CraftingAreaRecipes" value="campfire" />
+			</property>
+			<property name="WorkstationIcon" value="ui_game_symbol_campfire"/>
+			<property name="CraftActionName" value="lblContextActionCook"/>
+			<property name="CraftIcon" value="ui_game_symbol_spatula"/>
+			<property name="OpenSound" value="toaster_open"/><!-- Working -->
+			<property name="CloseSound" value="toaster_close"/><!-- Working -->
+			<property name="CraftSound" value="campfire_cook_click"/>
+			<property name="CraftCompleteSound" value="campfire_complete_item"/>
+			<property name="WorkstationJournalTip" value="heatMapTip"/>
+			<property name="PickupJournalEntry" value="campfireTip"/>
+			<property name="DescriptionKey" value="campfireDesc"/>
 			<property class="RepairItems">
 				<property name="resourceForgedIron" value="1" />
 			</property>
 			<drop event="Destroy" name="resourceScrapIron" count="1,2" prob="1"/>
 			<drop event="Destroy" name="resourceElectricParts" count="2,5" tag="salvageHarvest" tool_category="Disassemble"/>
 			<drop event="Fall" name="resourceScrapIron" count="3" prob="0.20" stick_chance="0" />
-			<property name="FilterTags" value="floot" />
-			<property name="SellableToTrader" value="false" />
+			<property name="SellableToTrader" value="false" />			
+			<property name="FilterTags" value="fdecor,fother,ffurniture" />
 		</block>
 	
-		<block name="HN Coffee Maker">
+		<block name="ZTCoffeeMakerRebuild">
+			<property name="Class" value="Campfire"/>
 			<property name="Material" value="Miron" />
 			<property name="MaxDamage" value="100"/>
-			<property name="StabilitySupport" value="true" />
-			<!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
+			<property name="StabilitySupport" value="true" /> <!-- build restriction -->
 			<property name="Texture" value="293" />
 			<property name="Model" value="#@modfolder:Resources/HNCoffeeMaker.unity3d?MrCoffee.prefab"/>
+			<property name="CustomIcon" value="Coffee Maker" />
 			<property name="Place" value="TowardsPlacerInverted"/>
-			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
-			<property name="IsTerrainDecoration" value="false" />
-			<property name="Class" value="Loot"/>
-			<property name="LootList" value="118"/>
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+			<property name="IsTerrainDecoration" value="true" />
+			<property name="Stacknumber" value="1"/>
+			<property name="HeatMapStrength" value="1"/>
+			<property name="HeatMapTime" value="1200"/>
+			<property name="HeatMapFrequency" value="25"/>
+			<property class="Workstation">
+				<property name="Modules" value="tools,output,fuel,input"/>
+				<property name="Collide" value="melee,bullet,arrow,rocket"/>
+				<property name="CraftingAreaRecipes" value="campfire" />
+			</property>
+			<property name="WorkstationIcon" value="ui_game_symbol_campfire"/>
+			<property name="CraftActionName" value="lblContextActionCook"/>
+			<property name="CraftIcon" value="ui_game_symbol_spatula"/>
+			<property name="OpenSound" value="coffee_open"/><!-- Working -->
+			<property name="CloseSound" value="coffee_close"/><!-- Working -->
+			<property name="CraftSound" value="campfire_cook_click"/>
+			<property name="CraftCompleteSound" value="campfire_complete_item"/>
+			<property name="WorkstationJournalTip" value="heatMapTip"/>
+			<property name="PickupJournalEntry" value="campfireTip"/>
+			<property name="DescriptionKey" value="campfireDesc"/>			
 			<property class="RepairItems">
 				<property name="resourceForgedIron" value="1" />
 			</property>
 			<drop event="Destroy" name="resourceScrapIron" count="1,2" prob="1"/>
 			<drop event="Destroy" name="resourceElectricParts" count="2,5" tag="salvageHarvest" tool_category="Disassemble"/>
 			<drop event="Fall" name="resourceScrapIron" count="3" prob="0.20" stick_chance="0" />
-			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
+			<property name="FilterTags" value="fdecor,fother,ffurniture" />			
 		</block>
 		
-		<block name="HN Microwave Black">
+		<block name="ZTMicrowaveRebuild">
+			<property name="Class" value="Campfire"/>
 			<property name="Material" value="Miron" />
 			<property name="MaxDamage" value="200"/>
-			<property name="StabilitySupport" value="true" />
-			<!-- build restriction -->
+			<property name="StabilitySupport" value="true" /> <!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
+			<property name="Model" value="#@modfolder:Resources/ZTLivingOverhaul.unity3d?ZTMicrowaveRebuildPrefab"/>
+			<!-- Internal Microwave Piece From 3DHaupt - https://sketchfab.com/dennish2010 -->
 			<property name="Texture" value="293" />
-			<property name="Model" value="#@modfolder:Resources/HNMicrowave.unity3d?Microwave.prefab"/>
+			<property name="CustomIcon" value="Microwave" />
+			<property name="ImposterDontBlock" value="true"/>
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+			<property name="IsTerrainDecoration" value="true" />
 			<property name="Place" value="TowardsPlacerInverted"/>
-			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
-			<property name="IsTerrainDecoration" value="false" />
-			<property name="Class" value="Loot"/>
-			<property name="LootList" value="21" />
+			<property name="ParticleName" value="#@modfolder:Resources/ZTLivingOverhaul.unity3d?MicrowaveLightingParticle"/>
+			<property name="ParticleOffset" value="0.50,0.65,0.5"/> <!-- X, Y, Z -->
+			<property name="Stacknumber" value="1"/>
+			<property name="HeatMapStrength" value="1"/>
+			<property name="HeatMapTime" value="1200"/>
+			<property name="HeatMapFrequency" value="25"/>
+			<property class="Workstation">
+				<property name="Modules" value="tools,output,fuel,input"/>
+				<property name="Collide" value="melee,bullet,arrow,rocket"/>
+				<property name="CraftingAreaRecipes" value="campfire" />
+			</property>
+			<property name="WorkstationIcon" value="ui_game_symbol_campfire"/>
+			<property name="CraftActionName" value="lblContextActionCook"/>
+			<property name="CraftIcon" value="ui_game_symbol_spatula"/>
+			<property name="OpenSound" value="microwave_open_ubbi"/><!-- Working -->
+			<property name="CloseSound" value="microwave_close_ubbi"/><!-- Working -->
+			<property name="CraftSound" value="microwave_cook_click"/>
+			<property name="CraftCompleteSound" value="microwave_complete_item"/>
+			<property name="WorkstationJournalTip" value="heatMapTip"/>
+			<property name="PickupJournalEntry" value="campfireTip"/>
+			<property name="DescriptionKey" value="campfireDesc"/>
 			<property class="RepairItems">
 				<property name="resourceForgedIron" value="2" />
 			</property>
 			<drop event="Destroy" name="resourceScrapIron" count="1,2" prob="1"/>
 			<drop event="Destroy" name="resourceElectricParts" count="2,5" tag="salvageHarvest" tool_category="Disassemble"/>
 			<drop event="Fall" name="resourceScrapIron" count="3" prob="0.20" stick_chance="0" />
-			<property name="FilterTags" value="floot" />
+			<property name="EconomicValue" value="5"/>
+			<property name="EconomicBundleSize" value="1"/>
 			<property name="SellableToTrader" value="false" />
+			<property name="FilterTags" value="fdecor,fother,ffurniture" />
 		</block>
 		
 	<!-- Individual Blocks: HN Decor -->
-	
+		
+		<block name="ZTChimneyRebuild">
+			<property name="CreativeMode" value="Player"/>
+			<property name="StabilitySupport" value="false" />
+			<property name="Material" value="Mstone" />
+			<property name="MaxDamage" value="420"/>
+			<property name="CustomIcon" value="Chimney" />
+			<!-- build restriction -->
+			<property name="Shape" value="ModelEntity" />
+			<property name="Texture" value="293" />
+			<property name="Model" value="#@modfolder:Resources/ZTLivingOverhaul.unity3d?ZTChimneyRebuildPrefab"/>
+			<!-- Chimney Model Tweaked From TFP files and particles are from Kenny.nl via public domain CC0 license. -->
+			<!-- Kenny NL Particles:https://www.kenney.nl/ -->
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
+			<property name="IsTerrainDecoration" value="true" />
+			<property class="RepairItems">
+				<property name="resourceRockSmall" value="3" />
+			</property>
+			<drop event="Destroy" name="resourceRockSmall" count="1,3" />
+			<drop event="Fall" name="resourceRockSmall" count="2" prob="0.20" stick_chance="0"/>
+			<property name="FilterTags" value="fdecor,fother,ffurniture" />
+			<property name="SellableToTrader" value="true" />
+		</block>
+		
 		<block name="HN Decor Jars">
 			<property name="StabilitySupport" value="false" />
 			<property name="Material" value="Mglass" />
@@ -3292,6 +3438,78 @@
 			<property name="FilterTags" value="floot" />
 		</block>
 		
+		<block name="ZTDoorBell">
+			<property name="Material" value="Mmetal_thin"/>
+			<property name="MaxDamage" value="75"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="Shape" value="ModelEntity" />
+			<property name="Texture" value="293" />
+			<property name="Model" value="#@modfolder:Resources/ZTLivingOverhaul.unity3d?ZTDoorBellPrefab"/>
+			<property name="Class" value="Switch"/>
+			<property name="PlaySound" value="DoorBellNoise"/>
+            <property name="DisplayType" value="blockElectrical" />
+            <property name="RequiredPower" value="0"/>
+            <property name="CreativeMode" value="Player"/>
+			<property name="TriggerType" value="Switch"/> 
+			<property name="CustomIcon" value="Door Bell" />
+			<property name="MultiBlockDim" value="1,1,1" /> 
+			<property name="IsTerrainDecoration" value="false"/>
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+			<property name="StabilitySupport" value="true"/>
+			<property name="ImposterDontBlock" value="true"/>
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
+			<property name="Stacknumber" value="1"/>
+			<property name="TakeDelay" value="5"/>
+			<property name="EconomicValue" value="100"/>	
+			<property class="RepairItems">
+				<property name="resourceForgedIron" value="1"/>
+				<property name="resourceElectricParts" value="3"/>
+			</property>
+			<property name="CustomUpgradeSound" value="place_block_wood" />
+			<drop event="Destroy" name="resourceScrapIron" count="1,4" />
+			<drop event="Destroy" name="resourceElectricParts" count="1,2" tag="salvageHarvest" tool_category="Disassemble"/>
+			<drop event="Destroy" name="resourceScrapIron" count="1,2" tag="salvageHarvest" tool_category="Disassemble"/>
+			<drop event="Fall" name="resourceScrapIron" count="1,2" prob="0.20" stick_chance="0"/>
+			<property name="FilterTags" value="fdecor,fother,ffurniture" />
+		</block>
+		
+		<block name="ZTDoorBellLeft">
+			<property name="Material" value="Mmetal_thin"/>
+			<property name="MaxDamage" value="75"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="Shape" value="ModelEntity" />
+			<property name="Texture" value="293" />
+			<property name="Model" value="#@modfolder:Resources/ZTLivingOverhaul.unity3d?ZTDoorBellLeftPrefab"/>
+			<property name="Class" value="Switch"/>
+			<property name="PlaySound" value="DoorBellNoise"/>
+            <property name="DisplayType" value="blockElectrical" />
+            <property name="RequiredPower" value="0"/>
+            <property name="CreativeMode" value="Player"/>
+			<property name="TriggerType" value="Switch"/> 
+			<property name="CustomIcon" value="Door Bell" />
+			<property name="MultiBlockDim" value="1,1,1" /> 
+			<property name="IsTerrainDecoration" value="false"/>
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+			<property name="StabilitySupport" value="true"/>
+			<property name="ImposterDontBlock" value="true"/>
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
+			<property name="Stacknumber" value="1"/>
+			<property name="TakeDelay" value="5"/>
+			<property name="EconomicValue" value="100"/>	
+			<property class="RepairItems">
+				<property name="resourceForgedIron" value="1"/>
+				<property name="resourceElectricParts" value="3"/>
+			</property>
+			<property name="CustomUpgradeSound" value="place_block_wood" />
+			<drop event="Destroy" name="resourceScrapIron" count="1,4" />
+			<drop event="Destroy" name="resourceElectricParts" count="1,2" tag="salvageHarvest" tool_category="Disassemble"/>
+			<drop event="Destroy" name="resourceScrapIron" count="1,2" tag="salvageHarvest" tool_category="Disassemble"/>
+			<drop event="Fall" name="resourceScrapIron" count="1,2" prob="0.20" stick_chance="0"/>
+			<property name="FilterTags" value="fdecor,fother,ffurniture" />
+		</block>
+		
 		<block name="ZTPCRebuild">
 			<property name="CreativeMode" value="Player"/>
 			<property name="Material" value="Mmetal_thin" />
@@ -3898,30 +4116,42 @@
 			<property name="SellableToTrader" value="false" />
 		</block>
 		
-		<block name="HN Bathroom Shower">
+		<block name="ZTBathroomShowerRebuild">
+			<property name="CreativeMode" value="Player"/>
 			<property name="Material" value="Miron" />
 			<property name="MaxDamage" value="75"/>
-			<property name="StabilitySupport" value="true" />
-			<!-- build restriction -->
-			<property name="Shape" value="ModelEntity" />
-			<property name="HandleFace" value="Top" />
+			<property name="Shape" value="ModelEntity" /> <!-- build restriction -->
+			<property name="Model" value="#@modfolder:Resources/ZTBathroomRebuilds.unity3d?ZTBathroomShowerRebuildPrefab"/>
+			<property name="Class" value="Switch"/>
+			<property name="DisplayType" value="blockElectrical" />
+			<property name="RequiredPower" value="0"/>
+			<property name="TriggerType" value="Switch"/>
+			<property name="CustomIcon" value="Bathroom Shower" />
 			<property name="MultiBlockDim" value="1,3,1" />
-			<property name="Place" value="TowardsPlacerInverted"/>
 			<property name="Texture" value="293" />
-			<property name="Model" value="#@modfolder:Resources/HNBathroom.unity3d?HNBath10.prefab"/>
+			<property name="IsTerrainDecoration" value="true"/>
+			<property name="Collide" value="movement,bullet,melee,rocket"/>
+			<property name="BuffsWhenWalkedOn" value="buffElementHotShowerWet"/>
+			<property name="StabilitySupport" value="true"/>
+			<property name="ImposterDontBlock" value="true"/>
 			<property name="HandleFace" value="Top" />
-			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="PlaceEverywhere" value="true" />
+			<property name="Stacknumber" value="10"/>
+			<property name="TakeDelay" value="-1"/>
+			<property name="EconomicValue" value="10"/>
 			<property name="IsTerrainDecoration" value="false" />
 			<property class="RepairItems">
 				<property name="resourceForgedIron" value="5" />
 			</property>
 			<drop event="Destroy" name="resourceScrapIron" count="1,6" />
+			<drop event="Destroy" name="resourceScrapIron" count="1,7" tag="salvageHarvest" tool_category="Disassemble"/>			
 			<drop event="Fall" name="resourceScrapIron" count="3" prob="0.20" stick_chance="0"/>
-			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
+			<property name="FilterTags" value="fdecor,fother,ffurniture" />
 		</block>
 		
-		<block name="HN Bathroom Towel">
+		<block name="ZTBathroomTowelRebuild">
 			<property name="Material" value="Mcloth" />
 			<property name="MaxDamage" value="25"/>
 			<property name="StabilitySupport" value="true" />
@@ -3931,7 +4161,9 @@
 			<property name="HandleFace" value="Top" />
 			<property name="MultiBlockDim" value="1,1,1" />
 			<property name="Texture" value="293" />
-			<property name="Model" value="#@modfolder:Resources/HNBathroom.unity3d?HNBath12.prefab"/>
+			<property name="Model" value="#@modfolder:Resources/ZTBathroomRebuilds.unity3d?ZTBathroomTowelRebuildPrefab"/>
+			<!-- Towel Model Designed For Free Use by Agustín Hönnun - http://bit.ly/3s9Y4qi -->
+			<property name="CustomIcon" value="Bathroom Towel" />
 			<property name="HandleFace" value="Top" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
@@ -3944,7 +4176,7 @@
 			<property name="SellableToTrader" value="false" />
 		</block>
 
-		<block name="HN Bathroom Toilet Paper">
+		<block name="ZTBathroomToiletPaperRebuild">
 			<property name="Material" value="Mcloth" />
 			<property name="MaxDamage" value="25"/>
 			<property name="StabilitySupport" value="true" />
@@ -3954,7 +4186,33 @@
 			<property name="MultiBlockDim" value="1,1,1" />
 			<property name="Place" value="TowardsPlacerInverted"/>
 			<property name="Texture" value="293" />
-			<property name="Model" value="#@modfolder:Resources/HNBathroom.unity3d?HNBath11.prefab"/>
+			<property name="Model" value="#@modfolder:Resources/ZTBathroomRebuilds.unity3d?ZTBathroomToiletPaperRebuildPrefab"/>
+			<property name="CustomIcon" value="Bathroom Toilet Paper" />
+			<property name="HandleFace" value="Top" />
+			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
+			<property name="IsTerrainDecoration" value="false" />
+			<property name="LootList" value="15" />
+			<property class="RepairItems">
+				<property name="resourceCloth" value="4" />
+			</property>
+			<drop event="Destroy" name="resourceCloth" count="1,2" />
+			<drop event="Fall" name="resourceCloth" count="2" prob="0.45" stick_chance="0" />
+			<property name="FilterTags" value="floot" />
+			<property name="SellableToTrader" value="false" />
+		</block>
+		
+		<block name="ZTBathroomToiletPaperRightRebuild">
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="25"/>
+			<property name="StabilitySupport" value="true" />
+			<!-- build restriction -->
+			<property name="Shape" value="ModelEntity" />
+			<property name="HandleFace" value="Top" />
+			<property name="MultiBlockDim" value="1,1,1" />
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="Texture" value="293" />
+			<property name="Model" value="#@modfolder:Resources/ZTBathroomRebuilds.unity3d?ZTBathroomToiletPaperRightRebuildPrefab"/>
+			<property name="CustomIcon" value="Bathroom Toilet Paper" />
 			<property name="HandleFace" value="Top" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
@@ -4599,15 +4857,134 @@
 			<property name="EconomicBundleSize" value="10" />
 		</block>
 		
-		<block name="HN Closet Door Bottom">
+		<block name="ZTClosetDoor">
+			<property name="Class" value="DoorSecure" />
+			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="80"/>
+			<property name="Shape" value="ModelEntity" />
+			<property name="Texture" value="293" />
+			<property name="Collide" value="movement,melee,rocket,bullet" />
+			<property name="Tag" value="Door" />
+			<property name="Place" value="Door" />
+			<property name="PlaceEverywhere" value="true" />
+			<property name="Model" value="#@modfolder:Resources/ZTClosetOverhaul.unity3d?ZTClosetDoorPrefab"/>
+			<property name="CustomIcon" value="Closet Door" />
+			<property name="MultiBlockDim" value="1,2,1" />
+			<property name="ModelOffset" value="0,0.5,0"/>
+			<property name="PassThroughDamage" value="true" />
+			<property name="Shape" value="ModelEntity" />
+			<property name="ImposterExchange" value="imposterCTRPlate" param1="35" />
+			<property class="RepairItems">
+				<property name="resourceWood" value="10" />
+			</property>
+			<property name="CustomUpgradeSound" value="place_block_wood" />
+			<drop event="Destroy" name="resourceWood" count="1,5" />
+			<drop event="Destroy" name="resourceNail" count="2,3" tag="salvageHarvest" tool_category="Disassemble"/>
+			<drop event="Fall" name="resourceWood" count="3" prob="0.75" stick_chance="1" />
+			<property name="FilterTags" value="floot" />
+			<property name="EconomicValue" value="5" />
+			<property name="EconomicBundleSize" value="10" />
+     	</block>
+		
+		<block name="ZTClosetSecretDoor">
+			<property name="Class" value="DoorSecure" />
+			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="80"/>
+			<property name="Shape" value="ModelEntity" />
+			<property name="Texture" value="293" />
+			<property name="Collide" value="movement,melee,rocket,bullet" />
+			<property name="Tag" value="Door" />
+			<property name="Place" value="Door" />
+			<property name="PlaceEverywhere" value="true" />
+			<property name="Model" value="#@modfolder:Resources/ZTClosetOverhaul.unity3d?ZTClosetSecretDoorPrefab"/>
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="CustomIcon" value="Closet Secret Door" />
+			<property name="MultiBlockDim" value="1,1,1" />
+			<property name="PassThroughDamage" value="true" />
+			<property name="Shape" value="ModelEntity" />
+			<property name="ImposterExchange" value="imposterCTRPlate" param1="35" />
+			<property class="RepairItems">
+				<property name="resourceWood" value="10" />
+			</property>
+			<property name="CustomUpgradeSound" value="place_block_wood" />
+			<drop event="Destroy" name="resourceWood" count="1,5" />
+			<drop event="Destroy" name="resourceNail" count="2,3" tag="salvageHarvest" tool_category="Disassemble"/>
+			<drop event="Fall" name="resourceWood" count="3" prob="0.75" stick_chance="1" />
+			<property name="FilterTags" value="floot" />
+			<property name="EconomicValue" value="5" />
+			<property name="EconomicBundleSize" value="10" />
+     	</block>
+		
+		<block name="ZTClosetDoorSwingOut">
+			<property name="Class" value="DoorSecure" />
+			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="80"/>
+			<property name="Shape" value="ModelEntity" />
+			<property name="Texture" value="293" />
+			<property name="Collide" value="movement,melee,rocket,bullet" />
+			<property name="Tag" value="Door" />
+			<property name="Place" value="Door" />
+			<property name="PlaceEverywhere" value="true" />
+			<property name="Model" value="#@modfolder:Resources/ZTClosetDoorSwingOuts.unity3d?ZTClosetDoorSwingOutPrefab"/>
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="CustomIcon" value="Closet Door" />
+			<property name="MultiBlockDim" value="1,2,1" />
+			<property name="ModelOffset" value="0,0.5,0"/>
+			<property name="PassThroughDamage" value="true" />
+			<property name="Shape" value="ModelEntity" />
+			<property name="ImposterExchange" value="imposterCTRPlate" param1="35" />
+			<property class="RepairItems">
+				<property name="resourceWood" value="10" />
+			</property>
+			<property name="CustomUpgradeSound" value="place_block_wood" />
+			<drop event="Destroy" name="resourceWood" count="1,5" />
+			<drop event="Destroy" name="resourceNail" count="2,3" tag="salvageHarvest" tool_category="Disassemble"/>
+			<drop event="Fall" name="resourceWood" count="3" prob="0.75" stick_chance="1" />
+			<property name="FilterTags" value="floot" />
+			<property name="EconomicValue" value="5" />
+			<property name="EconomicBundleSize" value="10" />
+     	</block>
+		
+		<block name="ZTClosetSecretDoorSwingOut">
+			<property name="Class" value="DoorSecure" />
+			<property name="Material" value="Mwood_regular" />
+			<property name="MaxDamage" value="80"/>
+			<property name="StabilitySupport" value="true" />
+			<property name="Shape" value="ModelEntity" />
+			<property name="Texture" value="293" />
+			<property name="Collide" value="movement,melee,rocket,bullet" />
+			<property name="Tag" value="Door" />
+			<property name="Place" value="Door" />
+			<property name="PlaceEverywhere" value="true" />
+			<property name="Model" value="#@modfolder:Resources/ZTClosetDoorSwingOuts.unity3d?ZTClosetSecretDoorSwingOutPrefab"/>
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="CustomIcon" value="Closet Secret Door" />
+			<property name="MultiBlockDim" value="1,1,1" />
+			<property name="PassThroughDamage" value="true" />
+			<property name="Shape" value="ModelEntity" />
+			<property name="ImposterExchange" value="imposterCTRPlate" param1="35" />
+			<property class="RepairItems">
+				<property name="resourceWood" value="10" />
+			</property>
+			<property name="CustomUpgradeSound" value="place_block_wood" />
+			<drop event="Destroy" name="resourceWood" count="1,5" />
+			<drop event="Destroy" name="resourceNail" count="2,3" tag="salvageHarvest" tool_category="Disassemble"/>
+			<drop event="Fall" name="resourceWood" count="3" prob="0.75" stick_chance="1" />
+			<property name="FilterTags" value="floot" />
+			<property name="EconomicValue" value="5" />
+			<property name="EconomicBundleSize" value="10" />
+     	</block>
+		
+		<block name="ZTClosetBottomRebuild">
 			<property name="Material" value="Mwood_weak" />
 			<property name="MaxDamage" value="75"/>
 			<property name="StabilitySupport" value="true" />
 			<!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
 			<property name="Texture" value="293" />
-			<property name="Model" value="#@modfolder:Resources/HNBedroom1.unity3d?HNBedroomSet8.prefab"/>
+			<property name="Model" value="#@modfolder:Resources/ZTClosetOverhaul.unity3d?ZTClosetBottomRebuildPrefab"/>
 			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="CustomIcon" value="Closet Bottom" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
 			<property class="RepairItems">
@@ -4620,15 +4997,16 @@
 			<property name="SellableToTrader" value="false" />
 		</block>
 
-		<block name="HN Closet Door Middle">
+		<block name="ZTClosetMiddleRebuild">
 			<property name="Material" value="Mwood_weak" />
 			<property name="MaxDamage" value="75"/>
 			<property name="StabilitySupport" value="true" />
 			<!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
 			<property name="Texture" value="293" />
-			<property name="Model" value="#@modfolder:Resources/HNBedroom1.unity3d?HNBedroomSet9.prefab"/>
+			<property name="Model" value="#@modfolder:Resources/ZTClosetOverhaul.unity3d?ZTClosetMiddleRebuildPrefab"/>
 			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="CustomIcon" value="Closet Middle" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
 			<property class="RepairItems">
@@ -4641,15 +5019,16 @@
 			<property name="SellableToTrader" value="false" />
 		</block>
 
-		<block name="HN Closet Door">
+		<block name="ZTClosetTopRebuild">
 			<property name="Material" value="Mwood_weak" />
 			<property name="MaxDamage" value="75"/>
 			<property name="StabilitySupport" value="true" />
 			<!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
 			<property name="Texture" value="293" />
-			<property name="Model" value="#@modfolder:Resources/HNBedroom1.unity3d?HNBedroomSet7.prefab"/>
+			<property name="Model" value="#@modfolder:Resources/ZTClosetOverhaul.unity3d?ZTClosetTopRebuildPrefab"/>
 			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="CustomIcon" value="Closet Top" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
 			<property class="RepairItems">
@@ -4754,7 +5133,7 @@
 			<property name="EconomicBundleSize" value="10" />
 		</block>
 		
-		<block name="HN Bathroom Double Shower Door">
+		<block name="ZTBathroomDoorRebuild">
 			<property name="Class" value="DoorSecure" />
 			<property name="Material" value="Mglass" />
 			<property name="MaxDamage" value="110"/>
@@ -4765,7 +5144,9 @@
 			<property name="Place" value="Door" />
 			<property name="PlaceEverywhere" value="true" />
 			<property name="HandleFace" value="Bottom" />
-			<property name="Model" value="#@modfolder:Resources/HNBathroom.unity3d?HNBath15.prefab"/>
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="Model" value="#@modfolder:Resources/ZTBathroomRebuilds.unity3d?ZTBathroomDoorRebuildPrefab"/>
+			<property name="CustomIcon" value="Bathroom Double Shower Door" />
 			<property name="MultiBlockDim" value="2,2,1" />
 			<property name="ModelOffset" value="0.5,0.5,0"/>
 			<property name="PassThroughDamage" value="true" />
@@ -4781,18 +5162,48 @@
 			<property name="EconomicValue" value="5" />
 			<property name="EconomicBundleSize" value="10" />
      	</block>
-
-		<block name="HN Bathroom ShowerGlass 1x1">
+		
+		<block name="ZTBathroomSingleDoorRebuild">
+			<property name="Class" value="DoorSecure" />
+			<property name="Material" value="Mglass" />
+			<property name="MaxDamage" value="80"/>
+			<property name="Shape" value="ModelEntity" />
+			<property name="Texture" value="293" />
+			<property name="Collide" value="movement,melee,rocket,bullet" />
+			<property name="Tag" value="Door" />
+			<property name="Place" value="Door" />
+			<property name="PlaceEverywhere" value="true" />
+			<property name="HandleFace" value="Bottom" />
+			<property name="Model" value="#@modfolder:Resources/ZTBathroomRebuilds.unity3d?ZTBathroomSingleDoorRebuildPrefab"/>
+			<property name="CustomIcon" value="Bathroom Single Door" />
+			<property name="MultiBlockDim" value="1,2,1" />
+			<property name="ModelOffset" value="0,0.5,0"/>
+			<property name="PassThroughDamage" value="true" />
+			<property name="Shape" value="ModelEntity" />
+			<property name="ImposterExchange" value="imposterCTRPlate" param1="35" />
+			<property class="RepairItems">
+				<property name="glassBlockVariantHelper" value="3" />
+			</property>
+			<property name="CustomUpgradeSound" value="place_block_wood" />
+			<drop event="Destroy" name="resourceBrokenGlass" count="1,4" />
+			<drop event="Fall" name="resourceBrokenGlass" count="1,7" prob="0.20" stick_chance="0"/>
+			<property name="FilterTags" value="floot" />
+			<property name="EconomicValue" value="5" />
+			<property name="EconomicBundleSize" value="10" />
+     	</block>
+		
+		<block name="ZTBathroomTallGlassRebuild">
 			<property name="Material" value="Mglass" />
 			<property name="MaxDamage" value="55"/>
 			<property name="StabilitySupport" value="true" />
 			<!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
-			<property name="Texture" value="293" />
 			<property name="HandleFace" value="Top" />
-			<property name="MultiBlockDim" value="1,1,1" />
+			<property name="MultiBlockDim" value="1,2,1" />
 			<property name="Place" value="TowardsPlacerInverted"/>
-			<property name="Model" value="#@modfolder:Resources/HNBathroom.unity3d?HNBath14.prefab"/>
+			<property name="Texture" value="293" />
+			<property name="Model" value="#@modfolder:Resources/ZTBathroomRebuilds.unity3d?ZTBathroomTallGlassRebuildPrefab"/>
+			<property name="CustomIcon" value="Bathroom Tall Glass Wall" />
 			<property name="HandleFace" value="Top" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
@@ -4803,19 +5214,20 @@
 			<drop event="Fall" name="resourceBrokenGlass" count="1,7" prob="0.20" stick_chance="0"/>
 			<property name="FilterTags" value="floot" />
 			<property name="SellableToTrader" value="false" />
-		</block>
-
-		<block name="HN Bathroom ShowerGlass 2x1">
+		</block>		
+		
+		<block name="ZTBathroomGlassPanelRebuild">
 			<property name="Material" value="Mglass" />
 			<property name="MaxDamage" value="55"/>
 			<property name="StabilitySupport" value="true" />
 			<!-- build restriction -->
 			<property name="Shape" value="ModelEntity" />
-			<property name="HandleFace" value="Top" />
-			<property name="MultiBlockDim" value="1,2,1" />
-			<property name="Place" value="TowardsPlacerInverted"/>
 			<property name="Texture" value="293" />
-			<property name="Model" value="#@modfolder:Resources/HNBathroom.unity3d?HNBath13.prefab"/>
+			<property name="HandleFace" value="Top" />
+			<property name="MultiBlockDim" value="1,1,1" />
+			<property name="Place" value="TowardsPlacerInverted"/>
+			<property name="Model" value="#@modfolder:Resources/ZTBathroomRebuilds.unity3d?ZTBathroomGlassPanelRebuildPrefab"/>
+			<property name="CustomIcon" value="Bathroom Glass Panel" />
 			<property name="HandleFace" value="Top" />
 			<property name="ImposterExchange" value="imposterQuarter" param1="154" />
 			<property name="IsTerrainDecoration" value="false" />
@@ -5821,4 +6233,11 @@
 	<!-- Individual Blocks -->
 		
 	</append>
+	
+	<insertAfter xpath="/blocks/block[@name='chimneyBlackPOI']/property[@name='Model']">
+	
+		<property name="CreativeMode" value="Dev"/>
+	
+	</insertAfter>
+	
 </configs>
