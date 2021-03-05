@@ -2,7 +2,7 @@
  Official repository for Ztensity's 7 Days to Die Modlets
  ================================
  
- Currently, the repository includes nine different mods that I have created so far. At this point in my modding career, I have learned to work with Read Me's, Localization's, XML's (blocks, items, progression, recipes and sounds), XPATH, Unity, animations and using PNG icons for an ItemIconAtlas.
+ Currently, the repository includes twenty different mods that I have created so far. At this point in my modding career, I have learned to work with Read Me's, Localization's, XML's (blocks, items, progression, recipes and sounds), XPATH, Unity, animations and using/creating transparent PNG icons for an ItemIconAtlas and UIAtlas.
  
  
  ================================
@@ -11,7 +11,7 @@
  Ztensity's Creature Renaming Series
  =======
  
- The first five modlets focus on localizing names for various creatures around the world space of 7 Days to Die, which includes zombies, animals, humans and machines. I have patches for renaming vanilla creatures, Xyth's various creatures and Mumpfy's zombies.
+ My earliest modlets focus on localizing names for various creatures around the world space of 7 Days to Die, which includes zombies, animals, humans and machines. I have patches for renaming vanilla creatures, Xyth's various creatures and Mumpfy's zombies.
  
  
  ================================
@@ -20,7 +20,7 @@
  Ztensity's Shotgun Messiah Mechs 1.3.2
  =======
  
- The sixth renaming modlet is an add-on for Xyth's "Creature Pack Mechs" and does a lot more than just renaming. Not only does this modlet rename six mechs, but it also doubles the health for select bots, making them bosses. 
+ Another renaming modlet is an add-on for Xyth's "Creature Pack Mechs" and does a lot more than just renaming. Not only does this modlet rename six mechs, but it also doubles the health for select bots, making them bosses. 
  
  As one of the next iterations of what was previously titled "Creature Pack Mechs Renaming," Shoutgun Messiah Mechs seeks to establish new lore surrounding six mechs that were commissioned by the titan company, Shotgun Messiah months before the zombie apocalyse.
  
@@ -46,7 +46,7 @@
  Unnecessarily Beautiful But Immersive 2.0.0 (Standard Version)
  =======
  
- The other two UBBI modlets are different versions of a rebuild of Hernan's Unnecessary But Beautiful mod, titled Unnecessarily Beautiful But Immersive. UBBI for short not only brings the mod up to date and reworks it, but overhauls it as well.
+ There are two UBBI modlets, with different versions of a rebuild of Hernan's Unnecessary But Beautiful mod, titled Unnecessarily Beautiful But Immersive. UBBI for short not only brings the mod up to date and reworks it, but overhauls it as well.
  
  With UBBI, every item, recipe and recipe description has been localized, including the on/off switch wording! Players now also have the ability to turn on/off lights, TVs, a PC, a laptop, a fireplace and a sound bar with a wire tool, as long as they have attained Intellect perk lvl 5 and Advanced Engineering lvl 3. Players can unlock lights early by finding the "Basics of Electricity Schematic" and they can now even utilize the garden bed, a small bed and a big bed as a bedroll.
  
@@ -111,6 +111,15 @@
  SMX HTR DFC is designed for Darkness Falls, as Khaine has disabled the timer. However, if you wish to remove the timer in other playthroughs with Sirillion's "SMX," this may proof helpful.
  
  SMX GPC, SMX LBRB and SMX TBN are three optional files that are optimal for controller players. While SMX TBN is specifically for SMX only, SMX LBRB and SMX GPC should be possible on vanilla playthroughs as well, as they both remove these UI elements regardless of an SMX install.
+ 
+ 
+ ================================
+ 
+ 
+ ZT-FunctionalElevator
+ =======
+ 
+ Ztensity's Functional Elevator is a redesign of Guppycur's elevator back from Alpha's 17 and 18. Now, the elevator is tweaked with adjusted code, new features, new animations etc. for compatibility with 7 Days to Die's latest build A19 and increased immersion.
  
  
  ================================

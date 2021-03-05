@@ -1,0 +1,15 @@
+<ZTrecipesElevator name="recipes.xml">
+
+	<append xpath="/recipes">
+		
+        <recipe name="workingElevator" count="1" craft_time="600" craft_area="workbench">
+			<ingredient name="resourceForgedIron" count="50"/>
+            <ingredient name="resourceWood" count="50"/>
+            <ingredient name="resourceMechanicalParts" count="25"/>
+			<ingredient name="resourceElectricParts" count="25"/>
+			<ingredient name="resourceNail" count="200"/>
+		</recipe>
+		
+	</append>
+
+</ZTrecipesElevator>

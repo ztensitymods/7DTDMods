@@ -1,0 +1,3 @@
+Key,File,Type,english
+workingElevator,blocks,Block,Workable Elevator
+workingElevatorDesc,blocks,Block,"Somehow, you've managed to craft a working elevator to help you escape zombies or even make navigating your safe haven just that much easier!"

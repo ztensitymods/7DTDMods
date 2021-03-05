@@ -1,0 +1,16 @@
+
+ Ztensity's Functional Elevator - Version 1.0.0
+ Redesigning Guppycur's Elevator for 19.3
+ Credits
+ 
+ ================================
+ 
+ 
+ All assets used come from a purchased package from Nifty Studios via Unity. On the other hand, a portion of the animations designed and layout of the elevators was put together by Guppycur when he originally bought the assets for A18.
+ 
+ Not only did I get permission to rework and re-release Guppycur's work on animations and the elevator layout from Guppycur himself, but I made sure to purchase those same assets again myself for rights to share this modlet on Nexus Mods, the Forums and the 7 Days to Die Mod Launcher.
+ 
+ Original Mod Via 7 Days to Die Mods: https://7daystodiemods.com/working-elevator/
+ Original Mod Via the Forums: https://community.7daystodie.com/topic/9144-guppycurs-modlets/
+ Unity Page for Elevator: https://assetstore.unity.com/packages/3d/props/interior/easy-elevator-26266
+ Unity Assets Page for Nifty Studios: https://assetstore.unity.com/publishers/559

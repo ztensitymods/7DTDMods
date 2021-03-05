@@ -1,0 +1,43 @@
+<ZTblocksElevator name="blocks.xml">
+
+	<append xpath="/blocks">
+		
+		<block name="workingElevator">
+			<property name="Class" value="DoorSecure" />
+			<property name="Material" value="Mmetal" />
+			<property name="MaxDamage" value="2000"/>
+			<property name="Shape" value="ModelEntity" />
+			<property name="Collide" value="movement,melee,rocket,bullet" />
+			<property name="Tag" value="Door" />
+			<property name="Place" value="Door" />
+			<property name="PlaceEverywhere" value="true" />
+			<property name="Model" value="#@modfolder:Resources/ZTelevatorMaster.unity3d?ZTelevatorRebuildPrefab"/>
+			<property name="Texture" value="293" />
+			<property name="CustomIcon" value="Elevator"/>
+			<property name="DescriptionKey" value="workingElevatorDesc"/>
+			<property name="ModelOffset" value="0,0,0" />
+			<property name="MultiBlockDim" value="3,7,2" />
+			<property name="ModelOffset" value="0,0.5,0"/>   		
+			<property name="PassThroughDamage" value="true" />
+			<property name="LightOpacity" value="1" />
+			<property name="Shape" value="ModelEntity" />        
+			<property name="ImposterExchange" value="imposterCTRPlate" param1="35" />
+			<property name="OpenSound" value="open_door_elevator" />
+			<property name="CloseSound" value="close_door_elevator" />
+			<property class="RepairItems">
+			  <property name="resourceForgedIron" value="20" />
+			</property>
+			<property name="CustomUpgradeSound" value="place_block_wood" />
+			<drop event="Harvest" name="resourceForgedIron" count="5,20" tool_category="Disassemble"/>
+			<drop event="Destroy" name="resourceWood" count="5,20" />
+			<drop event="Destroy" name="resourceForgedIron" count="10,30" tag="salvageHarvest" tool_category="Disassemble"/>
+			<drop event="Destroy" name="resourceNail" count="20,100" tag="salvageHarvest" tool_category="Disassemble"/>
+			<drop event="Fall" name="resourceWood" count="3" prob="0.20" stick_chance="0" />
+			<property name="EconomicValue" value="5" />
+			<property name="EconomicBundleSize" value="10" />
+			<property name="Group" value="Building,Science"/>
+		</block>
+		
+	</append>
+	
+</ZTblocksElevator>
