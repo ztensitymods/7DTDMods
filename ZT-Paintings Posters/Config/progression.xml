@@ -1,0 +1,85 @@
+<ZTPaintingsPostersProgression name="progression.xml">
+
+	<insertAfter xpath="/progression/skills/skill[@name='skillWasteTreasures']">
+	
+		<skill name="skillPaintingPosters" parent="attBooks" name_key="perkPaintingPosters0Name" desc_key="perkPaintingPosters0Desc" long_desc_key="perkBookGroupLongDesc" icon="ui_game_symbol_paintings_icon"><effect_group/></skill>
+	
+	</insertAfter>
+	
+	<insertAfter xpath="/progression/perks/perk[@name='perkWasteTreasuresComplete']">
+	
+		<!-- = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = -->
+
+		<perk name="perkPaintingClassical" parent="skillPaintingPosters" max_level="1" base_skill_point_cost="0" name_key="bookPaintingsClassical" desc_key="perkPaintingClassicalDesc" long_desc_key="perkPaintingClassicalLongDesc">
+		
+			<effect_group>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="firstFivePaintings"/>
+			</effect_group>
+			
+		</perk>
+
+		<perk name="perkPaintingAcrylic" parent="skillPaintingPosters" max_level="1" base_skill_point_cost="0" name_key="bookPaintingsAcrylic" desc_key="perkPaintingAcrylicDesc" long_desc_key="perkPaintingAcrylicLongDesc">
+		
+			<effect_group>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="secondFivePaintings"/>
+			</effect_group>
+			
+		</perk>
+		
+		<perk name="perkPaintingImpressionism" parent="skillPaintingPosters" max_level="1" base_skill_point_cost="0" name_key="bookPaintingsImpressionism" desc_key="perkPaintingImpressionismDesc" long_desc_key="perkPaintingImpressionismLongDesc">
+		
+			<effect_group>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="thirdFivePaintings"/>
+			</effect_group>
+			
+		</perk>
+		
+		<perk name="perkPaintingCreepy" parent="skillPaintingPosters" max_level="1" base_skill_point_cost="0" name_key="bookPaintingsCreepy" desc_key="perkPaintingCreepyDesc" long_desc_key="perkPaintingCreepyLongDesc">
+		
+			<effect_group>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="fourthFivePaintings"/>
+			</effect_group>
+			
+		</perk>
+		
+		<perk name="perkPostersHorror" parent="skillPaintingPosters" max_level="1" base_skill_point_cost="0" name_key="bookPostersHorror" desc_key="perkPostersHorrorDesc" long_desc_key="perkPostersHorrorLongDesc">
+		
+			<effect_group>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="firstFivePosters"/>
+			</effect_group>
+			
+		</perk>
+		
+		<perk name="perkPostersMonsterHorror" parent="skillPaintingPosters" max_level="1" base_skill_point_cost="0" name_key="bookPostersMonsterHorror" desc_key="perkPostersMonsterHorrorDesc" long_desc_key="perkPostersMonsterHorrorLongDesc">
+		
+			<effect_group>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="secondFivePosters"/>
+			</effect_group>
+			
+		</perk>
+		
+		<perk name="perkPostersAliens" parent="skillPaintingPosters" max_level="1" base_skill_point_cost="0" name_key="bookPostersAliens" desc_key="perkPostersAliensDesc" long_desc_key="perkPostersAliensLongDesc">
+		
+			<effect_group>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="thirdFivePosters"/>
+			</effect_group>
+			
+			<effect_group>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="fourthFivePosters"/>
+			</effect_group>
+			
+		</perk>
+		
+		<perk name="perkPaintingPostersComplete" parent="skillPaintingPosters" max_level="1" base_skill_point_cost="0" name_key="PaintingPostersCompleteName" desc_key="perkPaintingPostersCompleteDesc" long_desc_key="perkPaintingPostersCompleteLongDesc">
+		
+			<effect_group>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="paintingsPostersComplete"/>
+			</effect_group>
+			
+		</perk>
+
+		<!-- = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = -->
+	
+	</insertAfter>
+
+</ZTPaintingsPostersProgression>

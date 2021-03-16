@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="ZT-PP SMX" />
+		<Description value="Tweak to make Ztensity's Paintings and Posters more immersive with Sirillion's SMX." />
+		<Author value="Ztensity" />
+		<Version value="1.0.0" compat="A19.4"/>
+	</ModInfo>
+</xml>

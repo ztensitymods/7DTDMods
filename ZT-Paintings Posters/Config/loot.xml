@@ -1,0 +1,15 @@
+<ZTPaintingsPostersLoot name="loot.xml">
+	
+	<insertAfter xpath="/lootcontainers/lootgroup[@name='perkBooks']/item[@name='bookTechJunkie7Hydraulics']">
+		
+		<item name="bookPaintingsClassical"/>
+		<item name="bookPaintingsAcrylic"/>
+		<item name="bookPaintingsImpressionism"/>
+		<item name="bookPaintingsCreepy"/>
+		<item name="bookPostersHorror"/>
+		<item name="bookPostersMonsterHorror"/>
+		<item name="bookPostersAliens"/>
+		
+	</insertAfter>
+	
+</ZTPaintingsPostersLoot>

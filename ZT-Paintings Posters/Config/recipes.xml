@@ -1,0 +1,65 @@
+<ZTPaintingsPostersRecipes name="recipes.xml">
+
+	<append xpath="/recipes">
+		
+		<recipe name="firstFivePaintings" count="1" craft_area="workbench" tags="perkPaintingClassical,learnable">
+            <ingredient name="resourceLeather" count="5"/>
+			<ingredient name="resourceCloth" count="3"/>
+            <ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceFeather" count="1"/>
+		</recipe>
+		
+		<recipe name="secondFivePaintings" count="1" craft_area="workbench" tags="perkPaintingAcrylic,learnable">
+            <ingredient name="resourceLeather" count="5"/>
+			<ingredient name="resourceCloth" count="3"/>
+            <ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceFeather" count="1"/>
+		</recipe>
+		
+		<recipe name="thirdFivePaintings" count="1" craft_area="workbench" tags="perkPaintingImpressionism,learnable">
+            <ingredient name="resourceLeather" count="5"/>
+			<ingredient name="resourceCloth" count="3"/>
+            <ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceFeather" count="1"/>
+		</recipe>
+		
+		<recipe name="fourthFivePaintings" count="1" craft_area="workbench" tags="perkPaintingCreepy,learnable">
+            <ingredient name="resourceLeather" count="5"/>
+			<ingredient name="resourceCloth" count="3"/>
+            <ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceFeather" count="1"/>
+		</recipe>
+		
+		<recipe name="firstFivePosters" count="1" craft_area="workbench" tags="perkPostersHorror,learnable">
+            <ingredient name="resourcePaper" count="5"/>
+			<ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceFeather" count="1"/>
+		</recipe>
+		
+		<recipe name="secondFivePosters" count="1" craft_area="workbench" tags="perkPostersMonsterHorror,learnable">
+            <ingredient name="resourcePaper" count="5"/>
+			<ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceFeather" count="1"/>
+		</recipe>
+		
+		<recipe name="thirdFivePosters" count="1" craft_area="workbench" tags="perkPostersAliens,learnable">
+            <ingredient name="resourcePaper" count="5"/>
+			<ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceFeather" count="1"/>
+		</recipe>
+		
+		<recipe name="fourthFivePosters" count="1" craft_area="workbench" tags="perkPostersAliens,learnable">
+            <ingredient name="resourcePaper" count="5"/>
+			<ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceFeather" count="1"/>
+		</recipe>
+		
+		<recipe name="paintingsPostersComplete" count="1" craft_area="workbench" tags="perkPaintingPostersComplete,learnable">
+            <ingredient name="resourcePaper" count="5"/>
+			<ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceFeather" count="1"/>
+		</recipe>
+		
+	</append>
+
+</ZTPaintingsPostersRecipes>

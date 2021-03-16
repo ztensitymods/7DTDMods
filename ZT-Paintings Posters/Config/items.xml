@@ -1,0 +1,132 @@
+<ZTPaintingsPostersItems name="items.xml">
+
+	<insertAfter xpath="/items/item[@name='bookWasteTreasuresSinks']">
+		
+		<item name="bookPaintingsClassical"> <!-- first book -->
+			<property name="Extends" value="bookFiremansAlmanacHeat" />
+			<property name="DescriptionKey" value="perkPaintingClassicalLongDesc" />
+			<property name="CustomIcon" value="Classical Paintings Book" />
+			<property name="Unlocks" value="perkPaintingClassical" />
+			<effect_group tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPaintingClassical" level="-1" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPaintingPostersComplete" level="-1">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="PlaySound" sound="read_skillbook_final" play_in_head="true">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+			</effect_group>
+		</item>
+		
+		<item name="bookPaintingsAcrylic">
+			<property name="Extends" value="bookPaintingsClassical" />
+			<property name="DescriptionKey" value="perkPaintingAcrylicLongDesc" />
+			<property name="CustomIcon" value="Acrylic Paintings Book" />
+			<property name="Unlocks" value="perkPaintingAcrylic" />
+			<effect_group tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPaintingAcrylic" level="-1" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPaintingPostersComplete" level="-1">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="PlaySound" sound="read_skillbook_final" play_in_head="true">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+			</effect_group>
+		</item>
+		
+		<item name="bookPaintingsImpressionism">
+			<property name="Extends" value="bookPaintingsClassical" />
+			<property name="DescriptionKey" value="perkPaintingImpressionismLongDesc" />
+			<property name="CustomIcon" value="Impressionism Paintings Book" />
+			<property name="Unlocks" value="perkPaintingImpressionism" />
+			<effect_group tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPaintingImpressionism" level="-1" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPaintingPostersComplete" level="-1">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="PlaySound" sound="read_skillbook_final" play_in_head="true">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+			</effect_group>
+		</item>
+		
+		<item name="bookPaintingsCreepy">
+			<property name="Extends" value="bookPaintingsClassical" />
+			<property name="DescriptionKey" value="perkPaintingCreepyLongDesc" />
+			<property name="CustomIcon" value="Creepy Paintings Book" />
+			<property name="Unlocks" value="perkPaintingCreepy" />
+			<effect_group tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPaintingCreepy" level="-1" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPaintingPostersComplete" level="-1">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="PlaySound" sound="read_skillbook_final" play_in_head="true">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+			</effect_group>
+		</item>
+		
+		<item name="bookPostersHorror">
+			<property name="Extends" value="bookPaintingsClassical" />
+			<property name="DescriptionKey" value="perkPostersHorrorLongDesc" />
+			<property name="CustomIcon" value="Horror Posters Book" />
+			<property name="Unlocks" value="perkPostersHorror" />
+			<effect_group tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPostersHorror" level="-1" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPaintingPostersComplete" level="-1">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="PlaySound" sound="read_skillbook_final" play_in_head="true">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+			</effect_group>
+		</item>
+		
+		<item name="bookPostersMonsterHorror">
+			<property name="Extends" value="bookPaintingsClassical" />
+			<property name="DescriptionKey" value="perkPostersMonsterHorrorLongDesc" />
+			<property name="CustomIcon" value="Monster Horror Posters Book" />
+			<property name="Unlocks" value="perkPostersMonsterHorror" />
+			<effect_group tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPostersMonsterHorror" level="-1" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPaintingPostersComplete" level="-1">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="PlaySound" sound="read_skillbook_final" play_in_head="true">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+			</effect_group>
+		</item>
+		
+		<item name="bookPostersAliens">
+			<property name="Extends" value="bookPaintingsClassical" />
+			<property name="DescriptionKey" value="perkPostersAliensLongDesc" />
+			<property name="CustomIcon" value="Aliens Posters Book" />
+			<property name="Unlocks" value="perkPostersAliens" />
+			<effect_group tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPostersAliens" level="-1" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50" />
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="SetProgressionLevel" progression_name="perkPaintingPostersComplete" level="-1">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="PlaySound" sound="read_skillbook_final" play_in_head="true">
+					<requirement name="PerksUnlocked" skill_name="skillPaintingPosters" operation="GTE" value="7" /></triggered_effect>
+			</effect_group>
+		</item>
+		
+	</insertAfter>
+	
+	<append xpath="/items">
+		
+		<item name="PaintingsPostersLoadingHacks"><!--Covers 48 assets/objects-->
+            <property name="CreativeMode" value="None"/>
+            <property name="CustomIcon" value="missingIcon"/>
+			<property name="CustomIconTint" value="90ff90"/>
+            <property name="HoldType" value="45"/>
+            <property name="HoldingItemHidden" value="true"/>
+            <property name="Meshfile" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_1"/>
+            <property name="DropMeshfile" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_1"/>
+            <property name="Material" value="MresourceScrapIron"/>
+            <property name="Weight" value="1"/>
+            <property name="Stacknumber" value="1"/> 
+            <property name="EconomicValue" value="1"/>
+            <property name="EconomicBundleSize" value="1000"/>
+            <property name="Group" value="Resources"/>
+        </item>
+		
+	</append>
+
+</ZTPaintingsPostersItems>

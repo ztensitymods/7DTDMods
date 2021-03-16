@@ -1,0 +1,23 @@
+<ZTPaintingsPostersTraders name="traders.xml">
+	
+	<insertAfter xpath="traders/trader_item_groups/trader_item_group[@name='perkBooks']/item[@name='bookTechJunkie7Hydraulics']">
+		
+		<item name="bookPaintingsClassical"/>
+		<item name="bookPaintingsAcrylic"/>
+		<item name="bookPaintingsImpressionism"/>
+		<item name="bookPaintingsCreepy"/>
+		<item name="bookPostersHorror"/>
+		<item name="bookPostersMonsterHorror"/>
+		<item name="bookPostersAliens"/>
+		
+	</insertAfter>
+	
+	<insertAfter xpath="traders/trader_item_groups/trader_item_group[@name='decorativeBlocks']/item[@name='window02']">
+		
+		<item name="Painting 23" count="2,4" prob=".5"/>
+		<item name="Painting 29" count="2,4" prob=".5"/>
+		<item name="Painting 30" count="2,4" prob=".5"/>
+		
+	</insertAfter>
+	
+</ZTPaintingsPostersTraders>

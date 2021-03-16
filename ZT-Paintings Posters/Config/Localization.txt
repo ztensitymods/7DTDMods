@@ -1,0 +1,211 @@
+Key,File,Type,english
+
+
+perkPaintingPosters0Name,progression,perk  book,Paintings & Posters
+perkPaintingPosters0Desc,progression,perk  book,"If you've ever wanted to learn how to create paintings or posters, this is your collection! Find all seven volumes to learn different artstyles and gain the ability to craft an assortment of artwork that you can put up for display."
+
+
+perkPaintingClassicalDesc,progression,perk  book,"You can now craft 5 new paintings!"
+perkPaintingClassicalLongDesc,progression,perk  book,"Reading volume 1 of Paintings & Posters teaches you about the classical style of artwork. Once read, you will be able to craft five new paintings."
+
+perkPaintingAcrylicDesc,progression,perk  book,"You can now craft 5 new paintings!"
+perkPaintingAcrylicLongDesc,progression,perk  book,"Reading volume 2 of Paintings & Posters teaches you about the acrylic style of artwork. Once read, you will be able to craft five new paintings."
+
+perkPaintingImpressionismDesc,progression,perk  book,"You can now craft 5 new paintings!"
+perkPaintingImpressionismLongDesc,progression,perk  book,"Reading volume 3 of Paintings & Posters teaches you about the impressionism style of artwork. Once read, you will be able to craft five new paintings."
+
+perkPaintingCreepyDesc,progression,perk  book,"You can now craft 5 new paintings!"
+perkPaintingCreepyLongDesc,progression,perk  book,"Reading volume 4 of Paintings & Posters teaches you about the creepier styles of artwork. Once read, you will be able to craft five new paintings."
+
+perkPostersHorrorDesc,progression,perk  book,"You can now craft 5 new posters!"
+perkPostersHorrorLongDesc,progression,perk  book,"Reading volume 5 of Paintings & Posters teaches you about horror movies. Once read, you will be able to craft five new posters."
+
+perkPostersMonsterHorrorDesc,progression,perk  book,"You can now craft 5 new posters!"
+perkPostersMonsterHorrorLongDesc,progression,perk  book,"Reading volume 6 of Paintings & Posters teaches you about the monsterverse. Once read, you will be able to craft five new paintings."
+
+perkPostersAliensDesc,progression,perk  book,"You can now craft 5 new posters!"
+perkPostersAliensLongDesc,progression,perk  book,"Reading volume 7 of Paintings & Posters teaches you about scifi worlds like the Aliens franchise. Once read, you will be able to craft five new paintings."
+
+perkPaintingPostersCompleteDesc,progression,perk  book,"You can now craft all 40 paintings and posters!"
+perkPaintingPostersCompleteLongDesc,progression,perk  book,"Reading all volumes of Paintings & Posters has taught you about fantasies, horror and fascinating artstyles. You can now craft all paintings and posters, in addition to secret paintings as well!"
+
+
+bookPaintingsClassical,items,perk  book,Paintings & Posters Vol 1
+bookPaintingsAcrylic,items,perk  book,Paintings & Posters Vol 2
+bookPaintingsImpressionism,items,perk  book,Paintings & Posters Vol 3
+bookPaintingsCreepy,items,perk  book,Paintings & Posters Vol 4
+bookPostersHorror,items,perk  book,Paintings & Posters Vol 5
+bookPostersMonsterHorror,items,perk  book,Paintings & Posters Vol 6
+bookPostersAliens,items,perk  book,Paintings & Posters Vol 7
+PaintingPostersCompleteName,items,perk  book,Completed Paintings & Posters
+
+
+firstFivePaintings,blocks,Variant,Paintings I
+firstFivePaintingsDesc,blocks,Block,Five paintings to remind you of a time before zombies!
+secondFivePaintings,blocks,Variant,Paintings II
+secondFivePaintingsDesc,blocks,Block,Five paintings to remind you of a time before zombies!
+thirdFivePaintings,blocks,Variant,Paintings III
+thirdFivePaintingsDesc,blocks,Block,Five paintings to remind you of a time before zombies!
+fourthFivePaintings,blocks,Variant,Paintings IV
+fourthFivePaintingsDesc,blocks,Block,Five paintings to remind you of a time before zombies!
+firstFivePosters,blocks,Variant,Posters I
+firstFivePostersDesc,blocks,Block,Five movie posters to remind you of a time before zombies!
+secondFivePosters,blocks,Variant,Posters II
+secondFivePostersDesc,blocks,Block,Five movie posters to remind you of a time before zombies!
+thirdFivePosters,blocks,Variant,Posters III
+thirdFivePostersDesc,blocks,Block,Five movie posters to remind you of a time before zombies!
+fourthFivePosters,blocks,Variant,Posters IV
+fourthFivePostersDesc,blocks,Block,Five movie posters to remind you of a time before zombies!
+paintingsPostersComplete,blocks,Variant,Secret Paintings
+paintingsPostersCompleteDesc,blocks,Block,Secret paintings to remind you of a time before zombies!
+
+
+Painting 1,blocks,Variant,The Scream
+theScreamPaintingDesc,blocks,Variant,"The Scream of Nature, or better known as The Scream, is a famous painting from before the apocalypse. From the late 1800's by German artist Edvard Munch, it represented human anxiety."
+
+Painting 2,blocks,Variant,Mona Lisa
+monaLisaPaintingDesc,blocks,Variant,"Mona Lisa was known as the most famous painting from before the apocalypse, first created by Leonardo da Vinci in the 16th century."
+
+Painting 3,blocks,Variant,American Gothic
+americanGothicPaintingDesc,blocks,Variant,"An ugly time, American Gothic was painted in 1930 by Grant Wood slightly depicting American culture at the time."
+
+Painting 4,blocks,Variant,Girl With an Earring
+earringGirlPaintingDesc,blocks,Variant,"Girl with a Peal Earring was an oil painting designed by Johannes Vermeer in 1665. While some details have faded, it became known as one of the most popular paintings some time later."
+
+Painting 5,blocks,Variant,The Son
+theSonPaintingDesc,blocks,Variant,"The Son of Man was painted by René Magritte in the 1960s. Even during the zombie apocalypse, we still want to see behind what is hidden. The virus for one...is there a cure?"
+
+Painting 6,blocks,Variant,Self Portrait
+selfPortraitPaintingDesc,blocks,Variant,"This is one of Vincent van Gogh's self portraits during the mid 19th century, representing people of that time."
+
+Painting 7,blocks,Variant,Skeleton Smoker
+skeletonSmokerPaintingDesc,blocks,Variant,"Head of a skeleton with a burning cigarette, or what we'll simply call The Skeleton Smoker, was an early painting by Vincent van Gogh. Seems fitting even after a couple hundred years later."
+
+Painting 8,blocks,Variant,Salvator
+SalvatorPaintingDesc,blocks,Variant,"Salvator Mundi was painted during the 16th century by Italian Renaissance artist Leonardo da Vinci. The work of art depicts a higher being, likely forgotten during the apocalypse."
+
+Painting 9,blocks,Variant,Old Guitarist
+oldGuitaristPaintingDesc,blocks,Variant,"The Old Guitarist was created by the once world renowned Pablo Picasso. Created during the early 1900s, this work of art was on the more depressing side of things. Fitting with the zombies around at our every turn."
+
+Painting 10,blocks,Variant,"Café Terrace"
+cafeTerracePaintingDesc,blocks,Variant,"Café Terrace at Night, or simply Café Terrace, is a painting by Vincent van Gogh in the late 1800s. With this art, we can experience a night in old Paris."
+
+Painting 11,blocks,Variant,Wanderer
+wandererPaintingDesc,blocks,Variant,"Wanderer above the Sea of Fog or simply Wanderer, was an oil painting from 1818 by Caspar David Friedrich. Talk about Romanticism and a time of peace!"
+
+Painting 12,blocks,Variant,Power of Death
+powerDeathPaintingDesc,blocks,Variant,"Curated by William Holbrook Beard in the late 1800s, The Power of Death was one of the artists last work, depicting darker and sadder moments of the time for animals."
+
+Painting 13,blocks,Variant,"Alfonso d`Avalos"
+alfonsoDavalosPaintingDesc,blocks,Variant,"Portrait of Alfonso d`Avalos was one of Titians works during the early to mid 16th century."
+
+Painting 14,blocks,Variant,Arnolfini
+arnolfiniPaintingDesc,blocks,Variant,"The Great Wave off Kanagawa, or better known as The Wave, is one of the most famous pieces of artwork left over from before the apocalypse, dating back as far as the early 1800's by Japanese artist Hokusai."
+
+Painting 15,blocks,Variant,The Storm
+theStormPaintingDesc,blocks,Variant,"The Storm on the Sea of Galilee was a painting by Rembrandt van Rijn in the early 17th century."
+
+Painting 16,blocks,Variant,The Kiss
+theKissPaintingDesc,blocks,Variant,"The Kiss was originlly an oil-on canvas painting by Austrian painter Gustav Klimt in the early 1900s. It was a sensual piece for the time and it's too bad zombies ate everyone."
+
+Painting 17,blocks,Variant,Self Portrait
+anotherSelfPortraitPaintingDesc,blocks,Variant,"This is one of Vincent van Gogh's self portraits during the mid 19th century, representing people of that time."
+
+Painting 18,blocks,Variant,Devourer
+devourerPaintingDesc,blocks,Variant,"Saturn Devouring His Son is one of the darkest paintings in this collection by Francisco Goya during the early 1800s. This one depicted the Titan Cronus eating his children upon their birth in fear of being overthrown."
+
+Painting 19,blocks,Variant,Lady Ermine
+ladyErminePaintingDesc,blocks,Variant,"Lady with an Ermine is an Italian Renaissance inspired portrait painting by Leonardo da Vinci in the late 15th century. This was only one of the four surviving portaits at the time. Because of the apocalypse, it's now only one of two."
+
+Painting 20,blocks,Variant,Bearded Man
+beardedManPaintingDesc,blocks,Variant,"Look, a painting of a man not infected by the virus. The good times."
+
+Painting 21,blocks,Variant,Valek
+valekConjuringPaintingDesc,blocks,Variant,"Originally depicted in the movie franchise The Conjuring, Valek is the name of this demon painted here by Omen. While controversial to the real spiritual being it represents, lets hope we only see zombies..."
+
+Painting 22,blocks,Variant,Pennywise
+pennywiseITPaintingDesc,blocks,Variant,"Brought to life by the legendary Stephen King, this painting by Al Molina portrays the intense version of Pennywise in the IT universe."
+
+Painting 23,blocks,Variant,Great Wave
+greatWavePaintingDesc,blocks,Block,"The Great Wave off Kanagawa, or better known as The Wave, is one of the most famous pieces of artwork left over from before the apocalypse, dating back as far as the early 1800's by Japanese artist Hokusai."
+
+Painting 24,blocks,Variant,Slenderman
+slendermanPaintingDesc,blocks,Variant,"Painted by Hinoteya, this is a painting made famous by the Creepypasta community before zombies became the real threats. Depicted is Slenderman, a tall and slender creature that stalks its victims, which could still be around."
+
+Painting 25,blocks,Variant,Ghosted
+ghostedPaintingDesc,blocks,Variant,"Painted by Jane, Ghosted is depicting the Reaper of sorts, commonly a warning before someone leaves this plane of existence."
+
+Painting 26,blocks,Variant,Ghosted (Flipped)
+ghostedFlippedPaintingDesc,blocks,Variant,"Painted by Jane, Ghosted is depicting the Reaper of sorts, commonly a warning before someone leaves this plane of existence. Designing this version will have this entity pointing in an alternate direction."
+
+Painting 27,blocks,Variant,Grudge
+grudgePaintingDesc,blocks,Variant,"The Grudge is layered deep with Japanase-style horror, lore and creepy depictions. Painted by Caleb Hull, this is just one representation of the curse that comes into existence after a deceased family's heightened rage."
+
+Painting 28,blocks,Variant,Crooked Man
+crookedManPaintingDesc,blocks,Variant,"Once you summon The Crooked Man, he cannot be stopped. You cannot hide or run as there is no order, rhyme or reason. He's coming for you and wherever there is darkness, he will be there. If you are cursed by the crooked man, you will wish the undead took you instead, as he will make sure that you are eventually dead."
+
+Painting 29,blocks,Variant,Two Old Men Eating Soup
+oldMenPaintingDesc,blocks,Variant,"Two Old Men Eating Soup is one of Francisco Goya's black paintings. Depicting misery and despair at the time, many amidst the apocalypse today likely experienced this."
+
+Painting 30,blocks,Variant,"Pray / Prey"
+billSaberPrayDesc,blocks,Variant,"Artwork designed for one of the dark rappers, Bill $Aber, from before the zombie apocalypse. Pray he comes back to hunt the zombie prey."
+
+Poster 1,blocks,Variant,Return of the Living Dead Part II
+returnLivingDeadPartTwoPosterDesc,blocks,Variant,"A movie poster for Ken Wiederhorn's 1988 zombie comedy horror film, Return of the Living Dead Part II."
+
+Poster 2,blocks,Variant,Shivers
+shiversPosterDesc,blocks,Variant,"A movie poster for David Cronenberg's 1975 scifi horror film, Shivers."
+
+Poster 3,blocks,Variant,The Crater Lake Monster
+craterLakeMonsterPosterDesc,blocks,Variant,"A movie poster for William R Stromberg's 1977 B-horror film, The Crater Lake Monster."
+
+Poster 4,blocks,Variant,Night of the Living Dead
+nightLivingDeadPosterDesc,blocks,Variant,"A movie poster for George A Romero's 1968 zombie horror classic, Night of the Living Dead. Instead of zombies, the guys in this film thought they were fighting Ghouls."
+
+Poster 5,blocks,Variant,The Thing
+theThingPosterDesc,blocks,Variant,"A movie poster for John Carpenter's 1982 scifi horror film, The Thing. This is a perfect poster to put for display in the snowy regions!"
+
+Poster 6,blocks,Variant,Nocturna
+nocturnaPosterDesc,blocks,Variant,"A movie poster for Harry Hurwitz's 1978 slightly comedic vampire film, Nocturna."
+
+Poster 7,blocks,Variant,Halloween
+halloweenMoviePosterDesc,blocks,Variant,"A movie poster for John Carpenter's 1978 cult classic, Halloween."
+
+Poster 8,blocks,Variant,The Toxic Avenger
+toxicAvengerPosterDesc,blocks,Variant,"A movie poster for Michael Herz's 1984 superhero black comedy splatter film, The Toxic Avenger."
+
+Poster 9,blocks,Variant,Dracula
+draculaPosterDesc,blocks,Variant,"A movie poster for Terence Fisher's 1958 film, Dracula. Brought to life by actors Peter Cushing, Count Dracula and production company Hammer Horror Films, it's considered one of the most classic horror films of the past."
+
+Poster 10,blocks,Variant,Deathdream
+deathdreamPosterDesc,blocks,Variant,"A movie poster for Bob Clark's 1974 horror film, Deathdream."
+
+Poster 11,blocks,Variant,Braindead
+braindeadPosterDesc,blocks,Variant,"A movie poster for Peter Jackson's 1992 zombie comedy film, Braindead."
+
+Poster 12,blocks,Variant,The Slumber Party Massacre
+slumberPartyMassacrePosterDesc,blocks,Variant,"A movie poster for Amy Holden Jones's 1982 slasher film, The Slumber Party Massacre."
+
+Poster 13,blocks,Variant,Night of the Zombies
+nightZombiesPosterDesc,blocks,Variant,"A movie poster for Joel M. Reed's 1981 zombie horror war film, Night of the Zombies."
+
+Poster 14,blocks,Variant,Cannibal Girls
+cannibalGirlsPosterDesc,blocks,Variant,"A movie poster for Ivan Reitman's 1973 grindhouse comedy horror film, Cannibal Girls."
+
+Poster 15,blocks,Variant,The Brood
+theBroodPosterDesc,blocks,Variant,"A movie poster for David Cronenberg's 1979 psychological body horror film, The Brood."
+
+Poster 16,blocks,Variant,Alien
+alienMoviePosterDesc,blocks,Variant,"A movie poster for Ridley Scott's famous 1979 scifi horror film, Alien. Lets hope nothing bursts out of chests!"
+
+Poster 17,blocks,Variant,Dawn of the Dead
+dawnDeadPosterDesc,blocks,Variant,"A movie poster for George A. Romero's 1978 horror film, Dawn of the Dead."
+
+Poster 18,blocks,Variant,Curtains
+curtainsMoviePosterDesc,blocks,Variant,"A movie poster for Richard Ciupka's 1983 slasher film, Curtains."
+
+Poster 19,blocks,Variant,Attack of the Killer Tomatoes
+killerTomatoesPosterDesc,blocks,Variant,"A movie poster for John DeBello's 1978 parody film, Attack of the Killer Tomatoes."
+
+Poster 20,blocks,Variant,The Texas Chainsaw Massacre
+texasChainsawMassacrePosterDesc,blocks,Variant,"A movie poster for Tobe Hooper's 1974 slasher film, The Texas Chainsaw Massacre. Considered to have been a controversial movie at the time, it was losely based on true events, in which the real Chainsaw Massacrer was never found."

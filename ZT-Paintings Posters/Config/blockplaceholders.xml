@@ -1,0 +1,93 @@
+<ZTPaintingsPostersBlockplaceholders name="blockplaceholders.xml">
+
+	<append xpath="/blockplaceholders/placeholder[@name='paintingPictureRandomHelper']">
+		
+		<block name="Painting 1"/>
+		<block name="Painting 2"/>
+		<block name="Painting 3"/>
+		<block name="Painting 4"/>
+		<block name="Painting 5"/>
+		<block name="Painting 6"/>
+		<block name="Painting 7"/>
+		<block name="Painting 8"/>
+		<block name="Painting 9"/>
+		<block name="Painting 10"/>
+		<block name="Painting 11"/>
+		<block name="Painting 12"/>
+		<block name="Painting 13"/>
+		<block name="Painting 14"/>
+		<block name="Painting 15"/>
+		<block name="Painting 16"/>
+		<block name="Painting 17"/>
+		<block name="Painting 18"/>
+		<block name="Painting 19"/>
+		<block name="Painting 20"/>
+		<block name="Poster 1"/>
+		<block name="Poster 2"/>
+		<block name="Poster 3"/>
+		<block name="Poster 4"/>
+		<block name="Poster 5"/>
+		<block name="Poster 6"/>
+		<block name="Poster 7"/>
+		<block name="Poster 8"/>
+		<block name="Poster 9"/>
+		<block name="Poster 10"/>
+		<block name="Poster 11"/>
+		<block name="Poster 12"/>
+		<block name="Poster 13"/>
+		<block name="Poster 14"/>
+		<block name="Poster 15"/>
+		<block name="Poster 16"/>
+		<block name="Poster 17"/>
+		<block name="Poster 18"/>
+		<block name="Poster 19"/>
+		<block name="Poster 20"/>
+		
+	</append>
+	
+	<append xpath="/blockplaceholders/placeholder[@name='cntPaintingPictureSafeRandomLootHelper']">
+		
+		<block name="hiddenSafePainting1"/>
+		<block name="hiddenSafePainting2"/>
+		<block name="hiddenSafePainting3"/>
+		<block name="hiddenSafePainting4"/>
+		<block name="hiddenSafePainting5"/>
+		<block name="hiddenSafePainting6"/>
+		<block name="hiddenSafePainting7"/>
+		<block name="hiddenSafePainting8"/>
+		<block name="hiddenSafePainting9"/>
+		<block name="hiddenSafePainting10"/>
+		<block name="hiddenSafePainting11"/>
+		<block name="hiddenSafePainting12"/>
+		<block name="hiddenSafePainting13"/>
+		<block name="hiddenSafePainting14"/>
+		<block name="hiddenSafePainting15"/>
+		<block name="hiddenSafePainting16"/>
+		<block name="hiddenSafePainting17"/>
+		<block name="hiddenSafePainting18"/>
+		<block name="hiddenSafePainting19"/>
+		<block name="hiddenSafePainting20"/>
+		<block name="hiddenSafePoster1"/>
+		<block name="hiddenSafePoster2"/>
+		<block name="hiddenSafePoster3"/>
+		<block name="hiddenSafePoster4"/>
+		<block name="hiddenSafePoster5"/>
+		<block name="hiddenSafePoster6"/>
+		<block name="hiddenSafePoster7"/>
+		<block name="hiddenSafePoster8"/>
+		<block name="hiddenSafePoster9"/>
+		<block name="hiddenSafePoster10"/>
+		<block name="hiddenSafePoster11"/>
+		<block name="hiddenSafePoster12"/>
+		<block name="hiddenSafePoster13"/>
+		<block name="hiddenSafePoster14"/>
+		<block name="hiddenSafePoster15"/>
+		<block name="hiddenSafePoster16"/>
+		<block name="hiddenSafePoster17"/>
+		<block name="hiddenSafePoster18"/>
+		<block name="hiddenSafePoster19"/>
+		<block name="hiddenSafePoster20"/>
+		
+	</append>
+	
+</ZTPaintingsPostersBlockplaceholders>

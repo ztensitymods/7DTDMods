@@ -1,0 +1,25 @@
+
+ Ztensity's Paintings & Posters - Version 1.0.0
+ Reworking Snufkin's Paintings & Posters 19.4
+ Credits
+ 
+ ================================
+ 
+ 
+ A portion of assets and coding was originally designed by Snufkin's. However, with his permission I have re-designed the modlet with so much more content. Snufkin's assets included 20 paintings and 20 posters from UNITY3D bundles, 40 icons and two XML files as a starting point (blocks.xml and blockplaceholders.xml).
+ 
+ Credit is also due to the following artists for using art they designed as pictures for the new paintings:
+ 
+ Al Molina's "Pennywise": https://pixels.com/featured/pennywise-al-molina.html
+ Omenomicon's "Valek": https://www.deviantart.com/omenomicon/art/The-Nun-701780701
+ Peter Van Valkenburgh's Parallax Version of "The Great Wave": https://vimeo.com/79636275
+ Hinoteya's "Slenderman": https://www.deviantart.com/hinoteya/art/Marble-Hornets-323260811
+ Jane's "Ghosted": http://shoutout.wix.com/so/ceb262e6-8024-43d9-835a-e1c5bcc9e1d0#/main
+ Caleb Hull's "Grudge": http://etsy.me/3bFXj2y
+ Carson's "Crooked Man": http://etsy.me/3vfG6oy
+ Bill $Aber's 'Pray(Prey)' / "Rest in Peace, Live in Torment" Album Artwork: https://open.spotify.com/album/2o6nUoAIzezCuZaQ2Nj21h?si=rWgnGmYvRECgvBTyGIhErg / https://images.genius.com/206699d5b28d093fc4eabd4e42286aa0.1000x1000x1.png
+ 
+ Permission to use Bill $Aber's album artwork: https://drive.google.com/u/0/uc?id=1iN9JJzDmPNElJy7kTgtiZ0X0uBRxHTVp&export=download
+ 
+ 
+ Original Mod Via Snufkin's Github: https://github.com/Snufki-n/Snufkin_Modlets_A19/blob/master/Snufkin_Paintings.rar

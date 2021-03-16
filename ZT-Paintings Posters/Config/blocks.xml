@@ -1,0 +1,1030 @@
+<ZTPaintingsPostersBlocks name="blocks.xml">
+
+	<append xpath="/blocks">
+		
+		<!-- Group Blocks: 4 sets of 5 paintings, 4 sets of 5 posters, 1 set of secret paintings -->
+		
+		<block name="firstFivePaintings">
+			<property name="Extends" value="paintingBen" param1="EconomicBundleSize"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="Stacknumber" value="10"/>
+			<property name="CustomIcon" value="Painting 2"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="UnlockedBy" value="perkPaintingClassical"/>
+			<property name="DescriptionKey" value="firstFivePaintingsDesc"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="PlaceAltBlockValue" value="Painting 2,Painting 1,Painting 3,Painting 4,Painting 5"/>
+			<property name="Group" value="Building,Decor/Miscellaneous"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<block name="secondFivePaintings">
+			<property name="Extends" value="paintingBen" param1="EconomicBundleSize"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="Stacknumber" value="10"/>
+			<property name="CustomIcon" value="Painting 10"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="UnlockedBy" value="perkPaintingAcrylic"/>
+			<property name="DescriptionKey" value="secondFivePaintingsDesc"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="PlaceAltBlockValue" value="Painting 10,Painting 6,Painting 7,Painting 8,Painting 9"/>
+			<property name="Group" value="Building,Decor/Miscellaneous"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<block name="thirdFivePaintings">
+			<property name="Extends" value="paintingBen" param1="EconomicBundleSize"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="Stacknumber" value="10"/>
+			<property name="CustomIcon" value="Painting 15"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="UnlockedBy" value="perkPaintingImpressionism"/>
+			<property name="DescriptionKey" value="thirdFivePaintingsDesc"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="PlaceAltBlockValue" value="Painting 15,Painting 11,Painting 12,Painting 13,Painting 14"/>
+			<property name="Group" value="Building,Decor/Miscellaneous"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<block name="fourthFivePaintings">
+			<property name="Extends" value="paintingBen" param1="EconomicBundleSize"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="Stacknumber" value="10"/>
+			<property name="CustomIcon" value="Painting 18"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="UnlockedBy" value="perkPaintingCreepy"/>
+			<property name="DescriptionKey" value="fourthFivePaintingsDesc"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="PlaceAltBlockValue" value="Painting 18,Painting 16,Painting 17,Painting 19,Painting 20"/>
+			<property name="Group" value="Building,Decor/Miscellaneous"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<block name="firstFivePosters">
+			<property name="Extends" value="paintingBen" param1="EconomicBundleSize"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="Stacknumber" value="10"/>
+			<property name="CustomIcon" value="Poster 1"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="UnlockedBy" value="perkPostersHorror"/>
+			<property name="DescriptionKey" value="firstFivePostersDesc"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="PlaceAltBlockValue" value="Poster 1,Poster 2,Poster 3,Poster 4,Poster 5"/>
+			<property name="Group" value="Building,Decor/Miscellaneous"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<block name="secondFivePosters">
+			<property name="Extends" value="paintingBen" param1="EconomicBundleSize"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="Stacknumber" value="10"/>
+			<property name="CustomIcon" value="Poster 9"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="UnlockedBy" value="perkPostersMonsterHorror"/>
+			<property name="DescriptionKey" value="secondFivePostersDesc"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="PlaceAltBlockValue" value="Poster 9,Poster 6,Poster 7,Poster 8,Poster 10"/>
+			<property name="Group" value="Building,Decor/Miscellaneous"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<block name="thirdFivePosters">
+			<property name="Extends" value="paintingBen" param1="EconomicBundleSize"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="Stacknumber" value="10"/>
+			<property name="CustomIcon" value="Poster 16"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="UnlockedBy" value="perkPostersAliens"/>
+			<property name="DescriptionKey" value="thirdFivePostersDesc"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="PlaceAltBlockValue" value="Poster 16,Poster 11,Poster 12,Poster 13,Poster 14"/>
+			<property name="Group" value="Building,Decor/Miscellaneous"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<block name="fourthFivePosters">
+			<property name="Extends" value="paintingBen" param1="EconomicBundleSize"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="Stacknumber" value="10"/>
+			<property name="CustomIcon" value="Poster 17"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="UnlockedBy" value="perkPostersAliens"/>
+			<property name="DescriptionKey" value="fourthFivePostersDesc"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="PlaceAltBlockValue" value="Poster 17,Poster 15,Poster 18,Poster 19,Poster 20"/>
+			<property name="Group" value="Building,Decor/Miscellaneous"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<block name="paintingsPostersComplete">
+			<property name="Extends" value="paintingBen" param1="EconomicBundleSize"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="Stacknumber" value="10"/>
+			<property name="CustomIcon" value="Painting 25"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="UnlockedBy" value="perkPaintingPostersComplete"/>
+			<property name="DescriptionKey" value="paintingsPostersCompleteDesc"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="PlaceAltBlockValue" value="Painting 25,Painting 26,Painting 21,Painting 22,Painting 24,Painting 27,Painting 28"/>
+			<property name="Group" value="Building,Decor/Miscellaneous"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<!-- Individual Blocks: Paintings 1 - 28 -->
+		
+		<block name="Painting 1">
+			<!-- The Scream -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_1"/>
+			<property name="DescriptionKey" value="theScreamPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 2">
+			<!-- Mona Lisa -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_2"/>
+			<property name="DescriptionKey" value="monaLisaPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 3">
+			<!-- American Gothic -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_3"/>
+			<property name="DescriptionKey" value="americanGothicPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 4">
+			<!-- Girl With an Earring -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_4"/>
+			<property name="DescriptionKey" value="earringGirlPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 5">
+			<!-- The Son -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_5"/>
+			<property name="DescriptionKey" value="theSonPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 6">
+			<!-- Self Portrait -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_6"/>
+			<property name="DescriptionKey" value="selfPortraitPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 7">
+			<!-- Skeleton Smoker -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_7"/>
+			<property name="DescriptionKey" value="skeletonSmokerPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 8">
+			<!-- Salvator -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_8"/>
+			<property name="DescriptionKey" value="SalvatorPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 9">
+			<!-- Old Guitarist -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_9"/>
+			<property name="DescriptionKey" value="oldGuitaristPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 10">
+			<!-- Café Terrace -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_10"/>
+			<property name="DescriptionKey" value="cafeTerracePaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 11">
+			<!-- Wanderer -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_11"/>
+			<property name="DescriptionKey" value="wandererPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 12">
+			<!-- Power of Death -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_12"/>
+			<property name="DescriptionKey" value="powerDeathPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 13">
+			<!-- Alfonso d`Avalos -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_13"/>
+			<property name="DescriptionKey" value="alfonsoDavalosPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 14">
+			<!-- Arnolfini -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_14"/>
+			<property name="DescriptionKey" value="arnolfiniPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 15">
+			<!-- The Storm -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_15"/>
+			<property name="DescriptionKey" value="theStormPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 16">
+			<!-- The Kiss -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_16"/>
+			<property name="DescriptionKey" value="theKissPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 17">
+			<!-- Self Portrait -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_17"/>
+			<property name="DescriptionKey" value="anotherSelfPortraitPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 18">
+			<!-- Titan Devourer -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_18"/>
+			<property name="DescriptionKey" value="devourerPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 19">
+			<!-- Lady Ermine -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_19"/>
+			<property name="DescriptionKey" value="ladyErminePaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 20">
+			<!-- Bearded Man -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_20"/>
+			<property name="DescriptionKey" value="beardedManPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 21">
+			<!-- Valek Painting -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_21"/>
+			<!-- Picture From Artist - Omenomicon: https://www.deviantart.com/omenomicon/art/The-Nun-701780701 -->
+			<!-- Permission Granted -->
+			<property name="DescriptionKey" value="valekConjuringPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 22">
+			<!-- Pennywise Painting -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_22"/>
+			<!-- Picture From Artist - Al Molina: https://pixels.com/featured/pennywise-al-molina.html -->
+			<!-- Permission Granted -->
+			<property name="DescriptionKey" value="pennywiseITPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 24">
+			<!-- Slenderman Painting -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_24"/>
+			<!-- Picture From Artist - Hinoteya: https://www.deviantart.com/hinoteya/art/Marble-Hornets-323260811 -->
+			<property name="DescriptionKey" value="slendermanPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 27">
+			<!-- Grudge -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_27"/>
+			<!-- Picture From Artist - Caleb Hull: http://etsy.me/3bFXj2y -->
+			<property name="DescriptionKey" value="grudgePaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 28">
+			<!-- Crooked Man -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_28"/>
+			<!-- Picture From Artist - Carson/Manicism: http://etsy.me/3vfG6oy -->
+			<property name="DescriptionKey" value="crookedManPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 25">
+			<!-- Ghosted Painting -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_25"/>
+			<!-- Picture From Artist - Jane: http://shoutout.wix.com/so/ceb262e6-8024-43d9-835a-e1c5bcc9e1d0#/main -->
+			<property name="DescriptionKey" value="ghostedPaintingDesc"/>
+			<!-- Alternative Website: https://www.paintingwithjane.com/ -->
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 26">
+			<!-- Ghosted Painting (Flipped) -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_26"/>
+			<!-- Picture From Artist - Jane: http://shoutout.wix.com/so/ceb262e6-8024-43d9-835a-e1c5bcc9e1d0#/main -->
+			<!-- Alternative Website: https://www.paintingwithjane.com/ -->
+			<property name="DescriptionKey" value="ghostedFlippedPaintingDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Painting 23">
+			<!-- Great Wave Painting -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="Stacknumber" value="10"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_23"/>
+			<!-- Parallax Animation Version By Peter Van Valkenburgh: https://vimeo.com/79636275 -->
+			<property name="DescriptionKey" value="greatWavePaintingDesc"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="MultiBlockDim" value="3,1,1" />
+			<property name="EconomicValue" value="150"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<block name="Painting 29">
+			<!-- Two Old Men Eating Soup -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_29"/>
+			<!-- Picture Found Here: https://www.theartist.me/art/francisco-goyas-black-paintings/ -->
+			<property name="DescriptionKey" value="oldMenPaintingDesc"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="MultiBlockDim" value="3,1,1" />
+			<property name="EconomicValue" value="150"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<block name="Painting 30">
+			<!-- Bill $Aber 'Pray' -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="Material" value="Mcloth" />
+			<property name="MaxDamage" value="250"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?painting_30"/>
+			<!-- Picture Found Here: https://images.genius.com/206699d5b28d093fc4eabd4e42286aa0.1000x1000x1.png -->
+			<!-- "Rest in Peace, Live in Torment" Album Found Here: https://open.spotify.com/album/2o6nUoAIzezCuZaQ2Nj21h?si=oxSuAYJRTK68MiKCDAKF-A -->
+			<property name="DescriptionKey" value="billSaberPrayDesc"/>
+			<property name="AllowAllRotations" value="true"/>
+			<property name="MultiBlockDim" value="3,1,1" />
+			<property name="EconomicValue" value="150"/>
+			<property name="EconomicBundleSize" value="1"/>
+		</block>
+		
+		<!-- Individual Blocks: Posters 1 - 20 -->
+		
+		<block name="Poster 1">
+			<!-- Return of the Living Dead Part II Movie Poster-->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_1"/>
+			<property name="DescriptionKey" value="returnLivingDeadPartTwoPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 2">
+			<!-- Shiver Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_2"/>
+			<property name="DescriptionKey" value="shiversPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 3">
+			<!-- The Crater Lake Monster Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_3"/>
+			<property name="DescriptionKey" value="craterLakeMonsterPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 4">
+			<!-- Night of the Living Dead Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_4"/>
+			<property name="DescriptionKey" value="nightLivingDeadPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 5">
+			<!-- The Thing Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_5"/>
+			<property name="DescriptionKey" value="theThingPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 6">
+			<!-- Nocturna Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_6"/>
+			<property name="DescriptionKey" value="nocturnaPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 7">
+			<!-- Halloween Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_7"/>
+			<property name="DescriptionKey" value="halloweenMoviePosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 8">
+			<!-- The Toxic Avenger Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_8"/>
+			<property name="DescriptionKey" value="toxicAvengerPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 9">
+			<!-- Dracula Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_9"/>
+			<property name="DescriptionKey" value="draculaPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 10">
+			<!-- Deathdream Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_10"/>
+			<property name="DescriptionKey" value="deathdreamPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 11">
+			<!-- Braindead Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_11"/>
+			<property name="DescriptionKey" value="braindeadPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 12">
+			<!-- The Slumber Party Massacre Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_12"/>
+			<property name="DescriptionKey" value="slumberPartyMassacrePosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 13">
+			<!-- Night of the Zombies Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_13"/>
+			<property name="DescriptionKey" value="nightZombiesPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 14">
+			<!-- Cannibal Girls Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_14"/>
+			<property name="DescriptionKey" value="cannibalGirlsPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 15">
+			<!-- The Brood Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_15"/>
+			<property name="DescriptionKey" value="theBroodPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 16">
+			<!-- Alien Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_16"/>
+			<property name="DescriptionKey" value="alienMoviePosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 17">
+			<!-- Dawn of the Dead Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_17"/>
+			<property name="DescriptionKey" value="dawnDeadPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 18">
+			<!-- Curtains Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_18"/>
+			<property name="DescriptionKey" value="curtainsMoviePosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 19">
+			<!-- Attack of the Killer Tomatoes Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_19"/>
+			<property name="DescriptionKey" value="killerTomatoesPosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<block name="Poster 20">
+			<!-- Texas Chainsaw Massacre Movie Poster -->
+			<property name="Extends" value="paintingBen"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CanPickup" value="false"/>
+			<property name="Model" value="#@modfolder:Resources/paintingsPostersComplete.unity3d?poster_20"/>
+			<property name="DescriptionKey" value="texasChainsawMassacrePosterDesc"/>
+			<property name="ModelOffset" value="0,0.5,0"/>
+		</block>
+		
+		<!-- Individual Blocks: Hidden Safe Paintings 1 - 20 -->
+		
+		<block name="hiddenSafePainting1">
+			<property name="Extends" value="Painting 1"/>
+			<property name="CanPickup" value="false" param1="Painting 1"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting2">
+			<property name="Extends" value="Painting 2"/>
+			<property name="CanPickup" value="false" param1="Painting 2"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting3">
+			<property name="Extends" value="Painting 3"/>
+			<property name="CanPickup" value="false" param1="Painting 3"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting4">
+			<property name="Extends" value="Painting 4"/>
+			<property name="CanPickup" value="false" param1="Painting 4"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting5">
+			<property name="Extends" value="Painting 5"/>
+			<property name="CanPickup" value="false" param1="Painting 5"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting6">
+			<property name="Extends" value="Painting 6"/>
+			<property name="CanPickup" value="false" param1="Painting 6"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting7">
+			<property name="Extends" value="Painting 7"/>
+			<property name="CanPickup" value="false" param1="Painting 7"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting8">
+			<property name="Extends" value="Painting 8"/>
+			<property name="CanPickup" value="false" param1="Painting 8"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting9">
+			<property name="Extends" value="Painting 9"/>
+			<property name="CanPickup" value="false" param1="Painting 9"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting10">
+			<property name="Extends" value="Painting 10"/>
+			<property name="CanPickup" value="false" param1="Painting 10"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting11">
+			<property name="Extends" value="Painting 11"/>
+			<property name="CanPickup" value="false" param1="Painting 11"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting12">
+			<property name="Extends" value="Painting 12"/>
+			<property name="CanPickup" value="false" param1="Painting 12"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting13">
+			<property name="Extends" value="Painting 13"/>
+			<property name="CanPickup" value="false" param1="Painting 13"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting14">
+			<property name="Extends" value="Painting 14"/>
+			<property name="CanPickup" value="false" param1="Painting 14"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting15">
+			<property name="Extends" value="Painting 15"/>
+			<property name="CanPickup" value="false" param1="Painting 15"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting16">
+			<property name="Extends" value="Painting 16"/>
+			<property name="CanPickup" value="false" param1="Painting 16"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting17">
+			<property name="Extends" value="Painting 17"/>
+			<property name="CanPickup" value="false" param1="Painting 17"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting18">
+			<property name="Extends" value="Painting 18"/>
+			<property name="CanPickup" value="false" param1="Painting 18"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting19">
+			<property name="Extends" value="Painting 19"/>
+			<property name="CanPickup" value="false" param1="Painting 19"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePainting20">
+			<property name="Extends" value="Painting 20"/>
+			<property name="CanPickup" value="false" param1="Painting 20"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePaintingGroupDesc"/>
+		</block>
+		
+		<!-- Individual Blocks: Hidden Safe Posters 1 - 20 -->
+		
+		<block name="hiddenSafePoster1">
+			<property name="Extends" value="Poster 1"/>
+			<property name="CanPickup" value="false" param1="Poster 1"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster2">
+			<property name="Extends" value="Poster 2"/>
+			<property name="CanPickup" value="false" param1="Poster 2"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster3">
+			<property name="Extends" value="Poster 3"/>
+			<property name="CanPickup" value="false" param1="Poster 3"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster4">
+			<property name="Extends" value="Poster 4"/>
+			<property name="CanPickup" value="false" param1="Poster 4"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster5">
+			<property name="Extends" value="Poster 5"/>
+			<property name="CanPickup" value="false" param1="Poster 5"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster6">
+			<property name="Extends" value="Poster 6"/>
+			<property name="CanPickup" value="false" param1="Poster 6"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster7">
+			<property name="Extends" value="Poster 7"/>
+			<property name="CanPickup" value="false" param1="Poster 7"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster8">
+			<property name="Extends" value="Poster 8"/>
+			<property name="CanPickup" value="false" param1="Poster 8"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster9">
+			<property name="Extends" value="Poster 9"/>
+			<property name="CanPickup" value="false" param1="Poster 9"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster10">
+			<property name="Extends" value="Poster 10"/>
+			<property name="CanPickup" value="false" param1="Poster 10"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster11">
+			<property name="Extends" value="Poster 11"/>
+			<property name="CanPickup" value="false" param1="Poster 11"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster12">
+			<property name="Extends" value="Poster 12"/>
+			<property name="CanPickup" value="false" param1="Poster 12"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster13">
+			<property name="Extends" value="Poster 13"/>
+			<property name="CanPickup" value="false" param1="Poster 13"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster14">
+			<property name="Extends" value="Poster 14"/>
+			<property name="CanPickup" value="false" param1="Poster 14"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster15">
+			<property name="Extends" value="Poster 15"/>
+			<property name="CanPickup" value="false" param1="Poster 15"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster16">
+			<property name="Extends" value="Poster 16"/>
+			<property name="CanPickup" value="false" param1="Poster 16"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster17">
+			<property name="Extends" value="Poster 17"/>
+			<property name="CanPickup" value="false" param1="Poster 17"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster18">
+			<property name="Extends" value="Poster 18"/>
+			<property name="CanPickup" value="false" param1="Poster 18"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster19">
+			<property name="Extends" value="Poster 19"/>
+			<property name="CanPickup" value="false" param1="Poster 19"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+		<block name="hiddenSafePoster20">
+			<property name="Extends" value="Poster 20"/>
+			<property name="CanPickup" value="false" param1="Poster 20"/>
+			<property name="CreativeMode" value="Dev"/>
+			<property name="DowngradeBlock" value="cntWallSafeRandomLootHelper"/>
+			<property name="DescriptionKey" value="hiddenSafePosterGroupDesc"/>
+		</block>
+		
+	</append>
+
+</ZTPaintingsPostersBlocks>

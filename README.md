@@ -2,7 +2,7 @@
  Official repository for Ztensity's 7 Days to Die Modlets
  ================================
  
- Currently, the repository includes twenty different mods that I have created so far. At this point in my modding career, I have learned to work with Read Me's, Localization's, XML's (blocks, items, progression, recipes and sounds), XPATH, Unity, animations and using/creating transparent PNG icons for an ItemIconAtlas and UIAtlas.
+ This repository includes all  mods that I have created. In this repository, you will find an assortment of different kinds of mods ranging from my renaming series, Unnecessarily Beautiful But Immersive and SMX UI Tweaks to recent mods like the Functional Elevator and Paintings & Posters.
  
  
  ================================
@@ -116,10 +116,30 @@
  ================================
  
  
- ZT-FunctionalElevator
+ ZT-FunctionalElevator 1.0.0
  =======
  
  Ztensity's Functional Elevator is a redesign of Guppycur's elevator back from Alpha's 17 and 18. Now, the elevator is tweaked with adjusted code, new features, new animations etc. for compatibility with 7 Days to Die's latest build A19 and increased immersion.
+ 
+ 
+ ================================
+ 
+ 
+ ZT-Paintings Posters 1.0.0
+ =======
+ 
+ Ztensity's Paintings & Posters is a rework of Snufkin's Paintings_Posters, which originally had 20 posters, 20 paintings and the ability to find them at random across your travels. With his permission, I have made a new mod built off his work.
+
+ This mod includes the ability to craft all paintings and posters once unlocked through 7 books, the ability to purchase books and select secret paintings from traders, in-depth localization for all paintings, posters and skill books, completely new icons for all paintings and posters, new icons for books, a UI icon for the book skill and a slight redesign of all paintings and posters for streamlining purposes. 
+ 
+ 
+ ================================
+ 
+ 
+ ZT-PP SMX 1.0.0
+ =======
+ 
+ Ztensity's Paintings & Posters SMX is a patch for players wanting to use Sirillion's SMX UI overhaul series, as it adjusts an icon for immersion and better compatibility.
  
  
  ================================
