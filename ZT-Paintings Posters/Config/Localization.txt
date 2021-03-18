@@ -209,3 +209,6 @@ killerTomatoesPosterDesc,blocks,Variant,"A movie poster for John DeBello's 1978 
 
 Poster 20,blocks,Variant,The Texas Chainsaw Massacre
 texasChainsawMassacrePosterDesc,blocks,Variant,"A movie poster for Tobe Hooper's 1974 slasher film, The Texas Chainsaw Massacre. Considered to have been a controversial movie at the time, it was losely based on true events, in which the real Chainsaw Massacrer was never found."
+
+ZTPaintingsPostersLight,blocks,Variant,Painting Light
+ZTPaintingsPostersLightDesc,blocks,Variant,"This is a light designed to be placed above paintings and posters for aesthetic purposes."

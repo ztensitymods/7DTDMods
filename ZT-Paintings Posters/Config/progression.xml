@@ -81,5 +81,7 @@
 		<!-- = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = -->
 	
 	</insertAfter>
+	
+	<append xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@name='RecipeTagUnlocked' and @level='3,5']/@tags">,ZTPaintingsPostersLight</append>
 
 </ZTPaintingsPostersProgression>

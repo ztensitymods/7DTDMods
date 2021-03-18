@@ -1,5 +1,5 @@
 
- Ztensity's Paintings & Posters - Version 1.0.0
+ Ztensity's Paintings & Posters - Version 1.1.0
  Reworking Snufkin's Paintings & Posters 19.4
  
  
@@ -17,7 +17,9 @@
  
  3. There are are a total of ten new paintings added by this mod in addition to Snufkin's previously designed paintings and posters. While seven of the new paintings can be crafted once unlocked, three more rare paintings can only be bought from a trader.
  
- 4. Every painting and poster has been re-designed for consistency, descriptions have been added for learning purposes, aesthetics and a bit of realism, and icons have been tweaked for further immersion.
+ 4. There is a light designed to put above paintings and posters for aesthetic and immersive purposes.
+ 
+ 5. Every painting and poster has been re-designed for consistency, descriptions have been added for learning purposes, aesthetics and a bit of realism, and icons have been tweaked for further immersion.
  
  
  In total, there are 50 items that are being added for either crafting purposes or purchasing purposes. Once this modlet is implmented into a game-save, the journey to find all seven books begins!
@@ -49,6 +51,8 @@
  I designed seven different book covers and one UI icon for the book collection skill, which allows players to craft the recipes once read. This is to match vanilla and increase immersion.
  
  I have inserted new code into the blocks.xml to provide master blocks for recipes and new paintings. I also adjusted pre-existing code to match what I was wanting to do. I have added an actual recipes.xml to provide the ability to craft almost all paintings and posters solely through 9 different recipes.
+ 
+ I have adjusted a light from UBBI for Paintings & Posters and added it to blocks.xml, recipes.xml, progression.xml and Localization for immersive and aesthetic purposes.
  
  I have added an items.xml, which adds in the seven books into the game. To go along this, I also created a progression.xml file, which sets up the book/perk system for unlocking the paintings and posters.
  

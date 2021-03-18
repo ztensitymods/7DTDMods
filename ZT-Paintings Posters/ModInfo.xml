@@ -6,6 +6,6 @@
 		<!-- This modlet uses some assets and coding by Snufkin and with Snufkin's permission, I have redesigned the modlet for release on Nexus, Forums and the Mod Launcher with new recipes, book requirements for unlocking the paintings and posters, full Localization's and more. -->
 		<Author value="Ztensity" />
 		<!-- Original Author: Snufkin -->
-		<Version value="1.0.0" compat="A19.4"/>
+		<Version value="1.1.0" compat="A19.4"/>
 	</ModInfo>
 </xml>

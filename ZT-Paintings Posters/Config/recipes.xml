@@ -60,6 +60,13 @@
 			<ingredient name="resourceFeather" count="1"/>
 		</recipe>
 		
+		<recipe name="ZTPaintingsPostersLight" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+            <ingredient name="resourceForgedIron" count="3"/>
+	        <ingredient name="resourceHeadlight" count="1"/>
+	        <ingredient name="resourceElectricParts" count="5"/>
+	        <ingredient name="resourceScrapPolymers" count="5"/>
+		</recipe>
+		
 	</append>
 
 </ZTPaintingsPostersRecipes>
