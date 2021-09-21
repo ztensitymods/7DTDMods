@@ -69,12 +69,10 @@
  ================================
  
  
- ZT-UBBI WOTW 2.0.0 (War of the Walkers Compatibility Version)
+ ZT-UBBI WOTW 2.0.0 (War of the Walkers Compatibility Version) - Removed
  =======
  
- While all three modlets are complete versions of the latest build, ZT-UBBI WOTW is designed specifically and only for Dwallorde's mod overhaul titled "War of the Walkers" or WotW for short.
- 
- In the WotW compatibility version of UBBI, quite a lot of things changed behind the scenes. From adjusting the perk requirements to work with an entirely different progression system and utilizing three different workbenches for crafting the recipes to Localization tweaks, added resource requirements for crafting select recipes and more, this is truly a fresh and new experience for those who enjoy UBBI.
+ The War of the Walkers version of UBBI has been removed, as it is now part of War of the Walkers.
  
  
  ================================
