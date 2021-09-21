@@ -58,12 +58,10 @@
  ================================
  
  
- ZT-UBBI GMC 1.3.0 (Gnamod Compatibility Version)
+ ZT-UBBI GMC 1.3.0 (Gnamod Compatibility Version) - Removed
  =======
  
- While all three modlets are complete versions of the latest build, ZT-UBBI GMC is designed for compatibility with Gnamod and should only be downloaded for use with the Gnamod overhaul. This alternate modlet was necessary because various vanilla recipes were removed and select recipes were added. Therefore, a tweaked blocks XML and recipes XML was created to work with Gnamod.
- 
- The recipes that have been changed are: short iron pipe, wood, scrap polymers, clay soil, forged steel, cloth fragments and glass block. Gnamod uses: iron pipe, sawed wood, plastic scraps, clay, forged iron (different file), forged steel (different file), cloth scraps and glass.
+ This compatibility has been removed due to recent updates and inability to keep up with compatibility versions of the mod.
  
  
  ================================
