@@ -1,7 +1,7 @@
 
- Ztensity's Paintings & Posters - Version 1.1.0
- Reworking Snufkin's Paintings & Posters 19.4
- Updates Log 1.0.0
+ Ztensity's Paintings & Posters - Version 2.0.0
+ Reworking Snufkin's Paintings & Posters 20.3
+ Updates Log 2.0.0
  
  
  ================================
@@ -15,6 +15,20 @@
  =======
 
  In update 1.1.0, I have added a light to place above paintings and posters for immersive and aesthetic purposes. This is an adjusted light, which originally comes from Unnecessarily Beautiful But Immersive. I've thinned it out to fit the paintings a little cleaner and titled it "Painting Light."
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - UPDATE 2.0.0 -
+ ==============
+ 
+ ALPHA 20.3 UPDATE:
+ =======
+
+ I have updated all files to make sure it's compatible with A20.3 and reflects that the mod up to date.
  
  
  

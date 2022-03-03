@@ -1,6 +1,8 @@
 <ZTPaintingsPostersLoot name="loot.xml">
 	
-	<insertAfter xpath="/lootcontainers/lootgroup[@name='perkBooks']/item[@name='bookTechJunkie7Hydraulics']">
+	<insertAfter xpath="/lootcontainers/lootgroup[@name='perkBooksT0']/item[@name='bookBarBrawling7BoozedUp']">
+		
+		<!-- Paintings Perk Books -->
 		
 		<item name="bookPaintingsClassical"/>
 		<item name="bookPaintingsAcrylic"/>

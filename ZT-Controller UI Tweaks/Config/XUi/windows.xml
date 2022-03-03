@@ -1,0 +1,7 @@
+<ZTwindowsTweaks name="windows.xml">
+	
+	<set xpath="/windows/window[@name='GamepadCallouts']/@pos">-200,-175 </set>
+	
+	<remove xpath="/windows/window[@name='windowPagingHeader']/gamepad_icon" />
+	
+</ZTwindowsTweaks>

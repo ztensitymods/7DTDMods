@@ -1,0 +1,40 @@
+ 
+ Ztensity's Controller UI Tweaks - Version 1.0.0
+ Gamepad Callouts Removal & LBRB Removal
+ Build 20.3 Compatible
+ Updates Log 2.0.0
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - UPDATE 1.2.0 -
+ ==============
+ 
+ 
+ QUEST TRACKER HIDDEN:
+ =======
+ 
+ In version 1.2.0, I have hidden the quest tracker from the in-game menu hud, so that it's not cluttered on-screen. Players will still be able to see their quest marker on-screen while not in the in-game menu hud (i.e. crafting, map, etc tabs).
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - UPDATE 2.0.0 -
+ ==============
+ 
+ 
+ CHANGES:
+ =======
+ 
+ In alpha 20, Sirillion overhauled the SMX series in such a way, that the previous iteration of this modlet and other alternative optional files are either no longer necessary or no longer applicable. If someone is still running Alpha 19, the optional files and old version of this mod will still work with that SMX series.
+ 
+ Considering this, the only things I found still needing to be tweaked for immersion were the gamepad callouts and left bumper / right bumper's. These changes however take effect with or without SMX.
+ 
+ 
+ 
+ ================================

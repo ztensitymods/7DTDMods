@@ -1,14 +1,14 @@
 
- Ztensity's Functional Elevator - Version 1.0.0
- Redesigning Guppycur's Elevator for 19.3
+ Ztensity's Functional Elevator - Version 2.0.0
+ Guppycur Elevator Redesign for A20.3
  
  
  ABOUT THIS MOD
  =======
  
- Originally designed for Alpha 18 by Guppycur, the "Working Elevator" gets its next iteration for the latest build of 7 Days to Die. Similarly to the original mod, this elevator only moves from one floor to the next across roughly 2 flights, while also taking up 3 blocks width, 7 blocks high and 3 blocks deep (x,y,z).
+ Originally designed for Alpha 18 by Guppycur, the "Working Elevator" received its next iteration during A19.4. Similarly to the original mod, this elevator only moves from one floor to the next across roughly 2 flights, while also taking up 3 blocks width, 7 blocks high and 3 blocks deep (x,y,z).
  
- This iteration of the elevator contains the following tweaks & new features:
+ This iteration of the elevator contains the following tweaks & features:
  
  
  1. I fixed the starting state so that when placed it'll be in the closed position.
@@ -29,6 +29,8 @@
  
  9. I removed the prefab data from this modlet for simplicity.
  
+ 10. Adjusted code in sounds.xml for Alpha 20 compatibility.
+ 
  
  Coincidentally, adding the colliders and thinning out the elevator also makes it so the player does not have to worry too much about building right next to the elevator. All in all, these features and tweaks make for a more immersive experience that is more fun than ever.
  
@@ -41,9 +43,11 @@
  
  As detailed by Guppycur, the shaft requirements are actually 10 blocks high (including floor and ceiling), 5 blocks wide (1 and 5 are the left right walls) and 5 blocks deep (1 and 5 are the front/rear walls). Think about it like x,y,z. This will be made even easier if the elevator is just placed first and then you build around it.
  
- For building purposes, use the horizontal plates (concrete or otherwise) and select advanzed rotations. Then rotate the plate so it's against a block. Use these plates with standard sized 1x1x1 blocks to build the shaft for the elevator.
+ For building purposes, use the horizontal plates (concrete or otherwise) and select advanced rotations. Then rotate the plate so it's against a block. Use these plates with standard sized 1x1x1 blocks to build the shaft for the elevator.
  
- Finally, just as the original version, if a player is still using Alpha 17, Alpha 18 or earlier versions of Alpha 19, this should still be compatible with those versions. However, this modlet has been designed for compatibility with 7 Days to Die's latest stable, which is currently Alpha 19.3b6.
+ Finally, just as the original version, if a player is still using Alpha 17, Alpha 18 or earlier versions of Alpha 19, this should still be compatible with those versions. However, this modlet has been designed for compatibility with 7 Days to Die's latest stable, which was Alpha 19.3b6.
+ 
+ This elevator mod has been converned as compatible with Alpha 20.3.
  
  
  ================================
@@ -81,7 +85,7 @@
  =======
  
  All assets used come from a purchased package from Nifty Studios via Unity. On the other hand, a portion of the animations designed and layout of the elevators was put together by Guppycur when he originally bought the assets for A18.
- 
+
  Not only did I get permission to rework and re-release Guppycur's work on animations and the elevator layout from Guppycur himself, but I made sure to purchase those same assets again myself for rights to share this modlet on Nexus Mods, the Forums and the 7 Days to Die Mod Launcher.
  
  Original Mod Via 7 Days to Die Mods: https://7daystodiemods.com/working-elevator/

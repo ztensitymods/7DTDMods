@@ -2,140 +2,98 @@
  Official repository for Ztensity's 7 Days to Die Modlets
  ================================
  
- This repository includes all  mods that I have created. In this repository, you will find an assortment of different kinds of mods ranging from my renaming series, Unnecessarily Beautiful But Immersive and SMX UI Tweaks to recent mods like the Functional Elevator and Paintings & Posters.
+ This repository includes all  mods that I have created for A20. In this repository, you will find five different mods.
+ 
+ 
+ A19 mods left behind on Nexus:
+ =======
+ Ztensity's Wasteland Creature Renaming
+ Ztensity's Shotgun Messiah Mechs
+ Ztensity's Creature Renaming (Animal, Zombie, Human, Mechs - Xyth & Mumpfy)
+ Unnecessarily Beautiful But Immersive SMX Patch
+ Ztensity's SMX UI Tweaks
+ ZT-PP SMX
  
  
  ================================
  
  
- Ztensity's Creature Renaming Series
+ Ztensity's Vanilla Creature Renaming
  =======
  
- My earliest modlets focus on localizing names for various creatures around the world space of 7 Days to Die, which includes zombies, animals, humans and machines. I have patches for renaming vanilla creatures, Xyth's various creatures and Mumpfy's zombies.
+ Vanilla Creature Renaming is a renaming modlet that corrects vanilla creature names when using a health bar such as Sirillion’s SMX Series and it's optional Target Health Bar modlet, Khaine's HP Bars or KonradSB's Hit Bar Health Bar to name a few.
+ 
+ All animals, zombies and machines missed by The Fun Pimps were added. Some names are rewriting names for personal preference. Every creature in this mod renamed is in the vanilla gameplay. No additional modlet or mod overhaul is necessary. At the same time, this modlet should be compatible with any other modlet, modlet combination or mod overhaul of your choice.
  
  
  ================================
  
  
- Ztensity's Shotgun Messiah Mechs 1.3.2
+ Ztensity's Controller UI Tweaks
  =======
  
- Another renaming modlet is an add-on for Xyth's "Creature Pack Mechs" and does a lot more than just renaming. Not only does this modlet rename six mechs, but it also doubles the health for select bots, making them bosses. 
- 
- As one of the next iterations of what was previously titled "Creature Pack Mechs Renaming," Shoutgun Messiah Mechs seeks to establish new lore surrounding six mechs that were commissioned by the titan company, Shotgun Messiah months before the zombie apocalyse.
- 
- I will first plan to work on implementing a way to make all, some combination or very specific mechs to spawn at the Shotgun Messiah Factories and/or Shotgun Messiah shops (SGM Bee, Rogue Messiah Bot and maybe Messiah's Mecha Claw as examples). I will later begin implementing quests that would go well with the lore created for the mechs.
+ Controller UI Tweaks is inspired by SMX UI Tweaks, but now patches the vanilla UI by removing the LB and RB popups from the in-game menu hud that come up while using a controller and also removes the gamepad callouts from the in-game menu hud that also come up while using a controller.
  
  
  ================================
  
  
- Ztensity's Wasteland Creature Renaming 1.0.0
+ Ztensity's Functional Elevator
  =======
  
- "Wasteland Creature Renaming" is a renaming modlet that corrects creature names for humans and zombies added by Bdubyah's modlet "The Wasteland."
+ Originally designed for Alpha 18 by Guppycur, the "Working Elevator" received its next iteration during A19.4. Similarly to the original mod, this elevator only moves from one floor to the next across roughly 2 flights, while also taking up 3 blocks width, 7 blocks high and 3 blocks deep (x,y,z).
  
- After six different patches that renamed creatures from Vanilla and Xyth's Creature Pack series to Mumpfy's Zombie Pack, I am now releasing this next iteration in the series by request of swmeek. With the intent to continue increasing immersion when encountering different creatures in game, this patch is now publicly available! 
- 
- Modlets like these are useful, if not necessary for immersion when using a health bar such as Sirillion’s SMX Series and it's optional Target Health Bar modlet, Khaine's HP Bars or KonradSB's Hit Bar Health Bar. 
+ Many things have been changed and added to make this fully functioning and more immersive.
  
  
  ================================
  
  
- Unnecessarily Beautiful But Immersive 2.0.0 (Standard Version)
+ Ztensity's Paintings & Posters
  =======
  
- There are two UBBI modlets, with different versions of a rebuild of Hernan's Unnecessary But Beautiful mod, titled Unnecessarily Beautiful But Immersive. UBBI for short not only brings the mod up to date and reworks it, but overhauls it as well.
+ Paintings & Posters works off Snufkin's work on his mod "Paintings_Posters." With his permission, I have expanded this mod to have 50 items total between paintings and posters for either crafting purposes or purchasing puposes.
  
- With UBBI, every item, recipe and recipe description has been localized, including the on/off switch wording! Players now also have the ability to turn on/off lights, TVs, a PC, a laptop, a fireplace and a sound bar with a wire tool, as long as they have attained Intellect perk lvl 5 and Advanced Engineering lvl 3. Players can unlock lights early by finding the "Basics of Electricity Schematic" and they can now even utilize the garden bed, a small bed and a big bed as a bedroll.
- 
- With version 2.0.0, players can use kitchen appliances and take a hot shower for added benefits. Pre-existing items like closet pieces, bathroom items and more have been tweaked, while new doors, a chimney and a doorbell have also been added amongst other things!
- 
- Players can place UBBI in most load orders, as it's compatible with almost all modlets. As far as overhauls go, it is currently tested to be 100% compatible with Ravenhearst and War3zuk. Feel free to play with any overhaul or any combination of modlets, just know that as far as overhauls go, until I test it, I cannot give a personal guarantee of success.
+ To coincide with what's added, a quest is attached associated with finding seven books, which will teach players how to create these paintings and posters.
  
  
  ================================
  
  
- ZT-UBBI GMC 1.3.0 (Gnamod Compatibility Version) - Removed
+ Unnecessarily Beautiful But Immersive
  =======
  
- This compatibility has been removed due to recent updates and inability to keep up with compatibility versions of the mod.
+ Unnecessarily Beautiful But Immersive is a new edition of Hernan's Unnecessary But Beautiful mod that was originally released on December 19th, 2019. After multiple updates, this is the latest version with a collection of the best features yet!
  
  
- ================================
- 
- 
- ZT-UBBI WOTW 2.0.0 (War of the Walkers Compatibility Version) - Removed
- =======
- 
- The War of the Walkers version of UBBI has been removed, as it is now part of War of the Walkers.
- 
- 
- ================================
- 
- 
- ZTZ-UBBI SMX PATCH 1.0.0
- =======
- 
- With version 2.0.0 of Unnecessarily Beautiful But Immersive, new features were added with unique UI elements for the Campfire window for kitchen appliances. Because of this, I have released this standalone patch to make UBBI compatible with Sirillion's SMX UI Overhaul modlet.
- 
- 
- ================================
- 
- 
- ZT-SMX UI Tweaks 1.2.0
- =======
- 
- SMX UI Tweaks is a patch that removes the backsplash behind the inventory toolbelt hud element, removes the toolbelt numbers under the toolbelt, removes the compass backsplash, removes the SMX logo from the menu and from in-game and removes the hud time counter and backsplash behind the hud time counter in the game menus for better immersion while playing with Sirillion's fantastic UI overhaul series.
- 
- Version 1.2.0 Update: I have hidden the quest tracker from the in-game menu hud, so that it's not cluttered on-screen. Players will still be able to see their quest marker on-screen while not in the in-game menu hud (i.e. crafting, map, etc tabs).
- 
- 
- Optional Files
- =======
- 
- ZT-SMX Logo Removal - SMX Logo Removal                    (Requires Both SMXhud & SMXMenu)
- ZT-SMX CBS Removal  - Compass Backsplash Removal          (Requires Only SMXhud)
- ZT-SMX TBB Removal  - Toolbelt Backsplash Removal         (Requires Only SMXhud)
- ZT-SMX TBN Removal  - Toolbelt Numbers Removal            (Requires Only SMX)
- ZT-SMX HTR DFC      - Hud Time Counter Removal            (Requires Both SMXhud & SMXMenu)
- ZT-SMX GPC Removal  - Gamepad Controller Pop-Up Removal   (Requires Only SMXhud)
- ZT-SMX LBRB Removal - LB & RB Controller Pop-Up Removal   (Requires Only SMXhud)
- 
- SMX HTR DFC is designed for Darkness Falls, as Khaine has disabled the timer. However, if you wish to remove the timer in other playthroughs with Sirillion's "SMX," this may proof helpful.
- 
- SMX GPC, SMX LBRB and SMX TBN are three optional files that are optimal for controller players. While SMX TBN is specifically for SMX only, SMX LBRB and SMX GPC should be possible on vanilla playthroughs as well, as they both remove these UI elements regardless of an SMX install.
- 
- 
- ================================
- 
- 
- ZT-FunctionalElevator 1.0.0
- =======
- 
- Ztensity's Functional Elevator is a redesign of Guppycur's elevator back from Alpha's 17 and 18. Now, the elevator is tweaked with adjusted code, new features, new animations etc. for compatibility with 7 Days to Die's latest build A19 and increased immersion.
- 
- 
- ================================
- 
- 
- ZT-Paintings Posters 1.0.0
- =======
- 
- Ztensity's Paintings & Posters is a rework of Snufkin's Paintings_Posters, which originally had 20 posters, 20 paintings and the ability to find them at random across your travels. With his permission, I have made a new mod built off his work.
+ Crafting:
 
- This mod includes the ability to craft all paintings and posters once unlocked through 7 books, the ability to purchase books and select secret paintings from traders, in-depth localization for all paintings, posters and skill books, completely new icons for all paintings and posters, new icons for books, a UI icon for the book skill and a slight redesign of all paintings and posters for streamlining purposes. 
- 
- 
- ================================
- 
- 
- ZT-PP SMX 1.0.0
- =======
- 
- Ztensity's Paintings & Posters SMX is a patch for players wanting to use Sirillion's SMX UI overhaul series, as it adjusts an icon for immersion and better compatibility.
+ All items from UBBI can be crafted at a workbench. To craft any lights, players must first have their Intellect perk at lvl six and their Advanced Engineering perk at lvl three. Alternatively, players can find the "Basics of Electricity Schematic" at a trader or in the world to unlock the lights early.
+
+ Players can use the wrench line of tools to receive additional resources when destroying most of the items, while also receiving a small number of resources back when using just fists and/or weapons to destroy them instead.
+
+ Players can repair items crafted by using specific sources from cloth fragments, wood and glass blocks to forged iron, concrete mix and leather.
+
+
+ Lights & Technology:
+
+ All lights, TVs, a PC, laptop, fireplace, sound bar, doorbell and shower head must be turned on by using a wire tool.
+
+ The shower head is usable with water visuals and sound effects. To increase immersion and add usefulness to it, the shower provides up to 30 minutes of increased benefits, which include increased stamina regeneration, increased
+ running speed and cold resistance.
+
+ The doorbell and sound bar have specific sounds, which may alert zombies and other players in multiplayer nearby.
+
+
+ Miscellaneous Additions:
+
+ The garden bed, small bed and big bed can be used as a bedroll.
+
+ There is a single closet door and a secret closet door that takes up one block for people playing with one block crouch.
+
+ Inspired by the POI version of the vanilla chimney, a new altered Chimney can be placed with new chimney effects that emits smoke more realistically.
+
+ Storage options are now a feature attached to almost all cabinets, select bathroom items and others like a fridge.
  
  
  ================================

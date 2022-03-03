@@ -1,6 +1,8 @@
 <ZTsoundsElevator name="sounds.xml">
 	
-	<insertAfter xpath="/Sounds/SoundDataNode[@name='open_door_wood']">
+	<insertAfter xpath="/Sounds/SoundDataNode[@name='gyrocopter_empty']">
+	
+		<!-- Elevator Open & Close Sounds -->
 		
 		<SoundDataNode name="open_door_elevator">
 			<AudioSource name="Sounds/AudioSource_Interact"/>

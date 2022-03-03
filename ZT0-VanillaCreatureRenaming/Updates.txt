@@ -1,7 +1,7 @@
 
- Vanilla Creature Renaming - Version 1.2.1
- Select A19.3 Patches That Rename Zombies, Animals, Machines & More!
- Updates Log 1.2.1
+ Vanilla Creature Renaming - Version 2.0.0
+ Select A20.3 Patches That Rename Zombies, Animals, Machines & More!
+ Updates Log 2.0.0
  
  
  ================================
@@ -29,6 +29,44 @@
  ======
  
  Adjusted text from A19.2b4 or 19.2b4 to 19.3.
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - v2.0.0 -
+ ==============
+ 
+ ADDITIONS AND REMOVALS:
+ ======
+ 
+ I have removed the following from the localization since they are now properly named in Alpha 20, have better names or are simply no longer in the game:
+ 
+ animalMountainLion,entityclasses,Entity,New,Mountain Lion
+ animalCoyote,entityclasses,Entity,New,Coyote
+ animalWolf,entityclasses,Entity,New,Wolf
+ animalDireWolf,entityclasses,Entity,New,Dire Wolf
+ animalSnake,entityclasses,Entity,New,Snake
+ animalZombieVultureRadiated,entityclasses,Entity,New,Radiated Vulture
+ zombieJanitorFeral,entityclasses,Entity,New,Feral Janitor
+ zombieJanitorRadiated,entityclasses,Entity,New,Radiated Janitor
+ zombieBikerFeral,entityclasses,Entity,New,Feral Biker
+ zombieBikerRadiated,entityclasses,Entity,New,Radiated Biker
+ zombieCheerleader,entityclasses,Entity,New,Infected Cheerleader
+ zombieCheerleaderFeral,entityclasses,Entity,New,Feral Cheerleader
+ zombieCheerleaderRadiated,entityclasses,Entity,New,Radiated Cheerleader
+ zombieFemaleFatRadiated,entityclasses,Entity,New,Radiated Hungry Zombie
+ zombieOldTimerRadiated,entityclasses,Entity,New,Radiated Zombie Cowboy
+ zombieScreamerRadiated,entityclasses,Entity,New,Radiated Screamer
+ zombieSpider,entityclasses,Entity,New,Radiated Spider Zombie
+ zombieWightRadiated,entityclasses,Entity,New,Radiated Wight
+ legendaryZombieLab,entityclasses,Entity,New,Legendary Lab Assistant
+ legendaryZombieBusinessMan,entityclasses,Entity,New,Legendary Business Man
+ legendaryZombieUtilityWorker,entityclasses,Entity,New,Legendary Utility Worker
+ 
+ I have added new localizations for zombies that were either added in Alpha 20 or missed in previous iterations of the mod.
  
  
  

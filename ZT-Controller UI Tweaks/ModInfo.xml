@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<ModInfo>
+		<Name value="ZT-Controller UI Tweaks" />
+		<Description value="Removes LBRB popups and gamepad callouts from the in-game hud while using a controller." />
+		<!-- Full Description: Controller UI Tweaks is inspired by SMX UI Tweaks, but now patches the vanilla UI by removing the LB and RB popups from the in-game menu hud that come up while using a controller and also removes the gamepad callouts from the in-game menu hud that also come up while using a controller.-->
+		<Author value="Ztensity" />
+		<Version value="1.0.0" compat="A20.3" />
+	</ModInfo>
+</xml>

@@ -1,3 +1,0 @@
-key,source,context,changes,english
-
-buffElementHotShowerWetDesc,buffs,Buff,,"Normally under the rain, you get colder, but since you've taken a hot shower, you receive some unexpected benefits.\n\nStamina Regeneration: [DDCEA3]+{cvar(.StaminaRegeneration:0.0)}%[-]\n\nRunning Speed: [DDCEA3]+{cvar(.RunSpeed:0.0)}%[-]\n\nCold Resist: [DDCEA3]+{cvar(.ColdResistance:0.0)}[-]"

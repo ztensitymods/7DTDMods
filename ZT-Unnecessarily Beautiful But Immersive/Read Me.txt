@@ -1,26 +1,13 @@
 
- Unnecessarily Beautiful But Immersive - Version 2.0.0
- The Unnecessary But Beautiful 19.3 Rebuild
+ Unnecessarily Beautiful But Immersive - Version 3.0.0
+ The Unnecessary But Beautiful 20.3 Rebuild
  
  
  - !!URGENT!! -
  
- This version of UBBI's 2.0.0 update is designed only for the vanilla version of 7 Days to Die. Meaning if you have SMX UI or another mod that alters the campfire UI winodow and xui, this modlet will conflict, as the added appliances tweak this part of the UI.
+ Since this update is designed for Alpha 20.3 compatibility, a new game is recommended for players using the old version of UBBI. If this is your first time playing with UBBI, you should be able to seamlessly install this mod into your game's mod folder.
  
- Before loading up UBBI 2.0.0 in a current save, all following items should be destroyed and removed from your inventory or chests prior to loading up your save with this version to make for a smoother transition:
- 
- - Stove
- - Oven
- - Cooktop
- - Toaster
- - Coffee Maker
- - Microwave
- - Shower Head
- - Shower Glass Mirrors
- - Shower Sliding Glass Doors
- - Toilet Paper
- - Bathroom Towel
- - Closet Pieces
+ Testing with overhauls has not been made and will not be. Using UBBI with an overhaul is at your discretion.
  
  - !!URGENT!! -
  
@@ -50,28 +37,31 @@
  
  For Unnecessarily Beautiful But Immersive's 2.0.0 update, I have added the following:
  
- 7. There are now six workable kitchen appliances that work similarly to a campfire. These items are updated from previously static items from UBBI. Now, you can use the Stove, Oven, Cooktop, Toaster, Coffee Maker and Microwave with slightly unique sounds, fuel requirements and even a new tool requirement for the toaster!
+ 7. I have made the shower head usable with water visual and sound effects. To increase immersion and add usefulness to it, I also provided up to 30 minutes of increased benefits, which include inscreased stamina regeneration, icnreased running speed and cold resistance.
  
- 8. I have created a new tool that can be used in the toaster. The tool in question is a blue tinted spring called a "Shamway Cooking Spring." This tool will allow players to craft the Tuna Fish Gravy Toast at the toaster once the appropriate skills have been met and schematic has been read. This tool can be found in a variety of loot places, however the Shamway related containers will hold it the most.
+ 8. To improve shower room aesthetics, I have replaced the towel, made the toilet paper piece to be closer to the edge for aesthetics with a toilet, created an alternate toilet paper piece to be closer to the opposite side (left), redesigned the bathroom mirrors and bathroom double doors and created a new bathroom single door as well.
  
- 9. To increase immersion even further, I have put into place the ability to use electronic parts, electric parts and car batteries as a power source with the electronic campfire like appliances. Furthermore, while all items can still be crafted at a campfire, these alternate appliances will look more aesthetic, while allowing players to craft select foods depending on the device.
+ 9. I have reworked the closet pieces slightly, created a single closet door and created a secret closet door that takes up one block for people playing with one block crouch.
  
- 10. Similarly to War of the Walkers, I have added the Electronic Components back to the game via not only to the creative menu, but also to the loot list for vehicles, so you should be able to attain these parts as an alternative power source to the kitchen appliances for use to craft foods.
+ 10. Inspired by the POI version of the vanilla chimney, I have brought to life a more immersive version of the Chimney with new chimney effects that emit more realistically.
  
- 11. I have made the shower head usable with water visual and sound effects. To increase immersion and add usefulness to it, I also provided up to 30 minutes of increased benefits, which include inscreased stamina regeneration, icnreased running speed and cold resistance.
- 
- 12. To improve shower room aesthetics, I have replaced the towel, made the toilet paper piece to be closer to the edge for aesthetics with a toilet, created an alternate toilet paper piece to be closer to the opposite side (left), redesigned the bathroom mirrors and bathroom double doors and created a new bathroom single door as well.
- 
- 13. I have reworked the closet pieces slightly, created a single closet door and created a secret closet door that takes up one block for people playing with one block crouch.
- 
- 14. Inspired by the POI version of the vanilla chimney, I have brought to life a more immersive version of the Chimney with new chimney effects that emit more realistically.
- 
- 15. I have added a working doorbell that can not only be used as aesthetics, but it can be used as a way to alarm a player you're entering their build and it will hopefully alarm zombies to some extent as well.
+ 11. I have added a working doorbell that can not only be used as aesthetics, but it can be used as a way to alarm a player you're entering their build and it will hopefully alarm zombies to some extent as well.
  
  
  I have made the lights an unlockable buildable to make it challenging and rewarding. However, at the same time, vanilla lights require the same skill level before being able to craft. Therefore, this increases immersion further and was a sensible addition to the mod. To add to this as a sort of balancing act, if a player is lucky enough to find a certain schematic, they can also unlock all lights early as well, just like their Vanilla light counterparts.
  
  In order to make recipes work in 19.3, I changed - craft_area="tablesaw" to craft_area="workbench" - for each recipe. This was provided in the comments section of Hernan's original upload on Nexus, but with the amount of people asking about how to make it work, making it part of the modlet as a whole and streamlining it in this version seemed the most logical. This effectively makes recipes function as expected.
+ 
+ 
+ For Unnecessarily Beautiful But Immersive's 3.0.0 update, I have made the following changes:
+ 
+ 12. UI elements have been removed. This will allow for quicker updates in the future and better compatibility with overhauls and UI modlets such as the widely popular and personally supported SMX series. I have stripped the Stove, Oven, Cooktop, Toaster, Coffe Maker and Microwave to being purely aesthetic now.
+ 
+ 13. I have removed sound files, UI images and other select Unity files to clean ths mod, as they were no longer needed. I have also adjusted blocks.xml, items.xml, localization.txt and recipes.xml per these changes. I made sure to remove the loot.xml as well, as that is no longer needed.
+ 
+ 14. I completely removed electronic components and the "Shamway Cooking Spring." These were only in the game for the working appliances. Simultaneously, I have removed the ability to use car batteries, electric parts and electronic components as fuel sources in the same vain.
+ 
+ 15. I have enabled storage options for all items that makes sense, such as cabinets, bathroom items and others.
  
  
  TIPS
@@ -211,7 +201,9 @@
  
  With version 2.0.0, I have added an xui.xml, windows.xml, buffs.xml, loot.xml and a ui_display.xml file to make all new features a reality. Further, I also added a variety of lines to blocks.xml, items.xml and sounds.xml as well.
  
- Finally, I have made sure that there are no yellow line errors, red line errors or any other issues associated with this mod.
+ With version 3.0.0, I have removed the xui.xml, windows.xml, loot.xml and ui_display.xml, since I remove the functionality and UI of kitchen appliances. I also adjusted a variety of code per these changes to make the mod more compatibile with UI mods, potential overhauls and allowing for quicker updates as needed. Please refer to the Updates file for more context and more information as for what was removed.
+ 
+ Most importantly, I have made sure that UBBI is compatible with Alpha 20.3.
  
  
  ================================
@@ -281,6 +273,11 @@
  RazorEye: Thank you for your suggestion to add bedrolls as a feature to the mod. I went ahead and through the feature onto the garden bed for a little bit of fun, but thanks to you and your suggestion, this mod is now additionally more immersive than ever!
  
  BeardMan: With the help of modder Beardman, lights can now be unlocked before hitting the appropriate perks if you are lucky enough to find the "basics of electricity schematic" either through the trader or out in the world on your travels. Beardman designed the xpath which allowed for this schematic to become unlockable. With his help, I also realized that by putting various lights under master blocks it created a loophole, which allowed for select lights to still be crafted despite not having the correct perks assigned. I resolved this by removing lights from different recipe blocks and only having them under one recipe block ("HN Lights" or "Lights").
+ 
+ K1NGER1988: Thank you for providing the xml code for blocks.xml. To enable appropriate storage for a variety of containers, he provided me with the following: 
+ change <property name="lootList" value="6" /> to <property name="LootList" value="poiStorageBox" />
+ 
+ Ozmods: Thank you for providing me even more context for container storage information. Specifically, it was very helpful to know the differences between "cupboard," "playerstorage" and "storageCrate." I'll provide your specific notes in the Notes file.
  
  - Ztensity - 
  

@@ -1,6 +1,6 @@
 
- Ztensity's Paintings & Posters - Version 1.1.0
- Reworking Snufkin's Paintings & Posters 19.4
+ Ztensity's Paintings & Posters - Version 2.0.0
+ Reworking Snufkin's Paintings & Posters 20.3
  Credits
  
  ================================

@@ -4,8 +4,8 @@
 		<Name value="ZT-FunctionalElevator" />
 		<!-- Modlet's original files come from purchased assets via Nifty Studios on Unity. -->
 		<!-- A certain portion of the animations and general format of Elevator come from Guppycur's original modlet titled Guppycur's Elevator -->
-		<Description value="Redesinged elevator with added recipes, tweaked animations and more." />
+		<Description value="Redesigned elevator with added recipes, tweaked animations and more." />
 		<Author value="Ztensity" />
-		<Version value="2.0.0" compat="A19.3"/>
+		<Version value="2.0.0" compat="A20.3"/>
 	</ModInfo>
 </xml>

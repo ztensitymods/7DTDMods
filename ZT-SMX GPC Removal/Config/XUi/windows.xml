@@ -1,5 +1,0 @@
-<ZTwindowsTweaks name="windows.xml">
-	
-	<set xpath="/windows/window[@name='GamepadCallouts']/@pos">-200,-175 </set>
-	
-</ZTwindowsTweaks>

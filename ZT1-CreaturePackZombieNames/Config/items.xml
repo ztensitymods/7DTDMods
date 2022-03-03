@@ -1,9 +1,0 @@
-<ZTcpzItemsPatches name="items.xml">
-
-	<set xpath="/items/item[@name='ZombieW7WalkStyle0Schematic']/property[@name='CreativeMode']/@value">Dev </set>
-	
-	<set xpath="/items/item[@name='ZombieW7WalkStyle0blend1Schematic']/property[@name='CreativeMode']/@value">Dev </set>
-	
-	<set xpath="/items/item[@name='ZombieW7WalkStyle1Schematic']/property[@name='CreativeMode']/@value">Dev </set>
-
-</ZTcpzItemsPatches>

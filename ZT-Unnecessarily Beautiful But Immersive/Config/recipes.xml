@@ -84,7 +84,4 @@
 
 	</append>
 	
-	<set xpath="/recipes/recipe[@name='foodTunaFishGravyToast']/@craft_tool">toolCookingSpring</set>
-	<!-- foodTunaFishGravyToast,items,Food,,,Tuna Fish Gravy Toast -->
-	
 </ZTrecipesUBBI>

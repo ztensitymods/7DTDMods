@@ -1,0 +1,45 @@
+ 
+ Ztensity's Controller UI Tweaks - Version 1.0.0
+ Gamepad Callouts Removal & LBRB Removal
+ Build 20.3 Compatible
+ 
+ 
+ ================================
+ 
+ 
+ ABOUT THIS MOD
+ =======
+ 
+ After playing with Sirillion's SMX series in my own playthroughs, while also showcasing the UI overhaul alongside my own modlets like previous mods such as the Creature Renaming series, Shotgun Messiah Mechs and Unnecessarily Beautiful But Immersive, I had decided to put together a patch for SMX during A19.
+
+ If you had used SMX like me, you knew that Sirillion had done a powerful job of overhauling and converting the Hud, Menu and general UI of 7 Days to Die to feel truly fresh and almost like a different game, especially when paired with other modlets like Custom Perks﻿ by Zuzul0l.
+
+ Now, Sirillion's SMX for Alpha 20 takes all the best things from Alpha 19's version of SMX and makes everything that much better. Much of what the SMX UI Tweaks were, are now no longer needed. The only things that were left to remove were the left and right bumper popups and the gamepad callouts from the in-game menu while using a controller.
+ 
+ While this mod no longer relies on SMX, as it can be used in vanilla only, it will also help increase immersion while using SMX. This is now purely a vanilla UI set of patches.
+ 
+ 
+ ================================
+ 
+ 
+ SHOUTOUTS
+ =======
+ 
+ 
+ Alloc: I want to say thank you for helping me understand which missing tokens or tokens were incorrect throughout XPATH. Not only this, but you helped me sort out the code, to make sure I included the correct nodes/elements so that in order to remove the hud elements, I was pathing incorrectly for a while.
+ 
+ Sphereii: Thank you for also helping point out some incorrect/missing tokens. Without your assistance, I wouldn't have had the breakthrough I did on-top of all the help Alloc gave me to make it all work.
+ 
+ 
+ Ssyl: I want to say thank you for inspiring me to create this optional modlet. You released your modlet titled "Move Gamepad Button Icons" and it reminded me that I truly didn't like those callouts from appearing at all.
+ 
+ Find Ssyl's Modlet Here: https://www.nexusmods.com/7daystodie/mods/1274
+ 
+ 
+ Haidr'Gna, Sirillion, Guppy & Saminal: Thank you guys for helping me figure out the code to make this work alongside reassuring me that simply hiding the popups by putting this off screen is sufficient enough.
+ 
+ 
+ - Ztensity -
+ 
+ 
+ ================================

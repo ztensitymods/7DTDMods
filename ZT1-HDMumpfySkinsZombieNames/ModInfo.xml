@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xml>
-  <ModInfo>
-    <Name value="ZT1-HDMumpfySkinsZombieNames" />
-    <Description value="Renaming patch that provides names to zombies added by Mumpfy's 'Zombie Pack.'" />
-    <Author value="Ztensity" />
-    <Version value="1.2.0" compat="A19.3" />
-  </ModInfo>
-</xml>

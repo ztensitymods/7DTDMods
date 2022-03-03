@@ -1,6 +1,6 @@
 
- Ztensity's Functional Elevator - Version 1.0.0
- Redesigning Guppycur's Elevator for 19.3
+ Ztensity's Functional Elevator - Version 2.0.0
+ Guppycur Elevator Redesign for A20.3
  Credits
  
  ================================

@@ -1,7 +1,7 @@
 
- Unnecessarily Beautiful But Immersive - Version 2.0.0
- The Unnecessary But Beautiful 19.3 Rebuild
- Updates Log 2.0.0
+ Unnecessarily Beautiful But Immersive - Version 3.0.0
+ The Unnecessary But Beautiful 20.3 Rebuild
+ Updates Log 3.0.0
  
  
  ================================
@@ -314,6 +314,38 @@
  Inspired by the POI version of the vanilla chimney, I have brought to life a more immersive version of the Chimney with new chimney effects that emit more realistically.
  
  I have added a working doorbell that can not only be used as aesthetics, but it can be used as a way to alarm a player you're entering their build and it will hopefully alarm zombies to some extent as well.
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ - UPDATE 3.0.0 -
+ ==============
+ 
+ INSTALL/UPDATE REQUIREMENTS:
+ ======
+ 
+ Since this update is designed for Alpha 20.3 compatibility, a new game is recommended for players using the old version of UBBI. If this is your first time playing with UBBI, you should be able to seemlessly install this mod into your game's mod folder.
+ 
+ Testing with overhauls has not been made and will not be. Using UBBI with an overhaul is at your discretion.
+ 
+ 
+ WHAT'S REMOVED:
+ ======
+ 
+ UI elements have been removed. This will allow for quicker updates in the future and better compatibility with overhauls and UI modlets such as the widely popular and personally supported SMX series. I have stripped the Stove, Oven, Cooktop, Toaster, Coffe Maker and Microwave to being purely aesthetic now.
+ 
+ I have removed sound files, UI images and other select Unity files to clean ths mod, as they were no longer needed. I have also adjusted blocks.xml, items.xml, localization.txt and recipes.xml per these changes. I made sure to remove the loot.xml as well, as that is no longer needed.
+ 
+ I completely removed electronic components and the "Shamway Cooking Spring." These were only in the game for the working appliances. Simultaneously, I have removed the ability to use car batteries, electric parts and electronic components as fuel sources in the same vain.
+ 
+ 
+ WHAT'S ADDED:
+ ======
+ 
+ I have enabled storage options for all items that makes sense, such as cabinets, bathroom items and others. This was accomplished by changing one line in blocks.xml for each item and adding an additional line as needed.
  
  
  

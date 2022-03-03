@@ -1,7 +1,7 @@
 
- Unnecessarily Beautiful But Immersive - Version 2.0.0
- The Unnecessary But Beautiful 19.3 Rebuild
- Notes Log 2.0.0
+ Unnecessarily Beautiful But Immersive - Version 3.0.0
+ The Unnecessary But Beautiful 20.3 Rebuild
+ Notes Log 3.0.0
  
  
  ================================
@@ -447,6 +447,36 @@
 			<drop event="Fall" name="resourceNail" count="5" prob="0.20" stick_chance="0" />
 			<drop event="Fall" name="resourceLeather" count="4" prob="0.20" stick_chance="0" />
 		</block>
+ 
+ 
+ 
+ ================================
+ 
+ 
+ 
+ INFO FOR ENABLING STORAGE
+ ==============
+ 
+ 
+	K1NGER1988 NOTES
+	=======
+	
+	If you want to adjust the current storage/container blocks all you need to do is go into blocks.xml and look for <property name="LootList" value="6" /> and change the 6 to poiStorageBox and it should show storage options.
+	You can also replace with <property name="LootList" value="playerStorage"/> which will give you a lot more slots, but a bit overkill.
+	
+	OZMODS NOTES
+	=======
+	
+	If you want to get them to work, go into the Blocks.xml and find the cabinets; change the LootList on each to a different value.
+
+	I did;
+
+	"<property name="LootList" value="17" />     to     <property name="LootList" value="cupboard" />   
+
+
+	This gives the cabinets/sinks/other blocks that you give that LootList value the ability to open/close. I went with cupboard as the value as it gives them 18 slots. If you'd prefer a larger number of slots, you could use "playerStorage" for 48 slot, or even "storageCrate" for 72 slots. 
+
+	The reason they broke in A20 is because the developers moved away from using numbers as IDs for loot containers
  
  
  

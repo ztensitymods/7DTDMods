@@ -1,49 +1,52 @@
 Key,File,Type,Changes,english
+
 junkTurretSledge,entityclasses,Entity,New,Sledge Turret
 junkTurretGun,entityclasses,Entity,New,Turret
-animalMountainLion,entityclasses,Entity,New,Mountain Lion
+
 animalZombieDog,entityclasses,Entity,New,Infected Dog
-animalCoyote,entityclasses,Entity,New,Coyote
-animalWolf,entityclasses,Entity,New,Wolf
-animalDireWolf,entityclasses,Entity,New,Dire Wolf
-animalSnake,entityclasses,Entity,New,Snake
 animalBear,entityclasses,Entity,New,Wild Bear
 animalZombieBear,entityclasses,Entity,New,Infected Bear
 animalBoar,entityclasses,Entity,New,Wild Boar
 animalBossGrace,entityclasses,Entity,New,Radiated Boar
 animalZombieVulture,entityclasses,Entity,New,Infected Vulture
-animalZombieVultureRadiated,entityclasses,Entity,New,Radiated Vulture
+
 zombieJanitor,entityclasses,Entity,New,Infected Janitor
-zombieJanitorFeral,entityclasses,Entity,New,Feral Janitor
-zombieJanitorRadiated,entityclasses,Entity,New,Radiated Janitor
+zombieArlene,entityclasses,Entity,New,Putrid Girl
+zombieArleneFeral,entityclasses,Entity,New,Feral Putrid Girl
 zombieArleneRadiated,entityclasses,Entity,New,Radiated Putrid Girl
 zombieBiker,entityclasses,Entity,New,Infected Biker
-zombieBikerFeral,entityclasses,Entity,New,Feral Biker
-zombieBikerRadiated,entityclasses,Entity,New,Radiated Biker
-zombieSkateboarder,entityclasses,Entity,New,Infected Skater Punk
-zombieSkateboarderFeral,entityclasses,Entity,New,Feral Skater
+zombieSkateboarder,entityclasses,Entity,New,Infected Punk
+zombieSkateboarderFeral,entityclasses,Entity,New,Feral Punk
 zombieSkateboarderRadiated,entityclasses,Entity,New,Radiated Punk
+zombieBoe,entityclasses,Entity,New,Infected Survivor
+zombieBoeFeral,entityclasses,Entity,New,Feral Infected Survivor
 zombieBoeRadiated,entityclasses,Entity,New,Radiated Infected Survivor
-zombieCheerleader,entityclasses,Entity,New,Infected Cheerleader
-zombieCheerleaderFeral,entityclasses,Entity,New,Feral Cheerleader
-zombieCheerleaderRadiated,entityclasses,Entity,New,Radiated Cheerleader
-zombieDarleneRadiated,entityclasses,Entity,New,Radiated Decayed Mother
-zombieFemaleFatRadiated,entityclasses,Entity,New,Radiated Hungry Zombie
+zombieDarlene,entityclasses,Entity,New,Decayed Mother
+zombieDarleneFeral,entityclasses,Entity,New,Decayed Feral Mother
+zombieDarleneRadiated,entityclasses,Entity,New,Decaying Radiated Mother
+zombieJoe,entityclasses,Entity,New,Cadaver
+zombieJoeFeral,entityclasses,Entity,New,Feral Cadaver
 zombieJoeRadiated,entityclasses,Entity,New,Radiated Cadaver
-zombieMarleneRadiated,entityclasses,Entity,New,Radiated Woman
-zombieMoeRadiated,entityclasses,Entity,New,Radiated Bloated Walker
-zombieOldTimerRadiated,entityclasses,Entity,New,Radiated Zombie Cowboy
-zombieScreamerRadiated,entityclasses,Entity,New,Radiated Screamer
-zombieSoldierRadiated,entityclasses,Entity,New,Radiated Soldier
-zombieSpiderRadiated,entityclasses,Entity,New,Radiated Spider Zombie
+zombieMarlene,entityclasses,Entity,New,Infected Woman
+zombieMarleneFeral,entityclasses,Entity,New,Infected Feral Woman
+zombieMarleneRadiated,entityclasses,Entity,New,Radiated Infected Woman
+zombieMoe,entityclasses,Entity,New,Bloated Walker
+zombieMoeFeral,entityclasses,Entity,New,Feral Walker
+zombieMoeRadiated,entityclasses,Entity,New,Radiated Walker
+zombieSoldier,entityclasses,Entity,New,Infected Soldier
 zombieUtilityWorker,entityclasses,Entity,New,Infected Utility Worker
 zombieUtilityWorkerFeral,entityclasses,Entity,New,Feral Utility Worker
+zombieUtilityWorkerRadiated,entityclasses,Entity,New,Radiated Utility Worker
+zombieYo,entityclasses,Entity,New,Infected Carcass
+zombieYoFeral,entityclasses,Entity,New,Feral Carcass
 zombieYoRadiated,entityclasses,Entity,New,Radiated Carcass
-zombieDemolition,entityclasses,Entity,New,The Demolition Man
-zombieWightRadiated,entityclasses,Entity,New,Radiated Wight
+zombieDemolition,entityclasses,Entity,New,Demolition Expert
 zombieLab,entityclasses,Entity,New,Infected Lab Assistant
 zombieLabFeral,entityclasses,Entity,New,Feral Lab Assistant
 zombieLabRadiated,entityclasses,Entity,New,Radiated Lab Assistant
-legendaryZombieLab,entityclasses,Entity,New,Legendary Lab Assistant
-legendaryZombieBusinessMan,entityclasses,Entity,New,Legendary Business Man
-legendaryZombieUtilityWorker,entityclasses,Entity,New,Legendary Utility Worker
+zombieNurse,entityclasses,Entity,New,Infected Nurse
+zombieBusinessMan,entityclasses,Entity,New,Infected Businessman
+zombieBusinessMan,entityclasses,Entity,New,Infected Lumberjack
+zombieFatHawaiian,entityclasses,Entity,New,Infected Tourist
+zombieMaleHazmat,entityclasses,Entity,New,Infected Hazmat
+zombieFatCop,entityclasses,Entity,New,Infected Cop
